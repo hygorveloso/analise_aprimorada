@@ -1,0 +1,411 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00121711/2025",
+    "protocolo": "02/06/2025 11:32",
+    "origem": "SMA/SAC/PRO/CENTRAL - Gerência de Atendimento da Unidade Central",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "578.640.120-00",
+    "nome": "LEILA CRISTINA WERLE"
+  },
+  "requerente": {
+    "cpf": "578.640.120-00",
+    "nome": "LEILA CRISTINA WERLE"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "32.17.046.1077.001.510",
+      "cod_imovel": "111305",
+      "logradouro": "Servidão Tomaz João Damázio, 408, Lote 12B — São João do Rio Vermelho (casa)"
+    },
+    {
+      "inscricao": "32.17.046.1077.002.320",
+      "cod_imovel": "111306",
+      "logradouro": "Servidão Tomaz João Damázio, 408, Lote 12B — São João do Rio Vermelho (edícula)"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder (balcão da Unidade Central)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NI] V2 (central); campo RG repete o CPF",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "Carteira de identidade da requerente (frente e verso)",
+      "paginas": 2,
+      "imagem": true
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Pacote do balcão: Declaração em branco/rascunho (versões em 6 páginas) e duas certidões cadastrais de 02/06/2025 (titular Lucimar Nicácio de Souza)",
+      "paginas": 10,
+      "imagem": true
+    },
+    {
+      "n": 5,
+      "nome": "5_parecer_da_análise_de_admissão.pdf",
+      "conteudo": "Parecer de admissão (mutirão)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 6,
+      "nome": "6_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior: exigências (campo VIII, comprovante de residência, aditivo da metragem 4.511,25 m² x 450,30 m²)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_anexo_pendente.pdf",
+      "conteudo": "Fotos do pacote anterior: Declaração, certidões cadastrais e contrato (cópia do conteúdo dos arquivos 4 e 12)",
+      "paginas": 9,
+      "imagem": true
+    },
+    {
+      "n": 8,
+      "nome": "8_criação_da_tarefa.pdf",
+      "conteudo": "Tarefa de 21/08/2026: requerente anexou documentos faltantes",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 9,
+      "nome": "9_finalização_da_tarefa.pdf",
+      "conteudo": "Finalização de 25/08/2026 (juntada)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 10,
+      "nome": "10_declaração_para_alteração_de_titularidade_sem_matrícula.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (V2 de 31/05/2023), preenchida à mão e assinada em 21/08/2026",
+      "paginas": 3,
+      "imagem": true
+    },
+    {
+      "n": 11,
+      "nome": "11_comprovante_de_residência.pdf",
+      "conteudo": "Conta de energia 08/2026 em nome da requerente (bloco 6, fora do escopo)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 12,
+      "nome": "12_contrato_de_compra_e_venda.pdf",
+      "conteudo": "Contrato particular de cessão de direitos de posse e benfeitorias (11/05/2023), 4 páginas, firmas reconhecidas por autenticidade",
+      "paginas": 4,
+      "imagem": true
+    },
+    {
+      "n": 13,
+      "nome": "13_termo_aditivo_de_contrato_de_compra_e_venda.pdf",
+      "conteudo": "Termo aditivo (21/08/2026) corrigindo a metragem, assinado só pela adquirente com gov.br",
+      "paginas": 1,
+      "imagem": true
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "LEOPOLDO DA SILVA FILHO",
+      "cpf": "543.697.389-20",
+      "assinatura": "firma reconhecida por autenticidade (11/05/2023)"
+    },
+    {
+      "papel": "vendedor",
+      "nome": "LUCIMAR NICÁCIO DE SOUZA",
+      "cpf": "573.457.759-68",
+      "assinatura": "firma reconhecida por autenticidade (11/05/2023)"
+    },
+    {
+      "papel": "comprador",
+      "nome": "LEILA CRISTINA WERLE",
+      "cpf": "578.640.120-00",
+      "assinatura": "firma reconhecida por autenticidade (11/05/2023)"
+    },
+    {
+      "papel": "testemunha",
+      "nome": "FERNANDA NICÁCIO DE SOUZA",
+      "cpf": "040.656.049-82",
+      "assinatura": "manuscrita, sem reconhecimento (sobrenome e CPF com leitura parcial)"
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "LEILA CRISTINA WERLE",
+        "cpf": "578.640.120-00"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "LUCIMAR NICÁCIO DE SOUZA",
+        "cpf": "543.697.389-20"
+      }
+    ],
+    "data_posse": "11/03/2023",
+    "data_escrita": "21/08/2026",
+    "assinatura": "manuscrita"
+  },
+  "titulares_betha": [
+    {
+      "nome": "LUCIMAR NICÁCIO DE SOUZA",
+      "cpf": "573.457.759-68",
+      "participacao": "",
+      "fonte": "Certidões cadastrais de 02/06/2025 (arquivo 4) das duas inscrições; confirmar no Betha",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [
+    {
+      "data": "11/03/2023",
+      "transmitente": {
+        "nome": "LUCIMAR NICÁCIO DE SOUZA",
+        "cpf": "543.697.389-20"
+      },
+      "adquirente": {
+        "nome": "LEILA CRISTINA WERLE",
+        "cpf": "578.640.120-00"
+      }
+    }
+  ],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário [3NI] V2 (central/balcão). O campo RG do formulário traz o número do CPF (57864012000), e não o RG 7.048.276.",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Interessado = solicitante = requerente. O nome no rodapé da Folha Líder (Jonas Batista Vieira) é do atendente do balcão.",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 3_rg p.1–2",
+      "obs": "CPF 578.640.120-00 válido e igual ao do documento de identidade (RG 7.048.276 SSP/SC).",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "Duas inscrições: 32.17.046.1077.001.510 e 32.17.046.1077.002.320, Tomaz João Damázio, 408.",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "na",
+      "evidencia": "2_formulário p.1",
+      "obs": "Solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.1",
+      "obs": "Adquirente Leila Cristina Werle, CPF válido seguido do RG, telefone, e-mail e endereço, preenchidos à mão.",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "sinalizado",
+      "evidencia": "10_declaração p.1",
+      "obs": "Nenhuma das opções \"Sim\" ou \"Não\" está marcada.",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "na",
+      "evidencia": "10_declaração p.1",
+      "obs": "Em branco; sem representação.",
+      "pendencia": ""
+    },
+    "1B.III": {
+      "resultado": "pendencia",
+      "evidencia": "10_declaração p.2; 12_contrato p.1; 4_certidões p.9–10",
+      "obs": "Transmitente Lucimar Nicácio de Souza com CPF 543.697.389-20. Pelo contrato, esse CPF é de Leopoldo da Silva Filho; o de Lucimar é 573.457.759-68 (igual ao das certidões cadastrais). Os dois CPFs são válidos.",
+      "pendencia": "Corrigir o campo III da Declaração: o CPF 543.697.389-20 informado para Lucimar Nicácio de Souza é o do cedente Leopoldo da Silva Filho. O CPF de Lucimar é 573.457.759-68."
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.2",
+      "obs": "Serv. Tomaz João Damásio, 408, casa, São João do Rio Vermelho, CEP 88060-158.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "na",
+      "evidencia": "10_declaração p.2",
+      "obs": "Em branco; nenhum outro processo informado.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "pendencia",
+      "evidencia": "10_declaração p.2; 12_contrato p.4",
+      "obs": "1 elo (Lucimar → Leila), datado de 11/03/2023, com o CPF de Leopoldo no lugar do de Lucimar. O contrato é de 11/05/2023 (data escrita e dos reconhecimentos de firma). O elo omite Leopoldo, que também é cedente.",
+      "pendencia": "Corrigir no campo VI da Declaração a data do contrato (o instrumento juntado é de 11/05/2023, e não 11/03/2023), o CPF do transmitente Lucimar Nicácio de Souza (573.457.759-68) e incluir como transmitente Leopoldo da Silva Filho (CPF 543.697.389-20)."
+    },
+    "1B.VII": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3; 4_certidões p.9–10",
+      "obs": "Inscrições 32.17.046.1077.002.320 e 32.17.046.1077.001.510, lote 12B, terreno 450,30 m² e construída 274,98 m² (126 m² + 148,98 m² nas certidões).",
+      "pendencia": ""
+    },
+    "1B.VIII": {
+      "resultado": "sinalizado",
+      "evidencia": "10_declaração p.3",
+      "obs": "Posse desde 11/03/2023, com o último dígito do ano sobrescrito (leitura não confirmada; lido como 2023). O contrato é de 11/05/2023.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3",
+      "obs": "Florianópolis, 21 de agosto de 2026, com assinatura manuscrita de Leila C. Werle.",
+      "pendencia": ""
+    },
+    "1B.AF": {
+      "resultado": "pendencia",
+      "evidencia": "10_declaração p.3",
+      "obs": "Preenchida à mão com letra legível, mas o ano do campo VIII está sobrescrito (emenda), o que a Declaração não aceita. A digitalização tem faixas verticais em todas as páginas, sem impedir a leitura.",
+      "pendencia": "Reapresentar a Declaração para Alteração de Titularidade sem emenda ou rasura no campo VIII (data da posse), em digitalização limpa."
+    },
+    "1B.1": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 10_declaração p.3; 12_contrato p.1",
+      "obs": "As mesmas duas inscrições no formulário, na Declaração e no contrato.",
+      "pendencia": ""
+    },
+    "1B.2": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 10_declaração p.1",
+      "obs": "CPF 578.640.120-00 em ambos.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3; 1_folha_líder",
+      "obs": "Posse de 11/03/2023 (ou 11/05/2023 pelo contrato), anterior ao protocolo de 02/06/2025.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.2–3",
+      "obs": "III: 1 transmitente e VI com 1 elo, que coincidem (Leopoldo falta nos dois; ver 3.5).",
+      "pendencia": ""
+    },
+    "1B.5": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3; 9_finalização p.1",
+      "obs": "Data escrita 21/08/2026 e assinatura manuscrita, coerentes com a juntada de 21 a 25/08/2026. Posterior ao protocolo de 02/06/2025.",
+      "pendencia": ""
+    },
+    "3.1": {
+      "resultado": "ok",
+      "evidencia": "12_contrato p.1",
+      "obs": "Contrato particular de cessão de direitos de posse e benfeitorias.",
+      "pendencia": ""
+    },
+    "3.2": {
+      "resultado": "sinalizado",
+      "evidencia": "12_contrato p.1; 3_rg p.2",
+      "obs": "Cedentes e cessionária com nome e CPF válidos. A cessionária consta com RG 5.033.825.414 SSP/RS no contrato, mas o documento de identidade anexo é o RG 7.048.276 (SSP/SC).",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "sinalizado",
+      "evidencia": "12_contrato p.4",
+      "obs": "Assinam os dois cedentes e a cessionária, com firma reconhecida. Só há uma testemunha (Fernanda Nicácio de Souza, mesmo sobrenome da cedente Lucimar), com CPF e RG; a segunda linha está em branco.",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "ok",
+      "evidencia": "12_contrato p.1; 10_declaração p.1",
+      "obs": "Cessionária = adquirente da Declaração = requerente.",
+      "pendencia": ""
+    },
+    "3.5": {
+      "resultado": "pendencia",
+      "evidencia": "12_contrato p.1; 10_declaração p.2",
+      "obs": "Os cedentes no contrato são Leopoldo da Silva Filho e Lucimar Nicácio de Souza (união estável sem formalização). A Declaração (III e VI) só traz Lucimar.",
+      "pendencia": "Incluir Leopoldo da Silva Filho (CPF 543.697.389-20) como transmitente nos campos III e VI da Declaração, já que ele é cedente e assina o contrato de 11/05/2023."
+    },
+    "3.6": {
+      "resultado": "pendencia",
+      "evidencia": "12_contrato p.1; 13_aditivo p.1; 4_certidões p.9–10",
+      "obs": "O contrato descreve terreno de 4.511,25 m² (as medidas dadas, 15,80 m × 28,53 m, resultam em cerca de 450 m²). O cadastro tem 450,30 m². O aditivo juntado corrige a metragem, mas é assinado só pela adquirente (gov.br, 21/08/2026), sem os cedentes.",
+      "pendencia": "Apresentar termo aditivo ao contrato de 11/05/2023, assinado por Leopoldo da Silva Filho, Lucimar Nicácio de Souza e Leila Cristina Werle, com firma reconhecida por autenticidade, corrigindo a metragem do terreno de 4.511,25 m² para 450,30 m². O aditivo juntado foi assinado somente pela adquirente."
+    },
+    "3.7": {
+      "resultado": "pendencia",
+      "evidencia": "12_contrato p.2–3 (cláusula terceira)",
+      "obs": "Preço de R$ 350.000,00 em parcela única por TED, em até 24 horas da assinatura, para a poupança de Lucimar (CEF). O contrato diz que o comprovante do depósito faz as vezes de recibo de quitação. Não há comprovante nem termo de quitação nos autos.",
+      "pendencia": "Apresentar termo de quitação dos R$ 350.000,00 assinado pelos cedentes Leopoldo da Silva Filho e Lucimar Nicácio de Souza, com firma reconhecida por autenticidade, ou o comprovante da TED para a conta de Lucimar."
+    },
+    "3.8": {
+      "resultado": "ok",
+      "evidencia": "12_contrato p.4",
+      "obs": "Reconhecimento por autenticidade das firmas de Leila, Lucimar e Leopoldo em 11/05/2023 (tabelionato de Palhoça, selos GTR29404, GTR29405 e GTR29406; números com leitura parcial). Selos ainda não conferidos em selo.tjsc.jus.br. Não há termo de quitação (ver 3.7).",
+      "pendencia": ""
+    },
+    "3.9": {
+      "resultado": "sinalizado",
+      "evidencia": "12_contrato p.4; 10_declaração p.2–3",
+      "obs": "Contrato e reconhecimentos de firma de 11/05/2023, mas a Declaração informa 11/03/2023 para o contrato e para o início da posse (ver 1B.VI).",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "sinalizado",
+      "evidencia": "12_contrato p.2–3 (cláusulas segunda, quarta e sexta)",
+      "obs": "A posse é provisória e se consolida com a comprovação do depósito (cláusula quarta); não há comprovante nos autos. Os cedentes dizem ter apresentado certidões negativas e o traslado da escritura de cessão de 28/02/1989 (Cartório de Canasvieiras, Adelina e Julio Sbardellotto → Lucimar), que \"se anexa\", mas nenhum deles está nos autos.",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "4_certidões p.9–10",
+      "obs": "Titular nas duas certidões cadastrais de 02/06/2025: Lucimar Nicácio de Souza (CPF 573.457.759-68), uma das cedentes. Confirmar no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "provisorio",
+      "evidencia": "4_certidões p.9–10; 12_contrato p.1",
+      "obs": "A titular é cedente e o último adquirente é a requerente, então a cadeia fecha. Depende da confirmação no Betha.",
+      "pendencia": ""
+    },
+    "4.3": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Nada indica óbito ou herança.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 13,
+    "paginas": 37,
+    "paginas_imagem": 30,
+    "inscricoes": 2,
+    "partes": 3,
+    "testemunhas": 1,
+    "elos_cadeia": 1
+  }
+}

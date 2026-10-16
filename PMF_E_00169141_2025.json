@@ -1,0 +1,458 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00169141/2025",
+    "protocolo": "04/08/2025 16:28",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "025.970.799-61",
+    "nome": "DIANA MARIA DA SILVA"
+  },
+  "requerente": {
+    "cpf": "025.970.799-61",
+    "nome": "DIANA MARIA DA SILVA"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "60.74.033.0485.001.205",
+      "cod_imovel": "",
+      "logradouro": "Servidão Alberto Guilherme Neckel, 140 — Rio Tavares"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NE] (Portal); inscrição escrita sem pontos",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "CNH da requerente (CPF 025.970.799-61)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Carnê de IPTU/TCRS (página \"Dados do imóvel\", digitalizada de lado e sem nome do titular legível): inscrição 60.74.033.0485.001.205, terreno 378 m², construída 68 m²",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 5,
+      "nome": "5_contrato_social_do_adquirente.pdf",
+      "conteudo": "Contrato particular de promessa de compra e venda (06/03/2023), 4 páginas em imagem; mesmo conteúdo do arquivo 16",
+      "paginas": 4,
+      "imagem": true
+    },
+    {
+      "n": 6,
+      "nome": "6_criação_da_tarefa.pdf",
+      "conteudo": "Comunique-se de 04/08/2025 pedindo documentos faltantes",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_confirmação_de_leitura.pdf",
+      "conteudo": "Confirmação de leitura de 04/08/2025",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 8,
+      "nome": "8_finalização_da_tarefa.pdf",
+      "conteudo": "Finalização de 21/08/2025 (documentos juntados aos autos)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 9,
+      "nome": "9_declaração_de_quitação_do_imóvel_assinado.pdf",
+      "conteudo": "Declaração de quitação (R$ 500.000,00), de 10/02/2025, com selo de autenticidade e carimbo gov.br da requerente (04/08/2025)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 10,
+      "nome": "10_comprovante_residência.pdf",
+      "conteudo": "Conta de energia de 07/2025 em nome da requerente (bloco 6, fora do escopo)",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 11,
+      "nome": "11_petição_explicativa.pdf",
+      "conteudo": "Petição explicativa da requerente (explica a cadeia: Lúcia → Paulo → requerente)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 12,
+      "nome": "12_alteração_titularidade_de_imóvel_sem_matrícula_assinado.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (versão V2 de 31/05/2023), assinada com gov.br em 04/08/2025",
+      "paginas": 3,
+      "imagem": false
+    },
+    {
+      "n": 13,
+      "nome": "13_criação_da_tarefa.pdf",
+      "conteudo": "Comunique-se de 09/12/2025: exige escritura de inventário e partilha, contrato e termo de quitação legíveis",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 14,
+      "nome": "14_confirmação_de_leitura.pdf",
+      "conteudo": "Confirmação de leitura de 19/12/2025",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 15,
+      "nome": "15_finalização_da_tarefa.pdf",
+      "conteudo": "Finalização de 05/02/2026 (juntada dos arquivos 16 a 18)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 16,
+      "nome": "16_reconhecimento_contrato_compra_e_venda.pdf",
+      "conteudo": "Contrato particular de promessa de compra e venda (06/03/2023) com reconhecimento de firma por autenticidade (13/03/2023)",
+      "paginas": 4,
+      "imagem": true
+    },
+    {
+      "n": 17,
+      "nome": "17_partilha_bens_lúcia_esteves.pdf",
+      "conteudo": "Traslado de escritura pública de inventário e partilha (L. 394 fl. 188, 11/10/2022) do espólio de Lúcia Helena Leite Esteves",
+      "paginas": 4,
+      "imagem": true
+    },
+    {
+      "n": 18,
+      "nome": "18_declaração_de_quitação_do_imóvel.pdf",
+      "conteudo": "Declaração de quitação de 10/02/2025 (mesmo texto do arquivo 9, sem o carimbo gov.br)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 19,
+      "nome": "19_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior: devolver o processo (contrato e termo de quitação com selos ilegíveis)",
+      "paginas": 1,
+      "imagem": false
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "PAULO CESAR LEITE ESTEVES",
+      "cpf": "246.412.357-91",
+      "assinatura": "firma reconhecida por autenticidade (13/03/2023, contrato) e por autenticidade na quitação (data do selo não confirmada)"
+    },
+    {
+      "papel": "comprador",
+      "nome": "DIANA MARIA DA SILVA",
+      "cpf": "025.970.799-61",
+      "assinatura": "firma reconhecida por autenticidade (13/03/2023, contrato); assinada como \"Diana da Silva\""
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "DIANA MARIA DA SILVA",
+        "cpf": "025.970.799-61"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "PAULO CÉSAR LEITE ESTEVES",
+        "cpf": "246.412.357-91"
+      }
+    ],
+    "data_posse": "06/03/2023",
+    "data_escrita": "",
+    "assinatura": "gov.br em 04/08/2025 15:30 (assinatura avançada; não validada)"
+  },
+  "titulares_betha": [
+    {
+      "nome": "LÚCIA HELENA LEITE ESTEVES",
+      "cpf": "467.521.707-97",
+      "participacao": "",
+      "fonte": "Petição (arquivo 11) e escritura de inventário (arquivo 17), que cita a inscrição como bem da falecida; o carnê (arquivo 4) não mostra o titular; confirmar no Betha",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [
+    {
+      "data": "05/03/2010",
+      "transmitente": {
+        "nome": "NILSON SEBASTIÃO NECKEL; EDESIA MEURER NECKEL",
+        "cpf": "007.995.569-40"
+      },
+      "adquirente": {
+        "nome": "LUCIA HELENA LEITE ESTEVES",
+        "cpf": "467.521.707-97"
+      }
+    },
+    {
+      "data": "11/10/2022",
+      "transmitente": {
+        "nome": "LUCIA HELENA LEITE ESTEVES (espólio)",
+        "cpf": "467.521.707-97"
+      },
+      "adquirente": {
+        "nome": "PAULO CÉSAR LEITE ESTEVES",
+        "cpf": "246.412.357-91"
+      }
+    },
+    {
+      "data": "06/03/2023",
+      "transmitente": {
+        "nome": "PAULO CÉSAR LEITE ESTEVES",
+        "cpf": "246.412.357-91"
+      },
+      "adquirente": {
+        "nome": "DIANA MARIA DA SILVA",
+        "cpf": "025.970.799-61"
+      }
+    }
+  ],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário [3NE] (Portal externo), mas com a inscrição escrita sem pontos e RG preenchido.",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Interessado = solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 3_cnh p.1",
+      "obs": "CPF 025.970.799-61 válido; RG 34556923 no formulário e 3.455.692-3 nos documentos.",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "Inscrição 60740330485001205, Alberto Guilherme Neckel, 140.",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "na",
+      "evidencia": "2_formulário p.1",
+      "obs": "Solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.1",
+      "obs": "Adquirente, CPF (válido), telefone e endereço preenchidos.",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.1",
+      "obs": "Marcado \"Não\".",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "na",
+      "evidencia": "12_declaração p.1–2",
+      "obs": "Sem representação (\"Não se aplica\").",
+      "pendencia": ""
+    },
+    "1B.III": {
+      "resultado": "sinalizado",
+      "evidencia": "12_declaração p.2",
+      "obs": "Paulo César Leite Esteves, CPF 246.412.357-91 (válido). O nome traz um texto estranho no fim (\"Dims1330\"), provavelmente resto de edição do PDF.",
+      "pendencia": ""
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.2",
+      "obs": "Alberto Guilherme Neckel, 140, CEP 88048-374.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "na",
+      "evidencia": "12_declaração p.2",
+      "obs": "Em branco; nenhum outro processo informado.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "pendencia",
+      "evidencia": "12_declaração p.2; 17_escritura p.2",
+      "obs": "3 elos (05/03/2010, 11/10/2022 e 06/03/2023), com o último adquirente igual ao requerente. O CPF informado para Nilson Sebastião Neckel (007.995.569-40) não tem dígitos verificadores válidos. A esposa dele, Edesia Meurer Neckel, que assinou o compromisso de 2010 segundo a escritura de inventário, não consta. O instrumento do elo 1 (compromisso de compra e venda de 05/03/2010, Nilson e Edesia → Lúcia) não está nos autos; só é descrito na escritura de inventário.",
+      "pendencia": "Corrigir no campo VI da Declaração o CPF de Nilson Sebastião Neckel (007.995.569-40 não é um CPF válido), incluir como transmitente a esposa Edesia Meurer Neckel, com CPF, e juntar o Instrumento Particular de Compromisso de Compra e Venda de 05/03/2010 (Nilson e Edesia → Lúcia Helena Leite Esteves), com os selos de reconhecimento de firma."
+    },
+    "1B.VII": {
+      "resultado": "sinalizado",
+      "evidencia": "12_declaração p.3; 16_contrato p.1; 4_carnê",
+      "obs": "Inscrição 60.74.033.0485.001.205, nº \"1\", terreno 378 m², construída 68 m² (igual ao carnê). O contrato fala em casa de 110 m² e a Declaração em 68 m²; o campo nº traz \"1\" e não 140 (bloco 2, fora do escopo).",
+      "pendencia": ""
+    },
+    "1B.VIII": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.3",
+      "obs": "Posse desde 06/03/2023, igual à data do contrato.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "pendencia",
+      "evidencia": "12_declaração p.3",
+      "obs": "Os campos \"Local e data\" e \"Estado\" estão em branco. A assinatura é o carimbo gov.br de Diana Maria da Silva em 04/08/2025 15:30.",
+      "pendencia": "Preencher o campo IX da Declaração com o local e a data (hoje estão em branco) e reapresentá-la assinada."
+    },
+    "1B.AF": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.1–3",
+      "obs": "Digitada por inteiro, com assinatura digital, sem rasura.",
+      "pendencia": ""
+    },
+    "1B.1": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 12_declaração p.3; 16_contrato p.1",
+      "obs": "Mesma inscrição (60.74.033.0485.001-205) no formulário, na Declaração e no contrato.",
+      "pendencia": ""
+    },
+    "1B.2": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 12_declaração p.1",
+      "obs": "CPF 025.970.799-61 em ambos.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.3; 1_folha_líder",
+      "obs": "Posse de 06/03/2023, anterior ao protocolo de 04/08/2025.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.2",
+      "obs": "O transmitente de III é o transmitente do último elo de VI.",
+      "pendencia": ""
+    },
+    "1B.5": {
+      "resultado": "sinalizado",
+      "evidencia": "12_declaração p.3; 1_folha_líder",
+      "obs": "Sem data escrita (ver 1B.IX). Assinatura gov.br às 15:30 de 04/08/2025 e protocolo às 16:28 do mesmo dia, coerentes entre si.",
+      "pendencia": ""
+    },
+    "3.1": {
+      "resultado": "ok",
+      "evidencia": "16_contrato p.1",
+      "obs": "Contrato particular de promessa de compra e venda, com arras e irrevogável (cláusulas 2.1 e 6.1), tratado como compra e venda.",
+      "pendencia": ""
+    },
+    "3.2": {
+      "resultado": "ok",
+      "evidencia": "16_contrato p.1",
+      "obs": "Promitente vendedor e promissária compradora com nome, RG e CPF; CPFs válidos.",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "sinalizado",
+      "evidencia": "16_contrato p.4",
+      "obs": "Assinam as duas partes, com firma reconhecida. O campo das duas testemunhas (nome e CPF) está em branco, embora o texto diga que o contrato foi firmado na presença de duas testemunhas. A compradora assina \"Diana da Silva\" (nome do contrato: Diana Maria da Silva).",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "ok",
+      "evidencia": "16_contrato p.1; 12_declaração p.1",
+      "obs": "Promissária compradora = adquirente da Declaração = requerente.",
+      "pendencia": ""
+    },
+    "3.5": {
+      "resultado": "ok",
+      "evidencia": "16_contrato p.1; 12_declaração p.2",
+      "obs": "Promitente vendedor = transmitente da Declaração.",
+      "pendencia": ""
+    },
+    "3.6": {
+      "resultado": "sinalizado",
+      "evidencia": "16_contrato p.1; 17_escritura p.2; 12_declaração p.3",
+      "obs": "Casa de alvenaria de 110 m² em terreno de 378 m², nº 140, inscrição 60.74.033.0485.001-205, igual à Declaração, exceto a área construída (110 m² no contrato e 68 m² na Declaração e no carnê). O contrato diz ainda que o título de origem é escritura de compra e venda do Cartório de Ratones (L.10, fl.194v, 06/11/1980) matriculada no 2º RI (L.2/RG, nº 16.301), de área maior (5.552 m²); a Declaração diz que nunca existiu matrícula. Pode haver registro da área maior; checklist não cobre.",
+      "pendencia": ""
+    },
+    "3.7": {
+      "resultado": "ok",
+      "evidencia": "16_contrato p.2 (cláusula 2.1); 9_quitação p.1; 18_quitação p.1",
+      "obs": "R$ 500.000,00 em duas parcelas (R$ 130.000,00 na assinatura e R$ 370.000,00 após o reconhecimento de firma). Declaração de quitação de 10/02/2025 (vendedor confirma o valor total pago), com firma reconhecida por autenticidade. Pagamento parcelado já quitado.",
+      "pendencia": ""
+    },
+    "3.8": {
+      "resultado": "sinalizado",
+      "evidencia": "16_contrato p.4; 9_quitação p.1",
+      "obs": "Contrato: reconhecimento por autenticidade das firmas de Diana (selo GSL40235-…) e de Paulo (selo GSL40242-…) em 13/03/2023, Escrivania de Paz da Trindade; os códigos dos selos estão em imagem de baixa resolução (leitura parcial). Quitação: reconhecimento por autenticidade da firma de Paulo (selo HKE96899-…, leitura parcial). Selos não conferidos em selo.tjsc.jus.br. O parecer anterior (arquivo 19) já registrou selos ilegíveis.",
+      "pendencia": ""
+    },
+    "3.9": {
+      "resultado": "sinalizado",
+      "evidencia": "16_contrato p.4; 9_quitação p.1; 18_quitação p.1",
+      "obs": "Contrato de 06/03/2023, reconhecimento de firma em 13/03/2023, posse desde 06/03/2023. A quitação é de 10/02/2025 e o selo da firma traz data que leio como 07/03/2026 (leitura não confirmada: poderia ser 2025), o que seria posterior ao protocolo de 04/08/2025 e ao carimbo gov.br do arquivo 9 (04/08/2025). Conferir a data no selo.",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "sinalizado",
+      "evidencia": "16_contrato p.2–4 (cláusulas 2.1, 3.1, 4.3 e 5.1)",
+      "obs": "Promessa com arras: R$ 370.000,00 deveriam ser pagos em até 5 dias úteis após o reconhecimento de firma (13/03/2023), mas a quitação é de 10/02/2025 (a cláusula 5.1 previa rescisão após 30 dias de atraso, e não há registro de rescisão). A cláusula 4.3 diz que o vendedor apresentou certidões negativas (IPTU, estado civil, federal, trabalhista, estaduais e Serasa), que não estão nos autos. Não há escritura definitiva prometida.",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "11_petição p.1; 17_escritura p.2–3",
+      "obs": "O carnê (arquivo 4) não mostra o titular. A petição e a escritura de inventário apontam como titular Lúcia Helena Leite Esteves (CPF 467.521.707-97, válido). Confirmar no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "provisorio",
+      "evidencia": "17_escritura p.2; 12_declaração p.2",
+      "obs": "Se o titular for Lúcia: ela aparece na cadeia (elo 1 como adquirente e elo 2 como transmitente), os elos 2 e 3 se encadeiam e o último adquirente é a requerente. Depende da confirmação no Betha.",
+      "pendencia": ""
+    },
+    "4.3": {
+      "resultado": "sinalizado",
+      "evidencia": "17_escritura p.1–4; 12_declaração p.2",
+      "obs": "Titular falecida em 24/07/2022. Inventário e partilha extrajudicial (escritura de 11/10/2022, L.394 fl.188, Escrivania de Paz de Santo Antônio de Lisboa, selo GPB91589-8GHA), em que Paulo César Leite Esteves (irmão, único herdeiro colateral) recebe 100% dos direitos contratuais sobre o terreno. A escritura foi apresentada em atendimento à exigência de 09/12/2025. Regra de herança ainda indefinida; o checklist não diz se a escritura de inventário substitui a transmissão do elo 2 ou como conferir o selo.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 19,
+    "paginas": 38,
+    "paginas_imagem": 17,
+    "inscricoes": 1,
+    "partes": 2,
+    "testemunhas": 0,
+    "elos_cadeia": 3
+  }
+}

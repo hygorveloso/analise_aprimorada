@@ -1,0 +1,486 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00135690/2025",
+    "protocolo": "19/06/2025 13:24",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "083.511.539-90",
+    "nome": "PRISCILA ALVA FERNANDES ARAUJO"
+  },
+  "requerente": {
+    "cpf": "15.692.020/0001-48",
+    "nome": "ITUFERRO MATERIAIS DE CONSTRUCAO LTDA"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "66.11.074.1420.001-075",
+      "cod_imovel": "",
+      "logradouro": "Da Plenitude, 189 — Campeche (pedido de troca para Servidão Simpatia)"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NE] (Portal)",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "Cartão CNPJ e QSA da Ituferro",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Certidão de lançamento de 2022: titular Ivam Luis Cé, inscrição 66.11.074.1420.001-075",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 5,
+      "nome": "5_contrato_social_do_adquirente.pdf",
+      "conteudo": "10ª Alteração Contratual da Ituferro (JUCESC 14/11/2024)",
+      "paginas": 5,
+      "imagem": false
+    },
+    {
+      "n": 6,
+      "nome": "6_procuração_representante_legal.pdf",
+      "conteudo": "Procuração da Ituferro (Osmair Gerber) à advogada, assinada digitalmente em 16/06/2025",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_rg_cpf_ou_cnpj_procurador.pdf",
+      "conteudo": "Documento do procurador (CNH digital)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 8,
+      "nome": "8_parecer_da_análise_de_admissão_do_processo.pdf",
+      "conteudo": "Parecer de admissão",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 9,
+      "nome": "9_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior: exigência genérica (formulário, comprovante, contratos da cadeia, termo de quitação)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 10,
+      "nome": "10_finalização_da_tarefa.pdf",
+      "conteudo": "Finalização da tarefa de 17/03/2026",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 11,
+      "nome": "11_processo_selecionados.pdf",
+      "conteudo": "Andamento do processo",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 12,
+      "nome": "12_inf29_-_certidão.pdf",
+      "conteudo": "Certidão do 2º RI de 07/04/2008 (negativa de matrícula; imóvel de Jaime e Genilde, adquirido de Lizette Cé em 2007)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 13,
+      "nome": "13_termo_de_quitação_pag_8.pdf",
+      "conteudo": "Termo de quitação de 20/02/2024 (cópia isolada da p. 8 do contrato)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 14,
+      "nome": "14_procuração-representantelegal.pdf",
+      "conteudo": "Procuração (mesmo instrumento do arquivo 6)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 15,
+      "nome": "15_formulário_enviar_a_pmf-manifesto.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (IN SMF 003/2023), assinada eletronicamente pelo Portal OAB em 17/03/2026",
+      "paginas": 5,
+      "imagem": false
+    },
+    {
+      "n": 16,
+      "nome": "16_escritura_livro_04_folhas_79-85.pdf",
+      "conteudo": "Certidão de escritura de divisão amigável de direitos hereditários (herdeiros de Sabino Anízio da Silveira, 05/05/1992)",
+      "paginas": 11,
+      "imagem": false
+    },
+    {
+      "n": 17,
+      "nome": "17_certidão_negativa_de_registro_de_matrícula_lote_n_22.pdf",
+      "conteudo": "Certidão negativa do 2º RI (prot. 1.010.776, 23/06/2025)",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 18,
+      "nome": "18_contrato_de_posse_jaime_e_geni_x_ituferro_com_termo_de_quitação.pdf",
+      "conteudo": "Contrato particular de compra e venda, cessão e transferência de direitos possessórios (16/04/2018) com termo de quitação (20/02/2024)",
+      "paginas": 8,
+      "imagem": true
+    },
+    {
+      "n": 19,
+      "nome": "19_escritura_livro_182_folha_060.pdf",
+      "conteudo": "Certidão de escritura de compra e venda com cessão (29/07/1993), manuscrita",
+      "paginas": 4,
+      "imagem": true
+    },
+    {
+      "n": 20,
+      "nome": "20_escritura_livro_206_folha_065.pdf",
+      "conteudo": "Certidão de escritura de compra e venda com cessão (25/10/1996), manuscrita",
+      "paginas": 4,
+      "imagem": true
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "JAIME ANTÔNIO CÉ",
+      "cpf": "385.853.249-53",
+      "assinatura": "firma reconhecida por autenticidade (08/05/2018); termo de quitação com firma por autenticidade (20/02/2024)"
+    },
+    {
+      "papel": "vendedor",
+      "nome": "GENILDE CÉ",
+      "cpf": "423.613.389-04",
+      "assinatura": "firma reconhecida por autenticidade (08/05/2018); termo de quitação com firma por autenticidade (20/02/2024)"
+    },
+    {
+      "papel": "comprador",
+      "nome": "ITUFERRO MATERIAIS DE CONSTRUÇÃO LTDA (por Osmair Gerber, CPF 459.356.299-68)",
+      "cpf": "15.692.020/0001-48",
+      "assinatura": "firma de Osmair Gerber reconhecida por autenticidade (16/05/2018); leitura parcial do selo"
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "ITUFERRO MATERIAIS DE CONSTRUCAO LTDA",
+        "cpf": "15.692.020/0001-48"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "JAIME ANTÔNIO CÉ",
+        "cpf": "385.853.249-53"
+      },
+      {
+        "nome": "GENILDE CÉ",
+        "cpf": "423.613.389-04"
+      }
+    ],
+    "data_posse": "16/04/2018",
+    "data_escrita": "11/03/2026",
+    "assinatura": "eletrônica simples, Portal OAB, 17/03/2026 16:17, pela advogada (não é ICP-Brasil)"
+  },
+  "titulares_betha": [
+    {
+      "nome": "IVAM LUIS CÉ",
+      "cpf": "625.579.479-20",
+      "participacao": "",
+      "fonte": "Certidão de lançamento de 2022 (arquivo 4); confirmar no Betha",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [
+    {
+      "data": "29/07/1993",
+      "transmitente": {
+        "nome": "MANOEL SABINO DA SILVEIRA; ELENITA OLINDINA DA SILVA",
+        "cpf": ""
+      },
+      "adquirente": {
+        "nome": "JOSÉ CARLOS RAMOS APOLINÁRIO; ANA MARIA LEAL MENDES",
+        "cpf": ""
+      }
+    },
+    {
+      "data": "25/10/1996",
+      "transmitente": {
+        "nome": "JOSÉ CARLOS RAMOS APOLINÁRIO; ANA MARIA LEAL MENDES",
+        "cpf": ""
+      },
+      "adquirente": {
+        "nome": "MARISA ENGEL",
+        "cpf": "477.246.419-00"
+      }
+    },
+    {
+      "data": "29/07/2005",
+      "transmitente": {
+        "nome": "MARISA ENGEL",
+        "cpf": "477.246.419-00"
+      },
+      "adquirente": {
+        "nome": "LIZETTE RAMBO CÉ",
+        "cpf": ""
+      }
+    },
+    {
+      "data": "06/09/2007",
+      "transmitente": {
+        "nome": "LIZETTE RAMBO CÉ",
+        "cpf": ""
+      },
+      "adquirente": {
+        "nome": "JAIME ANTÔNIO CÉ; GENILDE CÉ",
+        "cpf": ""
+      }
+    }
+  ],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário [3NE] (Portal externo).",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "sinalizado",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "A Folha Líder traz como interessado a Ituferro (requerente) e, no rodapé, a solicitante Priscila Alva Fernandes Araujo; solicitante ≠ requerente.",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 3_cnpj p.1",
+      "obs": "CPF da solicitante 083.511.539-90 e CNPJ 15.692.020/0001-48 válidos.",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "Inscrição 66.11.074.1420.001-075, Da Plenitude, 189. A observação pede troca do logradouro para Servidão Simpatia (bloco 2, fora do escopo).",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "na",
+      "evidencia": "2_formulário p.1",
+      "obs": "Solicitante (advogada) é diferente do requerente (PJ): gatilho de representação presente, avaliado no bloco 5 (fora do escopo). Procuração de 16/06/2025 nos autos (arquivos 6 e 14), que cita a inscrição 66.11.074.1427.001.925, diferente da do formulário.",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.1",
+      "obs": "Adquirente Ituferro, CNPJ, endereço e contato preenchidos.",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "sinalizado",
+      "evidencia": "15_declaração p.1",
+      "obs": "As duas opções de \"representado por terceiros\" estão sem marcação, mas o requerente é PJ representada por advogada.",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.1–2",
+      "obs": "Campo II preenchido com Priscila Alva Fernandes Araujo (CPF válido), com procuração nos autos.",
+      "pendencia": ""
+    },
+    "1B.III": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.2",
+      "obs": "Jaime Antônio Cé (385.853.249-53) e Genilde Cé (423.613.389-04), CPFs válidos.",
+      "pendencia": ""
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.2",
+      "obs": "Rua da Plenitude, 178.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "sinalizado",
+      "evidencia": "15_declaração p.2",
+      "obs": "O campo traz o próprio número deste processo (PMF E 00135690/2025), o que não indica outro processo.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "pendencia",
+      "evidencia": "15_declaração p.2–3",
+      "obs": "4 elos (1993, 1996, 2005 e 2007), terminando em Jaime e Genilde. Falta o elo final Jaime e Genilde → Ituferro (contrato de 16/04/2018). CPF de Lizette Rambo Cé, de Manoel Sabino, Elenita, José Carlos e Ana Maria não informados. O elo de 2007 consta como \"não possuímos este contrato\" e o de 2005 (Marisa → Lizette) é citado só na certidão do 2º RI como não apresentado.",
+      "pendencia": "Completar o campo VI da Declaração com a cadeia até a requerente, incluindo o elo Jaime Antônio Cé e Genilde Cé → Ituferro (contrato de 16/04/2018), os CPFs de todos os transmitentes e adquirentes, e juntar o instrumento de cada elo, em especial Marisa Engel → Lizette Rambo Cé (29/07/2005) e Lizette Rambo Cé → Jaime e Genilde (06/09/2007)."
+    },
+    "1B.VII": {
+      "resultado": "pendencia",
+      "evidencia": "15_declaração p.3–4",
+      "obs": "Inscrição 66.11.074.1455.001-195, \"Sem construção\", áreas 0 e 0, sem número do imóvel; a certidão de lançamento (arquivo 4) mostra terreno de 432 m² e construído de 235 m², e o contrato cita terreno de 469,47 m².",
+      "pendencia": "Corrigir o campo VII da Declaração: informar a inscrição imobiliária do imóvel (a mesma do formulário), o número do imóvel e as áreas de terreno e de construção."
+    },
+    "1B.VIII": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.4",
+      "obs": "Posse desde 16/04/2018, igual à data do contrato.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "sinalizado",
+      "evidencia": "15_declaração p.5",
+      "obs": "Local e data \"Florianópolis, 11 de março de 2026\". Assinatura eletrônica simples (Portal OAB, 17/03/2026) da advogada, não do representante legal da PJ, e sem certificado ICP-Brasil. Conferir se a procuração dá poderes para assinar a Declaração.",
+      "pendencia": ""
+    },
+    "1B.AF": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.1–5",
+      "obs": "Digitada por inteiro, sem rasura.",
+      "pendencia": ""
+    },
+    "1B.1": {
+      "resultado": "pendencia",
+      "evidencia": "2_formulário p.1; 15_declaração p.4",
+      "obs": "Formulário: 66.11.074.1420.001-075. Declaração (VII) e contrato: 66.11.074.1455.001-195. Procuração: 66.11.074.1427.001.925. A certidão do 2º RI de 2008 cita ainda 66.11.084.0842.001-006 e as escrituras de 1993 e 1996 citam 66.11.084.0749.001-506.",
+      "pendencia": "Esclarecer qual é a inscrição imobiliária do imóvel (formulário 66.11.074.1420.001-075, Declaração e contrato 66.11.074.1455.001-195) e corrigir o documento errado. Se forem imóveis diferentes, informar o motivo e juntar a documentação de cada um."
+    },
+    "1B.2": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.1; 2_formulário p.1",
+      "obs": "CNPJ 15.692.020/0001-48 em ambos.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.4; 1_folha_líder",
+      "obs": "Posse de 16/04/2018, anterior ao protocolo de 19/06/2025.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "ok",
+      "evidencia": "15_declaração p.2–3",
+      "obs": "Os transmitentes de III (Jaime e Genilde) coincidem com o último adquirente de VI. O elo seguinte, até a requerente, está faltando (ver 1B.VI).",
+      "pendencia": ""
+    },
+    "1B.5": {
+      "resultado": "sinalizado",
+      "evidencia": "15_declaração p.5; 1_folha_líder",
+      "obs": "Data escrita 11/03/2026, assinatura em 17/03/2026 e protocolo em 19/06/2025: a Declaração é posterior ao protocolo, provavelmente refeita após a exigência (finalização de 17/03/2026).",
+      "pendencia": ""
+    },
+    "3.1": {
+      "resultado": "ok",
+      "evidencia": "18_contrato p.1",
+      "obs": "Contrato particular de compra e venda, cessão e transferência de direitos possessórios.",
+      "pendencia": ""
+    },
+    "3.2": {
+      "resultado": "ok",
+      "evidencia": "18_contrato p.1; 13_termo p.1",
+      "obs": "Cedentes com CPF e RG, cessionária com CNPJ e representante com CPF, todos válidos.",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "sinalizado",
+      "evidencia": "18_contrato p.6",
+      "obs": "Assinam os cedentes e a cessionária (por Osmair Gerber). O campo das duas testemunhas (nome e CPF) está em branco, embora o texto diga que o contrato foi firmado na presença de duas testemunhas.",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "ok",
+      "evidencia": "18_contrato p.1; 15_declaração p.1",
+      "obs": "Cessionária = adquirente da Declaração = requerente.",
+      "pendencia": ""
+    },
+    "3.5": {
+      "resultado": "ok",
+      "evidencia": "18_contrato p.1; 15_declaração p.2",
+      "obs": "Cedentes = transmitentes da Declaração.",
+      "pendencia": ""
+    },
+    "3.6": {
+      "resultado": "pendencia",
+      "evidencia": "18_contrato p.1–2; 2_formulário p.1",
+      "obs": "O contrato descreve terreno de 469,47 m² na Fazenda do Rio Tavares com inscrição 66.11.074.1455.001-195, e não a 1420.001-075 do formulário. A certidão de lançamento (arquivo 4) mostra terreno de 432 m² e área construída de 235 m².",
+      "pendencia": "Esclarecer se o terreno de 469,47 m² do contrato é o imóvel da inscrição 66.11.074.1420.001-075 (terreno de 432 m² com construção de 235 m² no lançamento) e, se for, juntar planta ou memorial que mostre a correspondência."
+    },
+    "3.7": {
+      "resultado": "ok",
+      "evidencia": "18_contrato p.3; 18_contrato p.8; 13_termo p.1",
+      "obs": "R$ 70.000,00 pagos na assinatura (contrato vale como recibo) e termo de quitação de 20/02/2024 com firma de Jaime e Genilde reconhecida por autenticidade.",
+      "pendencia": ""
+    },
+    "3.8": {
+      "resultado": "ok",
+      "evidencia": "18_contrato p.5–7; 18_contrato p.8",
+      "obs": "Contrato: firmas de Jaime e Genilde (08/05/2018) e de Osmair Gerber (16/05/2018) reconhecidas por autenticidade; termo de quitação: reconhecimento nº 588912 de 20/02/2024. Selos ainda não conferidos em selo.tjsc.jus.br; números dos selos do contrato com leitura parcial.",
+      "pendencia": ""
+    },
+    "3.9": {
+      "resultado": "ok",
+      "evidencia": "18_contrato p.6–7; 12_certidão p.1; 17_certidão",
+      "obs": "Contrato de 16/04/2018, firmas reconhecidas em maio de 2018, posse desde 16/04/2018 e contrato listado na certidão do 2º RI.",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "sinalizado",
+      "evidencia": "18_contrato p.1–6",
+      "obs": "Posse imediata, contrato irrevogável e irretratável, sem condição suspensiva lida. O contrato cita a ação de usucapião 0049545-49.2008.8.24.0023 em andamento, e nos autos não consta a situação dessa ação nem a transferência das posições processuais.",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "4_inscrição p.1",
+      "obs": "Titular na certidão de lançamento de 2022: Ivam Luis Cé (CPF 625.579.479-20, válido), inscrição 66.11.074.1420.001-075. Confirmar no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "pendencia",
+      "evidencia": "4_inscrição p.1; 15_declaração p.3",
+      "obs": "O titular (Ivam Luis Cé) não aparece na cadeia (Silveira → Apolinário → Engel → Rambo Cé → Jaime e Genilde → Ituferro). O contrato e o termo de quitação citam Ivam Luiz Cé como confrontante, o que sugere inscrição ou lote diferente. Os vendedores não são o titular.",
+      "pendencia": "Esclarecer a relação entre Ivam Luis Cé, titular do cadastro da inscrição 66.11.074.1420.001-075, e os vendedores Jaime e Genilde, com o documento da transmissão de Ivam (ou de seus sucessores) até eles, ou comprovar que o lote vendido é outro e indicar a inscrição correta."
+    },
+    "4.3": {
+      "resultado": "sinalizado",
+      "evidencia": "16_escritura p.1–10",
+      "obs": "Há herança na origem da cadeia: a escritura de 05/05/1992 é partilha dos herdeiros de Sabino Anízio da Silveira (falecido em 18/04/1973), em que Manoel Sabino da Silveira recebeu quatro áreas. Não há prova de que o lote (469,47 m²) esteja entre elas. Situação (vivo ou falecido) de Ivam Luis Cé desconhecida. Regra de herança ainda indefinida.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 20,
+    "paginas": 54,
+    "paginas_imagem": 22,
+    "inscricoes": 1,
+    "partes": 2,
+    "testemunhas": 0,
+    "elos_cadeia": 4
+  }
+}

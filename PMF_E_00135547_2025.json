@@ -1,0 +1,414 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00135547/2025",
+    "protocolo": "18/06/2025 19:07",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "522.137.579-68",
+    "nome": "GERSON LUIZ FETTER"
+  },
+  "requerente": {
+    "cpf": "522.137.579-68",
+    "nome": "GERSON LUIZ FETTER"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "24.54.065.1080.001.488",
+      "cod_imovel": "76137",
+      "logradouro": "Servidão Verdes Mares, 170, Apto 101 Bloco A — Ingleses (Cond. Verdes Mares)"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NE] (Portal)",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "CNH digital do requerente (Senatran)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Certidão cadastral de 18/06/2025: contribuinte Alberi Cardoso da Silva (100%), código 76137",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 5,
+      "nome": "5_parecer_da_análise_de_admissão.pdf",
+      "conteudo": "Parecer de admissão (mutirão)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 6,
+      "nome": "6_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior: devolução com lista de documentos (inclui certidão de inexistência de matrícula)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_finalização_da_tarefa.pdf",
+      "conteudo": "Finalização de 14/07/2026 (juntada de pendências)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 8,
+      "nome": "8_alteracaotitularidade.pdf",
+      "conteudo": "Parecer anterior repetido",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 9,
+      "nome": "9_petição_e_declaração_de_motivos.pdf",
+      "conteudo": "Petição e declaração de motivos de 17/06/2026",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 10,
+      "nome": "10_inscrição_imobiliária_verdesmares.pdf",
+      "conteudo": "Certidão cadastral de 18/06/2025 (cópia do arquivo 4)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 11,
+      "nome": "11_cnh.pdf",
+      "conteudo": "CNH digital do requerente (cópia do arquivo 3)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 12,
+      "nome": "12_formulário_alteração_cadastral_imóvel_sem_matrícula_assinado.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (V2 de 31/05/2023), assinada com gov.br em 18/06/2026",
+      "paginas": 3,
+      "imagem": false
+    },
+    {
+      "n": 13,
+      "nome": "13_certidão.pdf",
+      "conteudo": "Certidão negativa de registro do 2º RI (prot. 1.076.959, 23/06/2026), assinada digitalmente",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 14,
+      "nome": "14_energia_ingleses.pdf",
+      "conteudo": "Conta de energia 05/2026 em nome do requerente (bloco 6, fora do escopo)",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 15,
+      "nome": "15_contrato_quitação_comp_endereço.pdf",
+      "conteudo": "Compromisso particular de promessa de compra e venda com cessão de direitos de posse (04/06/2024, 5 páginas + verso com selo), termo de quitação (05/06/2024) e conta de energia (2 páginas)",
+      "paginas": 9,
+      "imagem": true
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "ALBERI CARDOSO DA SILVA",
+      "cpf": "342.441.400-00",
+      "assinatura": "firma reconhecida por autenticidade, reconhecimento 1120831 (05/06/2024); termo de quitação: reconhecimento 1120837 (05/06/2024)"
+    },
+    {
+      "papel": "comprador",
+      "nome": "GERSON LUIZ FETTER",
+      "cpf": "522.137.579-68",
+      "assinatura": "firma reconhecida por autenticidade, reconhecimento 1120831 (05/06/2024)"
+    },
+    {
+      "papel": "comprador",
+      "nome": "MARIA DE FÁTIMA MULLER DE JESUS FETTER",
+      "cpf": "691.345.619-00",
+      "assinatura": "firma reconhecida por autenticidade, reconhecimento 1120831 (05/06/2024)"
+    },
+    {
+      "papel": "testemunha",
+      "nome": "EVELINE PIRES VARGAS",
+      "cpf": "839.825.310-04",
+      "assinatura": "manuscrita, sem reconhecimento; CPF não consta ao lado da assinatura (vem da cláusula de pagamento)"
+    },
+    {
+      "papel": "testemunha",
+      "nome": "NAYARA BASSO",
+      "cpf": "",
+      "assinatura": "manuscrita, sem reconhecimento; sem CPF"
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "GERSON LUIZ FETTER",
+        "cpf": "522.137.579-68"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "ALBERI CARDOSO DA SILVA",
+        "cpf": "342.441.400-00"
+      }
+    ],
+    "data_posse": "04/06/2024",
+    "data_escrita": "17/06/2026",
+    "assinatura": "gov.br em 18/06/2026 (assinatura avançada; certificado emissor desconhecido para o pdfsig)"
+  },
+  "titulares_betha": [
+    {
+      "nome": "ALBERI CARDOSO DA SILVA",
+      "cpf": "342.***.***-00",
+      "participacao": "100%",
+      "fonte": "Certidão cadastral de 18/06/2025 (arquivos 4 e 10); confirmar no Betha",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário [3NE] (Portal externo), inscrição com pontos e RG preenchido.",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Interessado = solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 11_cnh p.1",
+      "obs": "CPF 522.137.579-68 válido, igual ao da CNH; RG 1766159.",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "24.54.065.1080.001.488, Verdes Mares, 170.",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "na",
+      "evidencia": "2_formulário p.1",
+      "obs": "Solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.1",
+      "obs": "Adquirente com CPF válido, RG, telefone, e-mail e endereço. Só Gerson consta como adquirente (ver 3.4).",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.1",
+      "obs": "Marcado \"Não\".",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "na",
+      "evidencia": "12_declaração p.1–2",
+      "obs": "Sem representação.",
+      "pendencia": ""
+    },
+    "1B.III": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.2",
+      "obs": "Alberi Cardoso da Silva, CPF 342.441.400-00 (válido).",
+      "pendencia": ""
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.2",
+      "obs": "Servidão Verdes Mares, 170, Apto 101 Bloco A, CEP 88058-205.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "sinalizado",
+      "evidencia": "12_declaração p.2",
+      "obs": "O campo traz o número deste mesmo processo (E 00135547/2025), o que não indica outro processo.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "na",
+      "evidencia": "12_declaração p.2–3",
+      "obs": "Em branco. O transmitente é o titular do cadastro (ver 4.1), então não há cadeia a declarar.",
+      "pendencia": ""
+    },
+    "1B.VII": {
+      "resultado": "sinalizado",
+      "evidencia": "12_declaração p.3; 4_certidão p.1",
+      "obs": "Inscrição 24.54.065.1080.001.488, \"APTO 101 BL A\", terreno 581,2 m² e construída 60,55 m². A certidão cadastral mostra lote de 416 m² e área total construída de 581,2 m², então o valor de terreno da Declaração parece vir do campo errado (bloco 2, fora do escopo).",
+      "pendencia": ""
+    },
+    "1B.VIII": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.3",
+      "obs": "Posse desde 04/06/2024, igual à data do contrato.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.3",
+      "obs": "Florianópolis, 17 de junho de 2026, com assinatura gov.br do adquirente.",
+      "pendencia": ""
+    },
+    "1B.AF": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.1–3",
+      "obs": "Digitada por inteiro, com assinatura digital, sem rasura.",
+      "pendencia": ""
+    },
+    "1B.1": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 12_declaração p.3; 15_contrato p.1; 4_certidão p.1",
+      "obs": "Mesma inscrição no formulário, na Declaração, no contrato e na certidão cadastral.",
+      "pendencia": ""
+    },
+    "1B.2": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 12_declaração p.1",
+      "obs": "CPF 522.137.579-68 em ambos.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.3; 1_folha_líder",
+      "obs": "Posse de 04/06/2024, anterior ao protocolo de 18/06/2025.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.2–3",
+      "obs": "III: 1 transmitente; VI vazio.",
+      "pendencia": ""
+    },
+    "1B.5": {
+      "resultado": "ok",
+      "evidencia": "12_declaração p.3; 7_finalização p.1",
+      "obs": "Data escrita 17/06/2026 e assinatura gov.br em 18/06/2026, coerentes entre si. São posteriores ao protocolo (18/06/2025), mas coerentes com a juntada de 14/07/2026 (arquivo 7).",
+      "pendencia": ""
+    },
+    "3.1": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1–5",
+      "obs": "Compromisso particular de promessa de compra e venda com cessão de direitos de posse, irrevogável (cláusula décima).",
+      "pendencia": ""
+    },
+    "3.2": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1",
+      "obs": "Vendedor e compradores com nome, CPF e RG; CPFs válidos, RG do comprador igual ao do formulário.",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "sinalizado",
+      "evidencia": "15_contrato p.5",
+      "obs": "Assinam o vendedor, o comprador e a compradora, com firmas reconhecidas. As duas testemunhas (Eveline Pires Vargas e Nayara Basso) assinam só com o nome, sem CPF; Eveline é também a destinatária de R$ 4.800,00 do preço (cláusula do quadro IV, letra c).",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "pendencia",
+      "evidencia": "15_contrato p.1; 12_declaração p.1",
+      "obs": "O contrato tem dois promitentes compradores (Gerson e a esposa Maria de Fátima Muller de Jesus Fetter, CPF 691.345.619-00, casados em comunhão parcial), mas só Gerson é adquirente na Declaração e requerente.",
+      "pendencia": "Incluir Maria de Fátima Muller de Jesus Fetter (CPF 691.345.619-00) como adquirente na Declaração (campo I), já que ela também é compradora no contrato de 04/06/2024, ou esclarecer por escrito por que só o Sr. Gerson Luiz Fetter figura como requerente."
+    },
+    "3.5": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1; 12_declaração p.2",
+      "obs": "Promitente vendedor = transmitente da Declaração.",
+      "pendencia": ""
+    },
+    "3.6": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1; 4_certidão p.1",
+      "obs": "Apartamento 101, bloco A, Servidão Verdes Mares, 170, com 60,55 m² de área interna, vaga descoberta, inscrição 24.54.065.1080.001.488 (igual à certidão cadastral).",
+      "pendencia": ""
+    },
+    "3.7": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1–2 (quadro IV); 15_contrato p.7",
+      "obs": "R$ 267.000,00 pagos por transferência na assinatura (R$ 255.000,00 ao vendedor, R$ 7.200,00 à imobiliária Imóveis Casa Verde e R$ 4.800,00 a Eveline Pires Vargas). Termo de quitação de 05/06/2024 assinado pelo vendedor, com firma reconhecida por autenticidade (reconhecimento 1120837). O termo não repete o valor.",
+      "pendencia": ""
+    },
+    "3.8": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.5–6; 15_contrato p.7",
+      "obs": "Contrato: reconhecimento 1120831 por autenticidade das firmas de Alberi, Gerson e Maria de Fátima (05/06/2024, Escrivania de Paz de Ingleses do Rio Vermelho, selos HDG14243-XED5, HDG14244-TJP2, HDG14245-S6MQ). Termo de quitação: reconhecimento 1120837 por autenticidade da firma de Alberi (selo HDG14249-SYUN). Selos ainda não conferidos em selo.tjsc.jus.br. O selo do contrato aparece na página 6, atrás da folha das assinaturas.",
+      "pendencia": ""
+    },
+    "3.9": {
+      "resultado": "sinalizado",
+      "evidencia": "15_contrato p.5–6; 15_contrato p.7; 12_declaração p.3",
+      "obs": "Contrato com data escrita de 04/06/2024 (data dos pagamentos e da posse), mas o termo de quitação diz que ele foi \"assinado em 05 de junho de 2024\", e os reconhecimentos de firma são de 05/06/2024.",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "sinalizado",
+      "evidencia": "15_contrato p.2 (cláusula primeira §2) e quadro IV",
+      "obs": "O contrato só vale acompanhado do termo de quitação (apresentado). O imóvel não tem matrícula nem habite-se, e o vendedor se compromete a outorgar escritura, ou assinar ação de usucapião, se for possível regularizar. Os compradores devem transferir a titularidade das contas (energia, água) em 30 dias da posse. Nos autos não consta escritura.",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "4_certidão p.1; 10_certidão p.1",
+      "obs": "Titular na certidão cadastral de 18/06/2025: Alberi Cardoso da Silva (CPF 342.***.***-00, 100%), que é o vendedor. Confirmar no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "provisorio",
+      "evidencia": "4_certidão p.1; 15_contrato p.1",
+      "obs": "O vendedor é o titular, então não há cadeia a testar. Depende da confirmação no Betha.",
+      "pendencia": ""
+    },
+    "4.3": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Nada indica óbito ou herança.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 15,
+    "paginas": 27,
+    "paginas_imagem": 9,
+    "inscricoes": 1,
+    "partes": 3,
+    "testemunhas": 2,
+    "elos_cadeia": 0
+  }
+}

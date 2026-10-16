@@ -1,0 +1,377 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00193301/2025",
+    "protocolo": "03/09/2025 16:12",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "008.368.399-27",
+    "nome": "PAULO VITOR MACIEL"
+  },
+  "requerente": {
+    "cpf": "008.368.399-27",
+    "nome": "PAULO VITOR MACIEL"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "59.90.001.1500.001.068",
+      "cod_imovel": "401591",
+      "logradouro": "Rua José Xavier da Rosa, 715 — Carianos"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NE] (Portal)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "CNH digital do requerente (Senatran)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Impressão do Betha Cidadão Web (03/09/2025): guia de TCRS do imóvel 401591, inscrição 59.90.001.1500.001.068",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 5,
+      "nome": "5_criação_da_tarefa.pdf",
+      "conteudo": "Tarefa de 14/04/2026: requerente anexou documentos",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 6,
+      "nome": "6_finalização_da_tarefa.pdf",
+      "conteudo": "Finalização de 14/04/2026 (juntada)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_pmf_espelho_cadastral_de_imóveis_-_fins_gerais.pdf",
+      "conteudo": "Certidão cadastral (espelho) de 14/04/2026: titular Sandro Luiz Lopes, terreno 405 m², construída 45 m²",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 8,
+      "nome": "8_comprovante_de_residencia.pdf",
+      "conteudo": "Conta de energia 04/2026 em nome do requerente (bloco 6, fora do escopo)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 9,
+      "nome": "9_declaração_para_alteração_de_titularidade_sem_matrícula.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (V2 de 31/05/2023), digitada com rubrica manuscrita e anotação do número do processo à caneta",
+      "paginas": 3,
+      "imagem": true
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "SANDRO LUIZ LOPES",
+      "cpf": "743.508.389-53",
+      "assinatura": "sem contrato nos autos"
+    },
+    {
+      "papel": "comprador",
+      "nome": "PAULO VITOR MACIEL",
+      "cpf": "008.368.399-27",
+      "assinatura": "sem contrato nos autos"
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "PAULO VITOR MACIEL",
+        "cpf": "008.368.399-27"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "SANDRO LUIZ LOPES",
+        "cpf": "743.508.389-53"
+      }
+    ],
+    "data_posse": "18/07/2018",
+    "data_escrita": "29/08/2025",
+    "assinatura": "manuscrita (rubrica)"
+  },
+  "titulares_betha": [
+    {
+      "nome": "SANDRO LUIZ LOPES",
+      "cpf": "743.508.389-53",
+      "participacao": "",
+      "fonte": "Certidão cadastral (espelho) de 14/04/2026 (arquivo 7); confirmar no Betha",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [
+    {
+      "data": "16/06/1999",
+      "transmitente": {
+        "nome": "LEOBERTO DA COSTA",
+        "cpf": "289.042.309-34"
+      },
+      "adquirente": {
+        "nome": "SANDRO LUIZ LOPES",
+        "cpf": "743.508.389-53"
+      }
+    },
+    {
+      "data": "18/07/2018",
+      "transmitente": {
+        "nome": "SANDRO LUIZ LOPES",
+        "cpf": "743.508.389-53"
+      },
+      "adquirente": {
+        "nome": "PAULO VITOR MACIEL",
+        "cpf": "008.368.399-27"
+      }
+    }
+  ],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário [3NE] (Portal externo), inscrição com pontos e RG preenchido.",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Interessado = solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 3_cnh p.1",
+      "obs": "CPF 008.368.399-27 válido, igual ao da CNH; RG 4602922.",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "59.90.001.1500.001.068, José Xavier da Rosa, 715.",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "na",
+      "evidencia": "2_formulário p.1",
+      "obs": "Solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.1",
+      "obs": "Adquirente com CPF válido e RG, telefone, e-mail e endereço.",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.1",
+      "obs": "Marcado \"Não\".",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "na",
+      "evidencia": "9_declaração p.1",
+      "obs": "Em branco; sem representação.",
+      "pendencia": ""
+    },
+    "1B.III": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.2",
+      "obs": "Sandro Luiz Lopes, CPF 743.508.389-53 (válido), titular na certidão cadastral.",
+      "pendencia": ""
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.2",
+      "obs": "Rua José Xavier da Rosa, 715, Casa, CEP 88047-460.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "na",
+      "evidencia": "9_declaração p.2",
+      "obs": "Em branco; nenhum outro processo informado.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.2",
+      "obs": "2 elos: 16/06/1999 (Leoberto da Costa, CPF 289.042.309-34 → Sandro Luiz Lopes) e 18/07/2018 (Sandro → requerente), CPFs válidos, em ordem cronológica, terminando no requerente.",
+      "pendencia": ""
+    },
+    "1B.VII": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3; 7_espelho p.1",
+      "obs": "Inscrição 59.90.001.1500.001.068, terreno 405 m² e construída 45 m², iguais ao espelho cadastral. O campo \"Nº/Lote\" traz \"5\" (o imóvel é o nº 715).",
+      "pendencia": ""
+    },
+    "1B.VIII": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3",
+      "obs": "Posse desde 18/07/2018, igual à data do elo 2.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3",
+      "obs": "Florianópolis, 29 de agosto de 2025, com assinatura manuscrita (rubrica).",
+      "pendencia": ""
+    },
+    "1B.AF": {
+      "resultado": "sinalizado",
+      "evidencia": "9_declaração p.1",
+      "obs": "Digitada, com rubricas manuscritas e o número do processo anotado à caneta no rodapé da página 1, fora dos campos. A Declaração não aceita \"digitada e complementada à caneta\"; aqui a anotação não altera nenhum campo.",
+      "pendencia": ""
+    },
+    "1B.1": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 9_declaração p.3; 7_espelho p.1",
+      "obs": "Mesma inscrição no formulário, na Declaração e no espelho cadastral.",
+      "pendencia": ""
+    },
+    "1B.2": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 9_declaração p.1",
+      "obs": "CPF 008.368.399-27 em ambos.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3; 1_folha_líder",
+      "obs": "Posse de 18/07/2018, anterior ao protocolo de 03/09/2025.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.2",
+      "obs": "O transmitente de III (Sandro) é o transmitente do último elo de VI.",
+      "pendencia": ""
+    },
+    "1B.5": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3; 1_folha_líder",
+      "obs": "Data escrita 29/08/2025 e assinatura manuscrita, anteriores ao protocolo de 03/09/2025.",
+      "pendencia": ""
+    },
+    "3.1": {
+      "resultado": "pendencia",
+      "evidencia": "(sem arquivo); 9_declaração p.2 (elo 2)",
+      "obs": "Não há contrato de compra e venda ou cessão nos autos. A Declaração informa um contrato de 18/07/2018 entre Sandro Luiz Lopes e o requerente.",
+      "pendencia": "Apresentar o contrato particular de compra e venda (ou cessão de direitos de posse) de 18/07/2018 entre Sandro Luiz Lopes e Paulo Vitor Maciel, digitalizado por inteiro em arquivo único, com todas as páginas, assinaturas e selos de reconhecimento de firma por autenticidade."
+    },
+    "3.2": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.5": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.6": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.7": {
+      "resultado": "pendencia",
+      "evidencia": "(sem arquivo)",
+      "obs": "Não há termo ou recibo de quitação nos autos.",
+      "pendencia": "Apresentar o termo de quitação do contrato de 18/07/2018, assinado pelo vendedor Sandro Luiz Lopes, com firma reconhecida por autenticidade e selo legível."
+    },
+    "3.8": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.9": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "7_espelho p.1; 4_betha p.1",
+      "obs": "Titular na certidão cadastral de 14/04/2026: Sandro Luiz Lopes (CPF 743.508.389-53). Confirmar no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "provisorio",
+      "evidencia": "7_espelho p.1; 9_declaração p.2",
+      "obs": "O titular aparece na cadeia (elo 1 como adquirente e elo 2 como transmitente), o elo 2 liga o titular ao requerente e o último adquirente é o requerente. Depende da confirmação no Betha e do contrato do elo 2 (ver 3.1).",
+      "pendencia": ""
+    },
+    "4.3": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Nada indica óbito ou herança.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 9,
+    "paginas": 11,
+    "paginas_imagem": 5,
+    "inscricoes": 1,
+    "partes": 2,
+    "testemunhas": 0,
+    "elos_cadeia": 2
+  }
+}

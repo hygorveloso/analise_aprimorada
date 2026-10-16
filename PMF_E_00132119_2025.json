@@ -1,0 +1,414 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00132119/2025",
+    "protocolo": "14/06/2025 15:57",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "843.560.302-49",
+    "nome": "JAIME BERTO SCHETTINI SETUBAL FILHO"
+  },
+  "requerente": {
+    "cpf": "843.560.302-49",
+    "nome": "JAIME BERTO SCHETTINI SETUBAL FILHO"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "54.01.072.0214.001.622",
+      "cod_imovel": "393061",
+      "logradouro": "Servidão José Laurindo de Souza, 56 — Barra da Lagoa"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NE] (Portal)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "Comprovante de inscrição no CPF do requerente (emitido em 14/06/2025)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Certidão cadastral para fins gerais de 07/06/2025: contribuinte Regina Rocha Bove (100%), código 393061",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 5,
+      "nome": "5_parecer_da_análise_de_admissão.pdf",
+      "conteudo": "Parecer de admissão (mutirão)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 6,
+      "nome": "6_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior: devolução com lista genérica de documentos",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior repetido, com a dúvida do solicitante",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 8,
+      "nome": "8_finalização_da_tarefa.pdf",
+      "conteudo": "Finalização de 24/03/2026 (juntada de documentos)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 9,
+      "nome": "9_fatura_internet.pdf",
+      "conteudo": "Fatura de internet (comprovante de residência; bloco 6, fora do escopo)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 10,
+      "nome": "10_formulário_alteração_cadastral_imóvel_sem_matrícula_assinado_20-03-26.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (V2 de 31/05/2023), assinada com gov.br em 20/03/2026",
+      "paginas": 3,
+      "imagem": false
+    },
+    {
+      "n": 11,
+      "nome": "11_fatura_casan.pdf",
+      "conteudo": "Fatura de água (bloco 6, fora do escopo)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 12,
+      "nome": "12_carteira_de_motorista_2025.pdf",
+      "conteudo": "CNH digital do requerente, assinada com certificado digital (Senatran)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 13,
+      "nome": "13_recibo_de_quitação_casa.pdf",
+      "conteudo": "Recibo de quitação (R$ 790.000,00) de 05/12/2024, em foto, com reconhecimento de firma por semelhança do 19º Cartório de Registro Civil de São Paulo",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 14,
+      "nome": "14_certidão_de_casamento.pdf",
+      "conteudo": "Certidão de casamento de Jaime e Camille Yoldi dos Reis (21/12/2012, comunhão parcial de bens)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 15,
+      "nome": "15_contrato_casa_2024_-_assinado.pdf",
+      "conteudo": "Instrumento particular de cessão de direitos possessórios e compromisso de compra e venda (28/03/2024), em foto, 7 páginas rubricadas com carimbo do cartório, firmas reconhecidas por autenticidade",
+      "paginas": 7,
+      "imagem": true
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "REGINA ROCHA BOVE",
+      "cpf": "142.035.188-57",
+      "assinatura": "contrato: firma reconhecida por autenticidade (selo/reconhecimento 113743, 28/03/2024); recibo de quitação: reconhecimento por semelhança (19º Cartório de Registro Civil, São Paulo, 06/12/2024)"
+    },
+    {
+      "papel": "comprador",
+      "nome": "JAIME BERTO SCHETTINI SETUBAL FILHO",
+      "cpf": "843.560.302-49",
+      "assinatura": "firma reconhecida por autenticidade (reconhecimento 113734, 28/03/2024)"
+    },
+    {
+      "papel": "comprador",
+      "nome": "CAMILLE YOLDI DOS REIS",
+      "cpf": "988.102.602-44",
+      "assinatura": "firma reconhecida por autenticidade (reconhecimento 113734, 28/03/2024)"
+    },
+    {
+      "papel": "testemunha",
+      "nome": "LEONARDO PEDRO AGOSTINHO",
+      "cpf": "037.385.729-29",
+      "assinatura": "manuscrita, sem reconhecimento (sobrenome com leitura não confirmada)"
+    },
+    {
+      "papel": "testemunha",
+      "nome": "JOSÉ NELSON PIRES",
+      "cpf": "352.486.610-72",
+      "assinatura": "manuscrita, sem reconhecimento (sobrenome com leitura não confirmada)"
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "JAIME BERTO SCHETTINI SETUBAL FILHO",
+        "cpf": "843.560.302-49"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "REGINA ROCHA BOVE",
+        "cpf": "142.035.188-57"
+      }
+    ],
+    "data_posse": "28/03/2024",
+    "data_escrita": "20/03/2026",
+    "assinatura": "gov.br em 20/03/2026 17:19 (assinatura avançada; não validada)"
+  },
+  "titulares_betha": [
+    {
+      "nome": "REGINA ROCHA BOVE",
+      "cpf": "142.***.***-57",
+      "participacao": "100%",
+      "fonte": "Certidão cadastral de 07/06/2025 (arquivo 4); confirmar no Betha",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário [3NE] (Portal externo), inscrição com pontos e RG preenchido.",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Interessado = solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 3_cpf p.1",
+      "obs": "CPF 843.560.302-49 válido; RG 4283758 igual ao do contrato.",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "54.01.072.0214.001.622, José Laurindo de Souza, 56.",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "na",
+      "evidencia": "2_formulário p.1",
+      "obs": "Solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.1",
+      "obs": "Adquirente com CPF válido, telefone, e-mail e endereço. Só Jaime consta como adquirente (ver 3.4).",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.1",
+      "obs": "Marcado \"Não\".",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "na",
+      "evidencia": "10_declaração p.1–2",
+      "obs": "Sem representação.",
+      "pendencia": ""
+    },
+    "1B.III": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.2",
+      "obs": "Regina Rocha Bove, CPF 142.035.188-57 (válido).",
+      "pendencia": ""
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.2",
+      "obs": "Servidão José Laurindo de Souza, 56, CEP 88061-440.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "na",
+      "evidencia": "10_declaração p.2",
+      "obs": "Em branco; nenhum outro processo informado.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "na",
+      "evidencia": "10_declaração p.2–3",
+      "obs": "Em branco. A transmitente é a titular do cadastro (ver 4.1), então não há cadeia a declarar.",
+      "pendencia": ""
+    },
+    "1B.VII": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3; 4_certidão cadastral p.1",
+      "obs": "Inscrição 54.01.072.0214.001.622, nº 56, terreno 391,153 m² e construída 145,66 m², iguais à certidão cadastral.",
+      "pendencia": ""
+    },
+    "1B.VIII": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3",
+      "obs": "Posse desde 28/03/2024, igual à data do contrato.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3",
+      "obs": "Florianópolis/SC, 20 de março de 2026, com assinatura gov.br do adquirente.",
+      "pendencia": ""
+    },
+    "1B.AF": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.1–3",
+      "obs": "Digitada por inteiro, com assinatura digital, sem rasura.",
+      "pendencia": ""
+    },
+    "1B.1": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 10_declaração p.3; 15_contrato p.2",
+      "obs": "Mesma inscrição no formulário, na Declaração e no contrato.",
+      "pendencia": ""
+    },
+    "1B.2": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 10_declaração p.1",
+      "obs": "CPF 843.560.302-49 em ambos.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3; 1_folha_líder",
+      "obs": "Posse de 28/03/2024, anterior ao protocolo de 14/06/2025.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.2–3",
+      "obs": "III: 1 transmitente; VI vazio.",
+      "pendencia": ""
+    },
+    "1B.5": {
+      "resultado": "ok",
+      "evidencia": "10_declaração p.3; 8_finalização p.1",
+      "obs": "Data escrita e assinatura gov.br no mesmo dia (20/03/2026). É posterior ao protocolo (14/06/2025), mas coerente com a juntada de 24/03/2026 (arquivo 8).",
+      "pendencia": ""
+    },
+    "3.1": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1–7",
+      "obs": "Instrumento particular de cessão de direitos possessórios e compromisso de compra e venda, com arras, irrevogável (cláusula 6).",
+      "pendencia": ""
+    },
+    "3.2": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1",
+      "obs": "Vendedora, compradora e comprador com nome e CPF (todos válidos); RG do comprador igual ao do formulário.",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.7",
+      "obs": "Assinam a vendedora e os dois compradores, e duas testemunhas com nome e CPF (válidos). Sobrenomes das testemunhas com leitura não confirmada. A testemunha Leonardo é também o destinatário de R$ 30.000,00 \"a título de prestação de serviços\" (cláusula 2, letra J).",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "pendencia",
+      "evidencia": "15_contrato p.1; 14_certidão de casamento p.1; 10_declaração p.1",
+      "obs": "O contrato tem dois promitentes compradores (Jaime e a esposa Camille Yoldi dos Reis, CPF 988.102.602-44, casados em comunhão parcial desde 2012), mas só Jaime é adquirente na Declaração e requerente.",
+      "pendencia": "Incluir Camille Yoldi dos Reis (CPF 988.102.602-44) como adquirente na Declaração (campo I), já que ela também é compradora no contrato de 28/03/2024, ou esclarecer por escrito por que só o Sr. Jaime Berto Schettini Setubal Filho figura como requerente."
+    },
+    "3.5": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1; 10_declaração p.2",
+      "obs": "Promitente vendedora = transmitente da Declaração.",
+      "pendencia": ""
+    },
+    "3.6": {
+      "resultado": "ok",
+      "evidencia": "15_contrato p.1–2; 4_certidão cadastral p.1",
+      "obs": "Terreno de 391,153 m² na Servidão José Laurindo de Souza, nº 56, com inscrição 54.01.072.0214.001-622 e casa de ~150 m² (cadastro: 145,66 m²).",
+      "pendencia": ""
+    },
+    "3.7": {
+      "resultado": "retido",
+      "evidencia": "15_contrato p.2–4 (cláusulas 2 e 4); 13_recibo p.1",
+      "obs": "Preço de R$ 790.000,00 em 10 parcelas (letras A a J). Do total, R$ 147.400,00 vão para terceiros (imobiliária, corretora, serviços) e R$ 642.600,00 para a vendedora. As últimas parcelas (H, I e J, R$ 90.000,00) estão previstas para 16/12/2024 e 27/12/2024, mas o recibo de quitação é de 05/12/2024 (reconhecimento em 06/12/2024), anterior a elas. Não há comprovantes de pagamento nos autos. Não dá para saber se há parcelas em aberto; fica retido para decisão do analista.",
+      "pendencia": "Apresentar termo de quitação de R$ 790.000,00 assinado pela vendedora em data posterior ao último pagamento previsto (27/12/2024), com firma reconhecida por autenticidade, ou comprovantes dos pagamentos das letras H, I e J."
+    },
+    "3.8": {
+      "resultado": "pendencia",
+      "evidencia": "13_recibo p.1; 15_contrato p.7",
+      "obs": "O contrato tem as firmas reconhecidas por autenticidade (reconhecimentos 113734 e 113743, Escrivania de Paz da Barra da Lagoa, 28/03/2024; números dos selos HBC77587/HBC77588/HBC77615 com leitura parcial). O recibo de quitação tem a firma de Regina Rocha Bove reconhecida por SEMELHANÇA, com valor econômico (19º Cartório de Registro Civil, São Paulo, selo C11041AB0172569, 06/12/2024), e não por autenticidade.",
+      "pendencia": "Apresentar o recibo/termo de quitação com a firma da vendedora Regina Rocha Bove reconhecida por AUTENTICIDADE (o reconhecimento por semelhança não é aceito), em digitalização legível."
+    },
+    "3.9": {
+      "resultado": "sinalizado",
+      "evidencia": "15_contrato p.7; 13_recibo p.1",
+      "obs": "Contrato de 28/03/2024, reconhecimento de firma no mesmo dia e posse desde 28/03/2024, coerentes. O recibo é de 05/12/2024, antes das parcelas de 16 e 27/12/2024 (ver 3.7).",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "sinalizado",
+      "evidencia": "15_contrato p.4 (cláusulas 3 e 4)",
+      "obs": "A posse dos compradores vem após a quitação das letras A a E; a quitação plena depende do pagamento integral e da certidão negativa de débito da prefeitura, não juntada. Os compradores devem trocar a titularidade na CELESC e na CASAN em 30 dias e na prefeitura em 30 dias após a quitação. Não há escritura futura prometida.",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "4_certidão cadastral p.1",
+      "obs": "Titular na certidão cadastral de 07/06/2025: Regina Rocha Bove (CPF 142.***.***-57, 100%), que é a vendedora. Confirmar no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "provisorio",
+      "evidencia": "4_certidão cadastral p.1; 15_contrato p.1",
+      "obs": "A vendedora é a titular, então não há cadeia a testar. Depende da confirmação no Betha.",
+      "pendencia": ""
+    },
+    "4.3": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Nada indica óbito ou herança.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 15,
+    "paginas": 23,
+    "paginas_imagem": 9,
+    "inscricoes": 1,
+    "partes": 3,
+    "testemunhas": 2,
+    "elos_cadeia": 0
+  }
+}

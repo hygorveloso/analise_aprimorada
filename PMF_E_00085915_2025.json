@@ -1,0 +1,405 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00085915/2025",
+    "protocolo": "14/04/2025 15:13",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "772.812.500-10",
+    "nome": "SONIA REGINA DELAZERI"
+  },
+  "requerente": {
+    "cpf": "772.812.500-10",
+    "nome": "SONIA REGINA DELAZERI"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "17.51.038.0130.001.459",
+      "cod_imovel": "",
+      "logradouro": "Dep. Fernando Viegas, 466 — Ponta das Canas"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NE] (Portal)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "CNH-e da requerente (duplicata do arquivo 9)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Carnê de IPTU/TCRS 2025 em nome de Renato Ramos da Silva (inscrição 001.459)",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 5,
+      "nome": "5_parecer_da_análise_de_admissão_do_processo.pdf",
+      "conteudo": "Registro do sistema: análise de admissão",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 6,
+      "nome": "6_finalização_da_tarefa.pdf",
+      "conteudo": "Registro do sistema: juntada de documentos",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_iptu_466_2025.pdf",
+      "conteudo": "Carnê de IPTU/TCRS (duplicata do arquivo 4)",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 8,
+      "nome": "8_alteração_da_titularidade-_sem_matrícula.466.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (preenchida no computador, assinada digitalmente)",
+      "paginas": 4,
+      "imagem": false
+    },
+    {
+      "n": 9,
+      "nome": "9_cnh-e.pdf",
+      "conteudo": "CNH-e da requerente",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 10,
+      "nome": "10_contrato_casa_466_assinado.pdf",
+      "conteudo": "Contrato particular de cessão de direitos de posse (H&F Trading → Sonia), digitalizado",
+      "paginas": 3,
+      "imagem": true
+    },
+    {
+      "n": 11,
+      "nome": "11_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior do analista: exigência",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 12,
+      "nome": "12_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior do analista (cópia idêntica ao 11)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 13,
+      "nome": "13_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior do analista (cópia idêntica ao 11)",
+      "paginas": 1,
+      "imagem": false
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "H&F TRADING LTDA",
+      "cpf": "31.470.894/0001-07",
+      "assinatura": "p/p procurador Eduardo Hood Neves (CPF 888.582.519-20); firma reconhecida por autenticidade, selo HCK28780-ES5W, 29/05/2024"
+    },
+    {
+      "papel": "comprador",
+      "nome": "SONIA REGINA DELAZERI",
+      "cpf": "772.812.500-10",
+      "assinatura": "manuscrita; sem selo de reconhecimento legível (carimbo de tabelionato ilegível)"
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "SONIA REGINA DELAZERI",
+        "cpf": "772.812.500-10"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "H&F TRADING LTDA",
+        "cpf": "31.470.890/0001-07"
+      }
+    ],
+    "data_posse": "08/03/2023",
+    "data_escrita": "08/12/2023",
+    "assinatura": "digital ICP-Brasil (e-CPF A3), 14/04/2025"
+  },
+  "titulares_betha": [
+    {
+      "nome": "RENATO RAMOS DA SILVA",
+      "cpf": "002.650.049-34",
+      "participacao": "",
+      "fonte": "Carnê de IPTU 2025 anexo (arquivos 4 e 7); confirmar no Betha. O parecer anterior do analista fala em espólio.",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [
+    {
+      "data": "08/03/2023",
+      "transmitente": {
+        "nome": "MARIA HELENA ÁVILA DA SILVA; CLÁUDIO ÁVILA DA SILVA; RENATO RAMOS DA SILVA JUNIOR; JULIA DA SILVA ALTHOFF; PAULO ÁVILA DA SILVA; SERGIO ÁVILA DA SILVA",
+        "cpf": ""
+      },
+      "adquirente": {
+        "nome": "H&F TRADING LTDA",
+        "cpf": "31.470.890/0001-07"
+      }
+    },
+    {
+      "data": "11/12/2023",
+      "transmitente": {
+        "nome": "H&F TRADING LTDA",
+        "cpf": "31.470.890/0001-07"
+      },
+      "adquirente": {
+        "nome": "SONIA REGINA DELAZERI",
+        "cpf": "772.812.500-10"
+      }
+    }
+  ],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário [3NE] (Portal externo).",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "CPF 772.812.500-10 válido (dígitos verificadores conferidos).",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "Inscrição 17.51.038.0130.001459 (17 dígitos), imóvel nº 466.",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "na",
+      "evidencia": "2_formulário p.1",
+      "obs": "Solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.1",
+      "obs": "Adquirente, CPF, endereço e telefone preenchidos.",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.1",
+      "obs": "Marcado \"Não\".",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "na",
+      "evidencia": "8_alteração… p.1",
+      "obs": "Sem gatilho de representação.",
+      "pendencia": ""
+    },
+    "1B.III": {
+      "resultado": "pendencia",
+      "evidencia": "8_alteração… p.2; 10_contrato p.1",
+      "obs": "H&F Trading Ltda com CNPJ 31.470.890/0001-07, que não é válido (dígitos verificadores). O contrato traz 31.470.894/0001-07, que é válido.",
+      "pendencia": "Corrigir o CNPJ da transmitente H&F Trading Ltda no campo III da Declaração: consta 31.470.890/0001-07, que não é um CNPJ válido; o contrato indica 31.470.894/0001-07. Confirmar o número correto com o contrato social da empresa."
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.2",
+      "obs": "Rua Deputado Fernando Viegas, 466, casa.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.2",
+      "obs": "Preenchido com o próprio número do processo (E 00085915/2025); não indica outro processo.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "pendencia",
+      "evidencia": "8_alteração… p.2–3",
+      "obs": "2 elos preenchidos (08/03/2023 e 11/12/2023). O CPF de Sérgio Ávila da Silva (378.381.459-15) não tem dígitos verificadores válidos. A cadeia começa nos herdeiros, não no titular do cadastro (ver 4.2).",
+      "pendencia": "Corrigir o CPF de Sérgio Ávila da Silva no campo VI da Declaração: o número informado (378.381.459-15) não é um CPF válido."
+    },
+    "1B.VII": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.3",
+      "obs": "Inscrição 17.51.038.0130-001-459, nº 466, terreno 1.732,00 m², construída 163,00 m². O contrato cita 1.580,44 m² (divergência de área; bloco 2 fora do escopo).",
+      "pendencia": ""
+    },
+    "1B.VIII": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.3",
+      "obs": "Posse declarada desde 08/03/2023.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.3–4",
+      "obs": "Assinatura digital da requerente (e-CPF A3, ICP-Brasil) em 14/04/2025. Leitura local: assinatura íntegra; cadeia não consultada em validar.iti.gov.br.",
+      "pendencia": ""
+    },
+    "1B.AF": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.1–4",
+      "obs": "Preenchida inteira no computador, sem rasura nem mistura com caneta.",
+      "pendencia": ""
+    },
+    "1B.1": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.3; 2_formulário p.1",
+      "obs": "Mesma inscrição.",
+      "pendencia": ""
+    },
+    "1B.2": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.1; 2_formulário p.1",
+      "obs": "CPF 772.812.500-10 em ambos.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.3; 1_folha_líder",
+      "obs": "Posse 08/03/2023 anterior ao protocolo 14/04/2025. Ver 3.9.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "ok",
+      "evidencia": "8_alteração… p.2–3",
+      "obs": "III: 1 transmitente (H&F). VI: 2 elos (6 herdeiros → H&F em 08/03/2023; H&F → Sonia em 11/12/2023).",
+      "pendencia": ""
+    },
+    "1B.5": {
+      "resultado": "pendencia",
+      "evidencia": "8_alteração… p.3–4",
+      "obs": "Data escrita \"08 de dezembro de 2023\", anterior ao contrato (11/12/2023); assinatura digital de 14/04/2025; protocolo 14/04/2025.",
+      "pendencia": "Reapresentar a Declaração com a data correta no campo IX (consta 08/12/2023, mas a assinatura é de 14/04/2025)."
+    },
+    "3.1": {
+      "resultado": "ok",
+      "evidencia": "10_contrato p.1–3",
+      "obs": "Contrato particular de cessão de direitos de posse (cessão onerosa, equivalente à compra e venda da posse).",
+      "pendencia": ""
+    },
+    "3.2": {
+      "resultado": "ok",
+      "evidencia": "10_contrato p.1",
+      "obs": "Cedente H&F (CNPJ 31.470.894/0001-07, válido) representada por procurador com CPF; cessionária com CPF.",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "sinalizado",
+      "evidencia": "10_contrato p.3",
+      "obs": "Assinam o procurador da cedente e a cessionária, conforme a qualificação. A cláusula décima prevê duas testemunhas, mas o campo \"Testemunhas\" está sem nome nem assinatura. A procuração de Eduardo Hood Neves não está nos autos (bloco 5, fora do escopo).",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "ok",
+      "evidencia": "10_contrato p.1; 8_alteração… p.1",
+      "obs": "Compradora = adquirente = requerente.",
+      "pendencia": ""
+    },
+    "3.5": {
+      "resultado": "ok",
+      "evidencia": "10_contrato p.1; 8_alteração… p.2",
+      "obs": "Mesma empresa pelo nome; o CNPJ da Declaração está errado (ver 1B.III).",
+      "pendencia": ""
+    },
+    "3.6": {
+      "resultado": "sinalizado",
+      "evidencia": "10_contrato p.1",
+      "obs": "Terreno em Ponta das Canas, 1.580,44 m², com confrontações e inscrição 17.51.038.0130.001-459; não traz o número do imóvel (466) e a área diverge da Declaração (1.732,00 m²).",
+      "pendencia": ""
+    },
+    "3.7": {
+      "resultado": "pendencia",
+      "evidencia": "10_contrato p.1–2 (cláusulas 2 e 3)",
+      "obs": "Preço R$ 3.000.000,00, \"pagos na assinatura\". Não há declaração de quitação nem termo à parte; a cláusula 3 diz que a posse só se torna definitiva na quitação.",
+      "pendencia": "Apresentar termo de quitação assinado pelo vendedor (H&F Trading Ltda), com firma reconhecida por autenticidade, declarando o recebimento integral dos R$ 3.000.000,00."
+    },
+    "3.8": {
+      "resultado": "pendencia",
+      "evidencia": "10_contrato p.3",
+      "obs": "Cedente: reconhecimento por autenticidade de Eduardo Hood Neves (selo digital HCK28780-ES5W, 29/05/2024; não conferido em selo.tjsc.jus.br). Cessionária: nenhum selo de reconhecimento legível; só há um carimbo de tabelionato ilegível.",
+      "pendencia": "Apresentar o contrato com reconhecimento de firma por autenticidade de Sonia Regina Delazeri."
+    },
+    "3.9": {
+      "resultado": "sinalizado",
+      "evidencia": "10_contrato p.1–3; 8_alteração… p.3",
+      "obs": "Contrato de 11/12/2023; posse declarada desde 08/03/2023 (data da aquisição pela cedente, anterior ao contrato); reconhecimento da firma do cedente em 29/05/2024; Declaração datada 08/12/2023.",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "sinalizado",
+      "evidencia": "10_contrato p.2 (cláusulas 3 e 5)",
+      "obs": "O contrato exige a quitação do preço para a posse se tornar definitiva e deixa a escrituração e o registro a cargo da cessionária. Nos autos não há prova de quitação nem escritura.",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "4_inscrição_imobiliária p.1",
+      "obs": "Titular no carnê: Renato Ramos da Silva (CPF 002.650.049-34), que não está entre os vendedores (a vendedora é a H&F). Confirmar no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "pendencia",
+      "evidencia": "8_alteração… p.2–3",
+      "obs": "O titular do carnê não aparece na cadeia: o elo 1 traz Renato Ramos da Silva Junior (CPF 246.356.509-87), outra pessoa. Não há documento do elo 1 (herdeiros → H&F, 08/03/2023) nos autos.",
+      "pendencia": "Preencher o campo VI com a cadeia completa, em ordem cronológica, desde o titular no cadastro (Renato Ramos da Silva) até a requerente, e juntar o documento de cada transmissão, incluindo o contrato ou escritura de 08/03/2023 entre os herdeiros e a H&F Trading Ltda e a prova de que esses herdeiros sucederam o titular (certidão de óbito e inventário ou partilha)."
+    },
+    "4.3": {
+      "resultado": "sinalizado",
+      "evidencia": "11_parecer_do_analista p.1; 8_alteração… p.2",
+      "obs": "O parecer anterior do analista cita o \"espólio de Renato Ramos da Silva\" e pede certidão de óbito; a Declaração indica herdeiros como primeiros transmitentes. Regra de prova a definir.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 13,
+    "paginas": 20,
+    "paginas_imagem": 5,
+    "inscricoes": 1,
+    "partes": 2,
+    "testemunhas": 0,
+    "elos_cadeia": 2
+  }
+}

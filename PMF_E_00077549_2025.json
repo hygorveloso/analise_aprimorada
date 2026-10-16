@@ -1,0 +1,585 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00077549/2025",
+    "protocolo": "03/04/2025 16:24",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NEURON EXTERNO",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "059.968.369-47",
+    "nome": "LUIZA BRANDES DE AZEVEDO FERREIRA"
+  },
+  "requerente": {
+    "cpf": "661.746.609-82",
+    "nome": "ORESTES MELO DOS SANTOS JUNIOR"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "66.76.006.0346.001.743",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0350.001.973",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0354.001.013",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0360.001.313",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0484.001.803",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0488.001.034",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0497.001.963",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0502.001.423",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0514.001.024",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0518.001.193",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0530.001.793",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0534.001.933",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0544.001.383",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0548.001.523",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0560.001.023",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0562.001.101",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0568.001.413",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0569.001.034",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0612.001.223",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0616.001.473",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0620.001.601",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0624.001.843",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0628.001.074",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0364.001.563",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0368.001.703",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0372.001.933",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0376.001.083",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0380.001.203",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0384.001.453",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0638.001.433",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0642.001.663",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0648.001.983",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0662.001.003",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0658.001.323",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    },
+    {
+      "inscricao": "66.76.006.0662.001.553",
+      "cod_imovel": "",
+      "logradouro": "Rua Regular 012, s/n — Ribeirão da Ilha"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NEURON EXTERNO] (variante nova): tabela com 5 inscrições e observação com as 35",
+      "paginas": 3,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "Fotos de RG de Oreste Melo dos Santos Júnior, verso de RG (leitura do nome não confirmada) e CNH de Pedro Paulo Corrêa (validade vencida)",
+      "paginas": 3,
+      "imagem": true
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Petição de 28/03/2025 (assinada digitalmente), procuração ad judicia de Pedro Paulo ao escritório de Renata Gomes da Silva Bulgarelli, substabelecimento de Gabriel Scotti a Luiza Brandes, procuração de Oreste a Gabriel Scotti e levantamento de inscrições",
+      "paginas": 11,
+      "imagem": false
+    },
+    {
+      "n": 5,
+      "nome": "5_parecer_da_análise_de_admissão_do_processo.pdf",
+      "conteudo": "Parecer de admissão (mutirão): encaminhar para análise",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 6,
+      "nome": "6_criação_da_tarefa.pdf",
+      "conteudo": "Tarefa de 18/02/2026 ao Depto. de Cadastro e Base Territorial (área maior de 116.584,27 m²)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_criação_da_tarefa.pdf",
+      "conteudo": "Tarefa de 18/02/2026 à Assessoria Jurídica para juntar a ação judicial 0308368-17.2017.8.24.0023",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 8,
+      "nome": "8_sc-0308368...parte_3.PDF",
+      "conteudo": "Peças da ação judicial (cumprimento de sentença 5083610-23.2024.8.24.0023, origem 0308368-17.2017.8.24.0023): Pedro Paulo exequente, Oreste executado, assunto Cessão de Direitos",
+      "paginas": 80,
+      "imagem": false
+    },
+    {
+      "n": 9,
+      "nome": "9_sc-0308368...parte_2.PDF",
+      "conteudo": "Peças da ação judicial (parte 2)",
+      "paginas": 40,
+      "imagem": false
+    },
+    {
+      "n": 10,
+      "nome": "10_sc_parte_1.PDF",
+      "conteudo": "Peças da ação judicial (parte 1), não lidas por inteiro",
+      "paginas": 1234,
+      "imagem": false
+    },
+    {
+      "n": 11,
+      "nome": "11_finalização_da_tarefa.pdf",
+      "conteudo": "Resposta do Depto. de Cadastro e Base Territorial de 20/02/2026: não é possível localizar o imóvel descrito",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 12,
+      "nome": "12_criação_da_tarefa.pdf",
+      "conteudo": "Comunique-se de 26/02/2026: exige levantamento topográfico com ART/RRT e Formulário Anexo 1",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 13,
+      "nome": "13_finalização_da_tarefa.pdf",
+      "conteudo": "Finalização de 24/03/2026: documentos juntados aos autos",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 14,
+      "nome": "14_czxc.pdf",
+      "conteudo": "E-mail de 24/03/2026 do escritório confirmando o envio da Declaração e da petição de resposta",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 15,
+      "nome": "15_peticao_resposta_exigencia...assinado_1.pdf",
+      "conteudo": "Petição de 09/03/2026 respondendo à exigência: não apresenta o levantamento topográfico",
+      "paginas": 2,
+      "imagem": false
+    },
+    {
+      "n": 16,
+      "nome": "16_declaracao_para_alteracao_de_titularidade...pedro_paulo_assinado_.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (V2 de 31/05/2023), digital, de 09/03/2026, com 35 inscrições, assinada digitalmente por procuradora (gov.br, 10/03/2026) e carimbo gov.br de Gabriel Scotti",
+      "paginas": 4,
+      "imagem": false
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "ORESTE MELO DOS SANTOS JÚNIOR",
+      "cpf": "661.746.609-82",
+      "assinatura": "sem contrato nos autos"
+    },
+    {
+      "papel": "comprador",
+      "nome": "PEDRO PAULO CORRÊA",
+      "cpf": "344.079.529-20",
+      "assinatura": "sem contrato nos autos"
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "PEDRO PAULO CORRÊA",
+        "cpf": "344.079.529-20"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "ORESTE MELO DOS SANTOS JÚNIOR",
+        "cpf": "661.746.609-82"
+      }
+    ],
+    "data_posse": "26/09/2013",
+    "data_escrita": "09/03/2026",
+    "assinatura": "digital (procuradora, gov.br, 10/03/2026)"
+  },
+  "titulares_betha": [
+    {
+      "nome": "ORESTE MELO DOS SANTOS JÚNIOR",
+      "cpf": "661.746.609-82",
+      "participacao": "",
+      "fonte": "Petição de 28/03/2025 (arquivo 4): afirma que as inscrições estão em seu nome; sem espelho nos autos; confirmar no Betha",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [
+    {
+      "data": "20/11/1989",
+      "transmitente": {
+        "nome": "EDEZIA SANTOS DA SILVA E OUTROS",
+        "cpf": "342.622.619-72"
+      },
+      "adquirente": {
+        "nome": "PEDRO PAULO CORRÊA",
+        "cpf": "344.079.529-20"
+      }
+    }
+  ],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário de variante nova [3NEURON EXTERNO] (Portal): CPF sem pontuação e inscrições com pontos. Registrar a variante.",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "sinalizado",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "A Folha Líder traz o interessado \"ORESTES\" e os demais documentos \"ORESTE\". O interessado e o requerente do formulário é o TRANSMITENTE (Oreste); o adquirente (Pedro Paulo Corrêa) aparece só na observação e na Declaração. O solicitante é outra pessoa (ver 1A.6). Caso não previsto no checklist.",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1; 3_rg p.1; 4_petição p.1",
+      "obs": "CPF 661.746.609-82 válido e RG 2.306.264 (leitura do documento) iguais aos da petição. Foto do RG virada e com reflexo. O CPF do adquirente (344.079.529-20, válido) consta na CNH de Pedro Paulo (3_rg p.3), vencida em 2019, e na Declaração.",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "sinalizado",
+      "evidencia": "2_formulário p.1-3; 16_declaração p.2-3",
+      "obs": "A tabela do formulário lista só 5 inscrições; as 35 estão na observação. As 35 do formulário são as mesmas da Declaração (conferido). Contagem real: 35.",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "sinalizado",
+      "evidencia": "2_formulário p.1; 4_substabelecimento p.6",
+      "obs": "Solicitante (Luiza Brandes de Azevedo Ferreira, CPF 059.968.369-47 válido, estagiária) difere do requerente (Oreste). Cadeia de mandatos: Oreste a Gabriel Scotti (15/08/2023, assinada digitalmente), substabelecimento a Luiza (15/09/2023, assinatura não confirmada). Representação é do bloco 5 (fora do escopo).",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "16_declaração p.1",
+      "obs": "Adquirente Pedro Paulo Corrêa, CPF 344.079.529-20 válido. Telefone e e-mail são do escritório da procuradora; RG não informado.",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "ok",
+      "evidencia": "16_declaração p.1",
+      "obs": "Marcado \"Sim\".",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "pendencia",
+      "evidencia": "16_declaração p.1; 4_procuração p.5",
+      "obs": "Procuradora Renata Gomes da Silva Bulgarelli, CPF 029.977.888-62 válido, com procuração ad judicia de Pedro Paulo de 05/03/2025 (carimbo gov.br, data de 13/03/2025 com leitura não confirmada), com poderes para processo administrativo na PMF. Não consta documento de identificação da procuradora, exigido ao pé da Declaração.",
+      "pendencia": "Apresentar o documento de identificação (RG/CNH ou carteira da OAB) de Renata Gomes da Silva Bulgarelli, procuradora que assina a Declaração."
+    },
+    "1B.III": {
+      "resultado": "ok",
+      "evidencia": "16_declaração p.2",
+      "obs": "Transmitente Oreste Melo dos Santos Júnior, CPF 661.746.609-82 válido.",
+      "pendencia": ""
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "16_declaração p.2",
+      "obs": "Rua da Capela, 537, Campeche, CEP 88063-400, igual ao do adquirente.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "sinalizado",
+      "evidencia": "16_declaração p.2",
+      "obs": "Informado o próprio processo (PMF E 00077549/2025), em andamento.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "pendencia",
+      "evidencia": "16_declaração p.2; 4_petição p.1",
+      "obs": "Há um só elo, de 20/11/1989: Edezia Santos da Silva \"e outros\" (CPF 342.622.619-72, válido) para Pedro Paulo Corrêa. O requerente/transmitente Oreste não aparece na cadeia, embora a petição diga que Oreste e Pedro Paulo adquiriram 50% cada pela escritura de 1989 e que a cota de Oreste foi alienada a terceira (Evelin Severino Brum). \"E outros\" não identifica os cedentes. Os elos entre os cedentes de 1989, Oreste e Pedro Paulo, e a posse dividida, não estão documentados.",
+      "pendencia": "Reapresentar a Declaração com a cadeia sucessória completa e em ordem cronológica (todos os cedentes identificados com nome e CPF, a aquisição de Oreste e de Pedro Paulo na escritura de 20/11/1989, a divisão da posse entre ambos e, se houver, a cessão a terceiros), terminando em Pedro Paulo Corrêa."
+    },
+    "1B.VII": {
+      "resultado": "sinalizado",
+      "evidencia": "16_declaração p.2-3; 2_formulário p.2-3; 4_levantamento p.9-11; 11_finalização p.1",
+      "obs": "35 inscrições, todas iguais às do formulário, todas com terreno 474,72 m² e construída 0. Lotes repetidos (0544 e 0548 no lote 55) e inscrições sem lote (0484, 0488, 0560, 0562, 0568, 0569, 0662.001.003). Não há espelho cadastral nos autos para conferir. O Depto. de Cadastro e Base Territorial não conseguiu localizar o imóvel da escritura (área maior 116.584,27 m²) e o levantamento topográfico exigido em 26/02/2026 não foi apresentado: a petição de 09/03/2026 alega impossibilidade. Cabe ao analista decidir se aceita a justificativa.",
+      "pendencia": ""
+    },
+    "1B.VIII": {
+      "resultado": "sinalizado",
+      "evidencia": "16_declaração p.3; 4_petição p.1",
+      "obs": "Posse desde 26/09/2013, posterior à aquisição de 1989 e sem relação com o único elo. A petição fala em posse exclusiva de Pedro Paulo \"há mais de uma década\" (coerente), mas a divisão da posse não está documentada.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "sinalizado",
+      "evidencia": "16_declaração p.4",
+      "obs": "Florianópolis, 09/03/2026, assinada pela procuradora (gov.br, 10/03/2026). Assinatura digital só se valida com o arquivo eletrônico original; pdfsig mostra a integridade válida mas certificado de Gabriel Scotti expirado e cadeia ICP não verificada.",
+      "pendencia": ""
+    },
+    "1B.AF": {
+      "resultado": "ok",
+      "evidencia": "16_declaração p.1-4",
+      "obs": "Documento digital, preenchido por completo, sem rasuras nem complementação à caneta.",
+      "pendencia": ""
+    },
+    "1B.1": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1-3; 16_declaração p.2-3",
+      "obs": "As 35 inscrições do formulário e da Declaração são as mesmas (conferido por script).",
+      "pendencia": ""
+    },
+    "1B.2": {
+      "resultado": "sinalizado",
+      "evidencia": "2_formulário p.1; 16_declaração p.1",
+      "obs": "O CPF do formulário (661.746.609-82, Oreste) é o do transmitente na Declaração, não o do adquirente. O processo é aberto pelo transmitente em favor de outra pessoa.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "16_declaração p.3; 1_folha_líder p.1",
+      "obs": "Posse de 26/09/2013, anterior ao protocolo de 03/04/2025.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "pendencia",
+      "evidencia": "16_declaração p.2",
+      "obs": "O transmitente de III (Oreste) não é o transmitente do último elo de VI (Edezia Santos da Silva e outros).",
+      "pendencia": "Ajustar a Declaração para que o transmitente informado em III coincida com o transmitente do último elo da cadeia de VI, ou documentar a cessão de Oreste a Pedro Paulo."
+    },
+    "1B.5": {
+      "resultado": "sinalizado",
+      "evidencia": "16_declaração p.4; 15_petição p.2; 1_folha_líder p.1",
+      "obs": "Data escrita 09/03/2026; assinatura de Renata em 10/03/2026 e carimbo gov.br de Gabriel Scotti de 06/03/2026 (leitura da data não confirmada), anterior à data escrita. Todas posteriores ao protocolo (03/04/2025), pois a Declaração respondeu à exigência de 26/02/2026.",
+      "pendencia": ""
+    },
+    "3.1": {
+      "resultado": "pendencia",
+      "evidencia": "(sem arquivo); 6_tarefa p.1; 4_petição p.1",
+      "obs": "A escritura pública de cessão de direitos hereditários de 20/11/1989 (DOC 03 da petição; \"fls. 15-18\" do processo) não está entre os arquivos recebidos. As peças judiciais (arquivos 8, 9 e 10, 1.354 páginas) não foram lidas por inteiro; a busca por palavras não a localizou, pode estar em imagem.",
+      "pendencia": "Apresentar a Escritura Pública de Cessão de Direitos Hereditários de 20/11/1989 (DOC 03 da petição), por inteiro e legível, e o instrumento pelo qual Oreste Melo dos Santos Júnior transmitiu a posse das 35 inscrições a Pedro Paulo Corrêa (divisão amigável de posse), com assinaturas e reconhecimento de firma por autenticidade."
+    },
+    "3.2": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nem escritura nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nem escritura nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nem escritura nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.5": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nem escritura nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.6": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nem escritura nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.7": {
+      "resultado": "pendencia",
+      "evidencia": "(sem arquivo)",
+      "obs": "Não há termo ou recibo de quitação nos autos.",
+      "pendencia": "Apresentar o termo de quitação da cessão/divisão de posse entre Oreste Melo dos Santos Júnior e Pedro Paulo Corrêa, com firma reconhecida por autenticidade (ou indicar a página da escritura em que consta a quitação)."
+    },
+    "3.8": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nem escritura nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.9": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nem escritura nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Não avaliável: não há contrato nem escritura nos autos (ver 3.1).",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "4_petição p.1",
+      "obs": "Titular afirmado só na petição: Oreste Melo dos Santos Júnior. Não há espelho cadastral nos autos; confirmar o titular das 35 inscrições no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "provisorio",
+      "evidencia": "4_petição p.1; 16_declaração p.2",
+      "obs": "Se o Betha confirmar Oreste como titular, ele não está na cadeia (teste a falha); a petição indica que adquiriu em 1989 e vendeu cota a terceira. Depende do Betha e da cadeia (ver 1B.VI).",
+      "pendencia": ""
+    },
+    "4.3": {
+      "resultado": "sinalizado",
+      "evidencia": "4_petição p.1; 8_judicial p.1",
+      "obs": "A origem é cessão de direitos hereditários (cedentes \"Edezia Santos da Silva e outros\"), sem inventário nos autos. Corre ação judicial entre as mesmas partes (cumprimento de sentença 5083610-23.2024.8.24.0023, origem 0308368-17.2017.8.24.0023; Pedro Paulo exequente, Oreste executado; assunto Cessão de Direitos). Há débitos lançados e Pedro Paulo pede parcelar. Sugerir consulta à Procuradoria. Caso novo.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 16,
+    "paginas": 1385,
+    "paginas_imagem": 4,
+    "inscricoes": 35,
+    "partes": 2,
+    "testemunhas": 0,
+    "elos_cadeia": 1
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "versao_checklist": "v2",
+  "gerado_em": "2026-10-16",
+  "processo": {
+    "numero": "PMF E 00262357/2025",
+    "protocolo": "26/11/2025 15:48",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+  },
+  "solicitante": {
+    "cpf": "323.102.058-18",
+    "nome": "LUIS HENRIQUE SPOLADORE AMARAL"
+  },
+  "requerente": {
+    "cpf": "323.102.058-18",
+    "nome": "LUIS HENRIQUE SPOLADORE AMARAL"
+  },
+  "inscricoes": [
+    {
+      "inscricao": "79.34.054.1910.001.525",
+      "cod_imovel": "467530",
+      "logradouro": "Servidão Olaria do Sul, S/N — Pântano do Sul"
+    }
+  ],
+  "arquivos": [
+    {
+      "n": 1,
+      "nome": "1_folha_líder.pdf",
+      "conteudo": "Folha Líder",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 2,
+      "nome": "2_formulário_de_cadastro.pdf",
+      "conteudo": "Formulário do sistema [3NE] (Portal)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 3,
+      "nome": "3_rg_cpf_ou_cnpj_do_adquirente.pdf",
+      "conteudo": "RG do requerente (frente e verso, mesma página)",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 4,
+      "nome": "4_inscrição_imobiliária.pdf",
+      "conteudo": "Carnê de IPTU/TCRS 2026 em nome de Onesimo Sião de Oliveira (inscrição 001.525)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 5,
+      "nome": "5_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior do analista: 1ª exigência (contrato, termo de quitação, formulário, contrato digital)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 6,
+      "nome": "6_parecer_do_analista.pdf",
+      "conteudo": "Parecer anterior do analista: \"segunda pendência\" (mesmo teor)",
+      "paginas": 1,
+      "imagem": false
+    },
+    {
+      "n": 7,
+      "nome": "7_contrato_de_compra_e_venda_digitalizado.pdf",
+      "conteudo": "Instrumento particular de cessão de direitos possessórios / compra e venda de imóvel de posse (Onesimo → Luís Henrique, anuente Guilhermina), com selo de reconhecimento por autenticidade",
+      "paginas": 4,
+      "imagem": true
+    },
+    {
+      "n": 8,
+      "nome": "8_recibo_de_quitacao_digitalizado.pdf",
+      "conteudo": "Recibo de quitação do imóvel (R$ 365.000,00), com selo de reconhecimento por autenticidade",
+      "paginas": 1,
+      "imagem": true
+    },
+    {
+      "n": 9,
+      "nome": "9_declaração_para_alteração_de_titularidade_-_imóvel_sem_matrícula.pdf",
+      "conteudo": "Declaração para Alteração de Titularidade (digitada, com assinatura em imagem)",
+      "paginas": 4,
+      "imagem": false
+    }
+  ],
+  "partes": [
+    {
+      "papel": "vendedor",
+      "nome": "ONESIMO SIÃO DE OLIVEIRA",
+      "cpf": "018.110.729-50",
+      "assinatura": "firma reconhecida por autenticidade, selo n.º 530251 (22/08/2025)"
+    },
+    {
+      "papel": "comprador",
+      "nome": "LUÍS HENRIQUE SPOLADORE AMARAL",
+      "cpf": "323.102.058-18",
+      "assinatura": "firma reconhecida por autenticidade, selo n.º 530251 (22/08/2025)"
+    },
+    {
+      "papel": "anuente",
+      "nome": "GUILHERMINA SOUZA DE OLIVEIRA",
+      "cpf": "767.839.289-34",
+      "assinatura": "firma reconhecida por autenticidade, selo n.º 530251 (22/08/2025)"
+    },
+    {
+      "papel": "testemunha",
+      "nome": "MARCELO BATISTA",
+      "cpf": "642.409.249-87",
+      "assinatura": "manuscrita, sem reconhecimento"
+    },
+    {
+      "papel": "testemunha",
+      "nome": "JULIANA HAMMEL SALDANHA",
+      "cpf": "036.216.019-88",
+      "assinatura": "manuscrita, sem reconhecimento"
+    }
+  ],
+  "declaracao": {
+    "adquirentes": [
+      {
+        "nome": "LUÍS HENRIQUE SPOLADORE AMARAL",
+        "cpf": "323.102.058-18"
+      }
+    ],
+    "transmitentes": [
+      {
+        "nome": "ONESIMO SIÃO DE OLIVEIRA",
+        "cpf": "018.110.729-50"
+      }
+    ],
+    "data_posse": "22/08/2025",
+    "data_escrita": "",
+    "assinatura": "imagem de assinatura colada no documento digitado (sem certificado digital)"
+  },
+  "titulares_betha": [
+    {
+      "nome": "ONESIMO SIÃO DE OLIVEIRA",
+      "cpf": "018.***.***-50",
+      "participacao": "",
+      "fonte": "Carnê de IPTU 2026 anexo (arquivo 4; CPF parcialmente mascarado); confirmar no Betha",
+      "confirmado": false
+    }
+  ],
+  "cadeia": [],
+  "decisao_sugerida": "pendencia",
+  "linhas": {
+    "1A.1": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "Formulário [3NE] (Portal externo).",
+      "pendencia": ""
+    },
+    "1A.2": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1",
+      "obs": "Classificação 40.1746.",
+      "pendencia": ""
+    },
+    "1A.3": {
+      "resultado": "ok",
+      "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+      "obs": "",
+      "pendencia": ""
+    },
+    "1A.4": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "CPF 323.102.058-18 válido.",
+      "pendencia": ""
+    },
+    "1A.5": {
+      "resultado": "ok",
+      "evidencia": "2_formulário p.1",
+      "obs": "79.34.054.1910.001.525; número do imóvel \"SN\".",
+      "pendencia": ""
+    },
+    "1A.6": {
+      "resultado": "na",
+      "evidencia": "2_formulário p.1",
+      "obs": "Solicitante = requerente.",
+      "pendencia": ""
+    },
+    "1B.I": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.1",
+      "obs": "Adquirente, CPF, endereço e telefone preenchidos.",
+      "pendencia": ""
+    },
+    "1B.RT": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.1",
+      "obs": "Marcado \"Não\".",
+      "pendencia": ""
+    },
+    "1B.II": {
+      "resultado": "na",
+      "evidencia": "9_declaração p.1–2",
+      "obs": "Sem gatilho de representação.",
+      "pendencia": ""
+    },
+    "1B.III": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.2",
+      "obs": "Onesimo Sião de Oliveira, CPF 018.110.729-50 (válido).",
+      "pendencia": ""
+    },
+    "1B.IV": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.2",
+      "obs": "Servidão Olaria do Sul, 120.",
+      "pendencia": ""
+    },
+    "1B.V": {
+      "resultado": "na",
+      "evidencia": "9_declaração p.2",
+      "obs": "Campo vazio; nenhum outro processo informado.",
+      "pendencia": ""
+    },
+    "1B.VI": {
+      "resultado": "na",
+      "evidencia": "9_declaração p.2–3",
+      "obs": "Vazio. O vendedor é o titular no carnê (ver 4.1), então o campo não é obrigatório.",
+      "pendencia": ""
+    },
+    "1B.VII": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3",
+      "obs": "Inscrição 79.34.054.1910.001.525, nº SN, terreno 360,00 m², \"Não construído\". O contrato descreve o terreno como nº 122 (divergência de endereço; bloco 2 fora do escopo).",
+      "pendencia": ""
+    },
+    "1B.VIII": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3",
+      "obs": "Posse desde 22/08/2025.",
+      "pendencia": ""
+    },
+    "1B.IX": {
+      "resultado": "pendencia",
+      "evidencia": "9_declaração p.3–4",
+      "obs": "A assinatura é uma imagem colada no documento digitado, sem certificado digital. O campo \"Local e data\" traz só o nome do adquirente, sem local nem data.",
+      "pendencia": "Preencher o campo IX da Declaração com o local e a data (hoje consta apenas o nome do adquirente) e assiná-la."
+    },
+    "1B.AF": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.1–4",
+      "obs": "Digitada por inteiro, sem rasura nem mistura com caneta. A assinatura é imagem inserida.",
+      "pendencia": ""
+    },
+    "1B.1": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3; 2_formulário p.1",
+      "obs": "Mesma inscrição.",
+      "pendencia": ""
+    },
+    "1B.2": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.1; 2_formulário p.1",
+      "obs": "CPF 323.102.058-18 em ambos.",
+      "pendencia": ""
+    },
+    "1B.3": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.3; 1_folha_líder",
+      "obs": "22/08/2025 ≤ protocolo 26/11/2025.",
+      "pendencia": ""
+    },
+    "1B.4": {
+      "resultado": "ok",
+      "evidencia": "9_declaração p.2–3",
+      "obs": "III: 1 transmitente; VI vazio.",
+      "pendencia": ""
+    },
+    "1B.5": {
+      "resultado": "sinalizado",
+      "evidencia": "9_declaração p.3–4",
+      "obs": "Não há data escrita (ver 1B.IX), então não dá para conferir com a assinatura nem com o protocolo.",
+      "pendencia": ""
+    },
+    "3.1": {
+      "resultado": "ok",
+      "evidencia": "7_contrato p.1",
+      "obs": "Instrumento particular de cessão de direitos possessórios, com texto de contrato particular de compra e venda de imóvel de posse (arts. 481 a 532 do CC). Os pareceres anteriores (arquivos 5 e 6) falam em contrato assinado digitalmente; o anexo é papel digitalizado com selo de cartório.",
+      "pendencia": ""
+    },
+    "3.2": {
+      "resultado": "ok",
+      "evidencia": "7_contrato p.1",
+      "obs": "Cedente, cessionário e anuente com nome e CPF (todos válidos); testemunhas com CPF ao lado da assinatura.",
+      "pendencia": ""
+    },
+    "3.3": {
+      "resultado": "ok",
+      "evidencia": "7_contrato p.4",
+      "obs": "Assinam os três qualificados (cedente, anuente e cessionário) e duas testemunhas.",
+      "pendencia": ""
+    },
+    "3.4": {
+      "resultado": "ok",
+      "evidencia": "7_contrato p.1; 9_declaração p.1",
+      "obs": "Cessionário = adquirente da Declaração = requerente.",
+      "pendencia": ""
+    },
+    "3.5": {
+      "resultado": "ok",
+      "evidencia": "7_contrato p.1; 9_declaração p.2",
+      "obs": "Cedente = transmitente da Declaração.",
+      "pendencia": ""
+    },
+    "3.6": {
+      "resultado": "ok",
+      "evidencia": "7_contrato p.1 (cláusula 1)",
+      "obs": "Terreno de 360,00 m² na Servidão Olaria do Sul, nº 122, com inscrição e confrontações.",
+      "pendencia": ""
+    },
+    "3.7": {
+      "resultado": "ok",
+      "evidencia": "7_contrato p.2 (cláusula 4); 8_recibo p.1",
+      "obs": "R$ 365.000,00 por PIX, à conta da anuente (mãe do cedente) indicada pelo cedente. Recibo de quitação à parte, assinado pelo cedente com reconhecimento por autenticidade (selo n.º 530253, 22/08/2025). Observação: o recibo está datado \"22 de Agosto de 2020\" e o selo é de 22/08/2025 (ver 3.9).",
+      "pendencia": ""
+    },
+    "3.8": {
+      "resultado": "ok",
+      "evidencia": "7_contrato p.4; 8_recibo p.1",
+      "obs": "Contrato: selo n.º 530251 (Escrivania de Paz do Campeche, 22/08/2025) reconhece por autenticidade as firmas de Onesimo, Guilhermina e Luís Henrique. Recibo: selo n.º 530253 reconhece a firma de Onesimo. Selos ainda não conferidos em selo.tjsc.jus.br; números de selo lidos em imagem de baixa resolução (leitura parcial).",
+      "pendencia": ""
+    },
+    "3.9": {
+      "resultado": "sinalizado",
+      "evidencia": "7_contrato p.4; 8_recibo p.1; 9_declaração p.3",
+      "obs": "Contrato e selo de 22/08/2025, posse desde 22/08/2025. O recibo traz a data escrita de 22/08/2020, cinco anos antes do selo (provável erro de digitação).",
+      "pendencia": ""
+    },
+    "3.10": {
+      "resultado": "sinalizado",
+      "evidencia": "7_contrato p.2–3 (cláusulas 5, 6, 7 e 9)",
+      "obs": "O cedente deve entregar o terreno limpo e apresentar a quitação de IPTU, luz e água (cláusulas 5 e 6). A escritura pública é futura e a cargo do cessionário (cláusulas 7 e 9). Nos autos não há comprovante de quitação de IPTU/água/luz.",
+      "pendencia": ""
+    },
+    "4.1": {
+      "resultado": "provisorio",
+      "evidencia": "4_inscrição_imobiliária p.1",
+      "obs": "Titular no carnê: Onesimo Sião de Oliveira (CPF 018.***.***-50), que é o vendedor. Confirmar no Betha.",
+      "pendencia": ""
+    },
+    "4.2": {
+      "resultado": "provisorio",
+      "evidencia": "4_inscrição_imobiliária p.1",
+      "obs": "O vendedor é o titular, então nenhum vendedor fica fora da titularidade. Depende da confirmação no Betha. O contrato cita compromisso de 25/05/2009 com Euclidio Osnildo Duarte, que não está nos autos.",
+      "pendencia": ""
+    },
+    "4.3": {
+      "resultado": "na",
+      "evidencia": "",
+      "obs": "Nada indica óbito ou herança.",
+      "pendencia": ""
+    }
+  },
+  "complexidade": {
+    "arquivos": 9,
+    "paginas": 15,
+    "paginas_imagem": 6,
+    "inscricoes": 1,
+    "partes": 3,
+    "testemunhas": 2,
+    "elos_cadeia": 0
+  }
+}
