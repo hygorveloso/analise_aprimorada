@@ -1,8 +1,4146 @@
 {
  "versao_checklist": "v2",
- "gerado_em": "2026-10-16T13:18:36",
- "total": 11,
+ "gerado_em": "2026-10-20T12:13:23",
+ "total": 26,
  "processos": [
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00053262/2026",
+    "protocolo": "04/03/2026 16:32",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "008.067.709-61",
+    "nome": "LEANDRO TORNERI"
+   },
+   "requerente": {
+    "cpf": "008.067.709-61",
+    "nome": "LEANDRO TORNERI"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "24.91.086.0372.001.014",
+     "cod_imovel": "101254",
+     "logradouro": "Nova Era, 101 — Ingleses"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NE] (Portal)",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documento de identificação (imagem; não conferido)",
+     "paginas": 1,
+     "imagem": true
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Carnê de IPTU 2026 (sacado Patricia Brandl da Silva, imóvel 101254)",
+     "paginas": 1,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [
+    {
+     "nome": "PATRICIA BRANDL DA SILVA",
+     "cpf": "",
+     "participacao": "",
+     "fonte": "Carnê IPTU 2026 (arquivo 4); sacado \"45525 - PATRICIA BRANDL DA SILVA\"; confirmar no Betha",
+     "confirmado": false
+    }
+   ],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NE].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "008.067.709-61 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "24.91.086.0372.001.014; nº 101.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "provisorio",
+     "evidencia": "Carnê IPTU 2026 (arquivo 4); sacado \"45525 - PATRICIA BRANDL DA SILVA\"",
+     "obs": "Titular no cadastro: PATRICIA BRANDL DA SILVA. Sem contrato nos autos para comparar com o vendedor; confirmar no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 4,
+    "paginas_imagem": 1,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00044432/2026",
+    "protocolo": "23/02/2026 17:33",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "081.201.779-08",
+    "nome": "ALEXANDRE LERMEN"
+   },
+   "requerente": {
+    "cpf": "081.201.779-08",
+    "nome": "ALEXANDRE LERMEN"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "53.52.008.0396.001.070",
+     "cod_imovel": "",
+     "logradouro": "Locio Americo Martins, SN — Lagoa da Conceição"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NE] (Portal)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Comprovante de inscrição no CPF (Receita) de Alexandre Lermen, 081.201.779-08",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Consulta cadastral: contribuinte Cristina Castellano (CPF 455.***.***-49, 100%)",
+     "paginas": 1,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [
+    {
+     "nome": "CRISTINA CASTELLANO",
+     "cpf": "455.***.***-49",
+     "participacao": "",
+     "fonte": "Consulta cadastral (arquivo 4); confirmar no Betha",
+     "confirmado": false
+    }
+   ],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NE].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "081.201.779-08 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "53.52.008.0396.001.070; nº SN.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "provisorio",
+     "evidencia": "Consulta cadastral (arquivo 4)",
+     "obs": "Titular no cadastro: CRISTINA CASTELLANO (CPF 455.***.***-49). Sem contrato nos autos para comparar com o vendedor; confirmar no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 5,
+    "paginas_imagem": 0,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00053076/2026",
+    "protocolo": "04/03/2026 15:31",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "556.765.709-97",
+    "nome": "JOAO CARLOS DE MATOS"
+   },
+   "requerente": {
+    "cpf": "556.765.709-97",
+    "nome": "JOAO CARLOS DE MATOS"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "66.49.071.1001.002.205",
+     "cod_imovel": "",
+     "logradouro": "Venceslau Manoel Amaro, 43 — Tapera da Base"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NE] (Portal)",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documento de identificação (imagem, 2 páginas; não conferido)",
+     "paginas": 2,
+     "imagem": true
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Carnê de IPTU (imagem; contribuinte Divina Maria da Cruz Balbino)",
+     "paginas": 1,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [
+    {
+     "nome": "DIVINA MARIA DA CRUZ BALBINO",
+     "cpf": "",
+     "participacao": "",
+     "fonte": "Carnê IPTU (arquivo 4, imagem); confirmar no Betha",
+     "confirmado": false
+    }
+   ],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NE].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "556.765.709-97 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "66.49.071.1001.002.205; nº 43.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "provisorio",
+     "evidencia": "Carnê IPTU (arquivo 4, imagem)",
+     "obs": "Titular no cadastro: DIVINA MARIA DA CRUZ BALBINO. Sem contrato nos autos para comparar com o vendedor; confirmar no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 5,
+    "paginas_imagem": 2,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00158003/2025",
+    "protocolo": "18/07/2025 18:32",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "643.070.939-68",
+    "nome": "RENATA BENEDET"
+   },
+   "requerente": {
+    "cpf": "643.070.939-68",
+    "nome": "RENATA BENEDET"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "32.77.054.4128.001.707",
+     "cod_imovel": "",
+     "logradouro": "Caminho Do Lago, SN — Rio Vermelho"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NE] (Portal)",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documento de identificação (imagem; não conferido)",
+     "paginas": 1,
+     "imagem": true
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Inscrição imobiliária (imagem; não conferido)",
+     "paginas": 1,
+     "imagem": true
+    },
+    {
+     "n": 5,
+     "nome": "5_parecer_do_analista.pdf",
+     "conteudo": "Parecer anterior: devolução pedindo contrato de compra e venda, termo de quitação, comprovante de residência, cadeia possessória e formulário específico",
+     "paginas": 1,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NE].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "643.070.939-68 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "32.77.054.4128.001.707; nº SN. Inscrição digitada sem pontuação no formulário.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–5",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4, 5). Parecer anterior (arquivo 5) já devolveu o processo pedindo contrato de compra e venda, termo de quitação, comprovante de residência, cadeia possessória e formulário específico; nada disso consta nos autos.",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Documento da inscrição ilegível por texto (imagem) ou sem titular identificado; consultar o titular no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 5,
+    "paginas": 5,
+    "paginas_imagem": 2,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00043277/2026",
+    "protocolo": "21/02/2026 00:32",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "022.744.550-31",
+    "nome": "WALTER MONTEIRO RIBEIRO JUNIOR"
+   },
+   "requerente": {
+    "cpf": "022.744.550-31",
+    "nome": "WALTER MONTEIRO RIBEIRO JUNIOR"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "24.54.033.0315.010.935",
+     "cod_imovel": "",
+     "logradouro": "Intendente João Nunes Vieira, 262 — Ingleses do Rio Vermelho"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NE] (Portal)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Carteira de Identidade Nacional (gov.br) do requerente",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Consulta cadastral: contribuinte Laura Monteiro da Silva (CPF 047.***.***-70, 100%)",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 5,
+     "nome": "5_contrato_social_do_adquirente,_caso_cnpj.pdf",
+     "conteudo": "Recibo de quitação (R$ 110.000,00) de Laura Monteiro da Silva a Walter M. Ribeiro Jr., apto 10 do Cond. Residencial Solar, 21/01/2025 — anexado no campo \"contrato social\"; não é contrato nem tem selo visível",
+     "paginas": 1,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [
+    {
+     "nome": "LAURA MONTEIRO DA SILVA",
+     "cpf": "047.***.***-70",
+     "participacao": "",
+     "fonte": "Consulta cadastral (arquivo 4); confirmar no Betha",
+     "confirmado": false
+    }
+   ],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NE].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "022.744.550-31 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "24.54.033.0315.010.935; nº 262.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–5",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4, 5). O arquivo 5 (rotulado contrato social) é um recibo de quitação, não um contrato.",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "5_(campo \"contrato social\") p.1",
+     "obs": "Há um recibo de quitação (R$ 110.000,00, Laura Monteiro da Silva → Walter Monteiro Ribeiro Júnior, 21/01/2025), anexado no campo \"contrato social\". É digitado, sem selo nem reconhecimento de firma visível, e não há contrato de compra e venda.",
+     "pendencia": "Anexar o contrato de compra e venda e o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "provisorio",
+     "evidencia": "Consulta cadastral (arquivo 4)",
+     "obs": "Titular no cadastro: LAURA MONTEIRO DA SILVA (CPF 047.***.***-70). Sem contrato nos autos para comparar com o vendedor; confirmar no Betha. A titular (Laura) é a vendedora do recibo do arquivo 5.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 5,
+    "paginas": 6,
+    "paginas_imagem": 0,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00144602/2025",
+    "protocolo": "02/07/2025 16:05",
+    "origem": "SMA/SAC/PRO/CENTRAL - SMA/SAC/PRO/Gerência de Atendimento da Unidade Central",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "455.044.319-72",
+    "nome": "ELISABETE OURIQUES"
+   },
+   "requerente": {
+    "cpf": "462.162.609-44",
+    "nome": "VALTER THESMANN"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "24.78.039.1243.001.959",
+     "cod_imovel": "",
+     "logradouro": "Vista Do Mar, SN — Capivari - Ingleses"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documento de identificação (imagem; não conferido)",
+     "paginas": 1,
+     "imagem": true
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Inscrição imobiliária (imagem, 6 páginas; não conferido)",
+     "paginas": 6,
+     "imagem": true
+    },
+    {
+     "n": 5,
+     "nome": "5_parecer_do_analista.pdf",
+     "conteudo": "Parecer anterior: devolução pedindo formulário completo (data de posse, pág. VIII), comprovante de residência e termo de quitação com firma reconhecida",
+     "paginas": 1,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "sinalizado",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Interessado da Folha Líder (VALTER THESMANN) é o requerente; o solicitante é ELISABETE OURIQUES. Ver 1A.6.",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante 455.044.319-72 e requerente 462.162.609-44: dígitos verificadores válidos.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "24.78.039.1243.001.959; nº SN.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "pendencia",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante (ELISABETE OURIQUES, 455.044.319-72) ≠ requerente (VALTER THESMANN, 462.162.609-44): gatilho de representação. Solicitante Elisabete Ouriques ≠ requerente Valter Thesmann; não há procuração nos autos.",
+     "pendencia": "Anexar a procuração do solicitante em nome do requerente."
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–5",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4, 5). Parecer anterior (arquivo 5) já devolveu o processo pedindo formulário completo (data de posse), comprovante de residência e termo de quitação com firma reconhecida; nada disso consta nos autos.",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Documento da inscrição ilegível por texto (imagem) ou sem titular identificado; consultar o titular no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 5,
+    "paginas": 11,
+    "paginas_imagem": 7,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00044198/2026",
+    "protocolo": "23/02/2026 15:49",
+    "origem": "PORTAL - Portal Externo da PMF",
+    "formulario": "3NE",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "003.519.149-00",
+    "nome": "MARCIO LUIZ STOLF"
+   },
+   "requerente": {
+    "cpf": "65.011.860/0001-76",
+    "nome": "GRIGNON SALMON ADMINISTRADORA DE IMOVEIS LTDA"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "52.30.018.0022.001.507",
+     "cod_imovel": "",
+     "logradouro": "Custodio Firmino Vieira, SN — Saco dos Limões"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NE] (Portal)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documento de identificação (texto extraível; não conferido)",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Inscrição imobiliária (imagem; não conferido)",
+     "paginas": 1,
+     "imagem": true
+    },
+    {
+     "n": 5,
+     "nome": "5_contrato_social_do_adquirente,_caso_cnpj.pdf",
+     "conteudo": "Contrato social da Grignon Salmon Administradora de Imóveis Ltda (sócio único Yuri Jesus Grignon Gamarra), assinado digitalmente",
+     "paginas": 6,
+     "imagem": false
+    },
+    {
+     "n": 6,
+     "nome": "6_rg,_cpf_ou_cnpj_procurador_representante.pdf",
+     "conteudo": "RG/CPF do procurador/representante (imagem, 2 páginas; não conferido)",
+     "paginas": 2,
+     "imagem": true
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NE].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "sinalizado",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Interessado da Folha Líder (GRIGNON SALMON ADMINISTRADORA DE IMOVEIS LTDA) é o requerente; o solicitante é MARCIO LUIZ STOLF. Ver 1A.6.",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante 003.519.149-00 e requerente 65.011.860/0001-76: dígitos verificadores válidos.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "52.30.018.0022.001.507; nº SN.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "pendencia",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante (MARCIO LUIZ STOLF, 003.519.149-00) ≠ requerente (GRIGNON SALMON ADMINISTRADORA DE IMOVEIS LTDA, 65.011.860/0001-76): gatilho de representação. RG/CPF do procurador está no arquivo 6, mas não há procuração nos autos. Contrato social da empresa presente (arquivo 5).",
+     "pendencia": "Anexar a procuração do solicitante em nome do requerente."
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–6",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4, 5, 6).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Documento da inscrição ilegível por texto (imagem) ou sem titular identificado; consultar o titular no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 6,
+    "paginas": 13,
+    "paginas_imagem": 3,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00044026/2026",
+    "protocolo": "23/02/2026 14:35",
+    "origem": "SMA/SAC/PRO/GTPE/VIRTUAL - SMA/SAC/PRO/GTPE/Virtual",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "823.415.679-91",
+    "nome": "EDUARDO DE LEMOS MACIEL"
+   },
+   "requerente": {
+    "cpf": "823.415.679-91",
+    "nome": "EDUARDO DE LEMOS MACIEL"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "66.95.037.0828.001.816",
+     "cod_imovel": "",
+     "logradouro": "Deryan, 26 — Morro das Pedras"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documento de identificação (imagem; não conferido)",
+     "paginas": 1,
+     "imagem": true
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Inscrição imobiliária (imagem, 11 páginas; não conferido)",
+     "paginas": 11,
+     "imagem": true
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "823.415.679-91 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "66.95.037.0828.001.816; nº 26.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Documento da inscrição ilegível por texto (imagem) ou sem titular identificado; consultar o titular no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 15,
+    "paginas_imagem": 12,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00050321/2026",
+    "protocolo": "02/03/2026 16:29",
+    "origem": "SMA/SAC/PRO/GTPE/VIRTUAL - SMA/SAC/PRO/GTPE/Virtual",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "877.263.359-04",
+    "nome": "ADRIANA MIRANDA DA CUNHA"
+   },
+   "requerente": {
+    "cpf": "877.263.359-04",
+    "nome": "ADRIANA MIRANDA DA CUNHA"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "60.18.069.0783.002.900",
+     "cod_imovel": "404319",
+     "logradouro": "Knussen, 117 — Rio Tavares"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documento de identificação (imagem, 2 páginas; não conferido)",
+     "paginas": 2,
+     "imagem": true
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Certidão Cadastral para Fins Gerais 2026 (11 páginas): titular Edson da Silva Pla, CPF 195.509.870-00",
+     "paginas": 11,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [
+    {
+     "nome": "EDSON DA SILVA PLA",
+     "cpf": "195.509.870-00",
+     "participacao": "",
+     "fonte": "Certidão Cadastral 2026 (arquivo 4); confirmar no Betha",
+     "confirmado": false
+    }
+   ],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "877.263.359-04 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "60.18.069.0783.002.900; nº 117.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "provisorio",
+     "evidencia": "Certidão Cadastral 2026 (arquivo 4)",
+     "obs": "Titular no cadastro: EDSON DA SILVA PLA (CPF 195.509.870-00). Sem contrato nos autos para comparar com o vendedor; confirmar no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 15,
+    "paginas_imagem": 2,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00047223/2026",
+    "protocolo": "26/02/2026 11:27",
+    "origem": "SMA/SAC/PRO/CENTRAL - SMA/SAC/PRO/Gerência de Atendimento da Unidade Central",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "073.002.029-00",
+    "nome": "SAMUEL MARCIANO MARTINS"
+   },
+   "requerente": {
+    "cpf": "073.002.029-00",
+    "nome": "SAMUEL MARCIANO MARTINS"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "30.57.013.2520.001.860",
+     "cod_imovel": "",
+     "logradouro": "Rua Isid Dutra, SN — Sambaqui"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documento de identificação (imagem; não conferido)",
+     "paginas": 1,
+     "imagem": true
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Inscrição imobiliária (imagem, 14 páginas; não conferido)",
+     "paginas": 14,
+     "imagem": true
+    },
+    {
+     "n": 5,
+     "nome": "5_contrato_social_do_adquirente,_caso_cnpj.pdf",
+     "conteudo": "Fatura Celesc 02/2026 em nome de Samuel Marciano Martins (Isid Dutra, 1760) — anexada no campo \"contrato social\"; é comprovante de residência",
+     "paginas": 2,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "073.002.029-00 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "30.57.013.2520.001.860; nº SN. Inscrição digitada sem pontuação no formulário.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–5",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4, 5).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Documento da inscrição ilegível por texto (imagem) ou sem titular identificado; consultar o titular no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 5,
+    "paginas": 19,
+    "paginas_imagem": 15,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00056378/2026",
+    "protocolo": "06/03/2026 13:36",
+    "origem": "SMA/SAC/PRO/INGLESES - SMA/SAC/PRO/Gerência de Atendimento da Unidade dos Ingleses",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "175.733.848-90",
+    "nome": "VALDERLANIA CRISTINA DRECHSEL"
+   },
+   "requerente": {
+    "cpf": "175.733.848-90",
+    "nome": "VALDERLANIA CRISTINA DRECHSEL"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "53.88.012.0336.001.422",
+     "cod_imovel": "392463",
+     "logradouro": "Quebrada Do Sol, 90 — Canto da Lagoa"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documentos do requerente + Certidão Cadastral (titular Deisy Marly Sieburger, CPF 334.572.800-10); 20 páginas",
+     "paginas": 20,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Idêntico ao arquivo 3 (mesmo tamanho)",
+     "paginas": 20,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [
+    {
+     "nome": "DEISY MARLY SIEBURGER",
+     "cpf": "334.572.800-10",
+     "participacao": "",
+     "fonte": "Certidão Cadastral (arquivo 3); confirmar no Betha",
+     "confirmado": false
+    }
+   ],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "175.733.848-90 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "53.88.012.0336.001.422; nº 90.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "provisorio",
+     "evidencia": "Certidão Cadastral (arquivo 3)",
+     "obs": "Titular no cadastro: DEISY MARLY SIEBURGER (CPF 334.572.800-10). Sem contrato nos autos para comparar com o vendedor; confirmar no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 43,
+    "paginas_imagem": 0,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00043031/2026",
+    "protocolo": "20/02/2026 16:46",
+    "origem": "SMA/SAC/PRO/INGLESES - SMA/SAC/PRO/Gerência de Atendimento da Unidade dos Ingleses",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "902.635.882-20",
+    "nome": "CLIVIA LETICIA CASTRO MEDINO"
+   },
+   "requerente": {
+    "cpf": "902.635.882-20",
+    "nome": "CLIVIA LETICIA CASTRO MEDINO"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "24.66.037.1712.001.673",
+     "cod_imovel": "86060",
+     "logradouro": "Ayrton Senna, 1036 — Ingleses do Rio Vermelho"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documentos do requerente + Certidão Cadastral (titular Marcelo Gomes Reis, CPF 013.735.305-70); 22 páginas",
+     "paginas": 22,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Idêntico ao arquivo 3 (mesmo tamanho)",
+     "paginas": 22,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [
+    {
+     "nome": "MARCELO GOMES REIS",
+     "cpf": "013.735.305-70",
+     "participacao": "",
+     "fonte": "Certidão Cadastral 2026 (arquivo 3/4); confirmar no Betha",
+     "confirmado": false
+    }
+   ],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "902.635.882-20 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "24.66.037.1712.001.673; nº 1036.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "provisorio",
+     "evidencia": "Certidão Cadastral 2026 (arquivo 3/4)",
+     "obs": "Titular no cadastro: MARCELO GOMES REIS (CPF 013.735.305-70). Sem contrato nos autos para comparar com o vendedor; confirmar no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 47,
+    "paginas_imagem": 0,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00056476/2026",
+    "protocolo": "06/03/2026 14:40",
+    "origem": "SMA/SAC/PRO/CENTRAL - SMA/SAC/PRO/Gerência de Atendimento da Unidade Central",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "442.935.939-34",
+    "nome": "SILVANA ANTONIA BACCARIN HOFFNER"
+   },
+   "requerente": {
+    "cpf": "03.530.820/0054-95",
+    "nome": "ASSOC DA IGREJA METODISTA-6 REG ECLESIASTICA"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "45.83.096.0543.001.623",
+     "cod_imovel": "",
+     "logradouro": "Pastor William Richard Schisler Filho, 871 — Itacorubi"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documentos do requerente (53 páginas; não conferido)",
+     "paginas": 53,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Inscrição imobiliária (imagem, 2 páginas; não conferido)",
+     "paginas": 2,
+     "imagem": true
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "sinalizado",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Interessado da Folha Líder (ASSOC DA IGREJA METODISTA-6 REG ECLESIASTICA) é o requerente; o solicitante é SILVANA ANTONIA BACCARIN HOFFNER. Ver 1A.6.",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante 442.935.939-34 e requerente 03.530.820/0054-95: dígitos verificadores válidos.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "45.83.096.0543.001.623; nº 871.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "pendencia",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante (SILVANA ANTONIA BACCARIN HOFFNER, 442.935.939-34) ≠ requerente (ASSOC DA IGREJA METODISTA-6 REG ECLESIASTICA, 03.530.820/0054-95): gatilho de representação. Requerente é pessoa jurídica (CNPJ 03.530.820/0054-95) representada por Silvana Antonia Baccarin Hoffner; não há procuração nem contrato/estatuto nos autos.",
+     "pendencia": "Anexar a procuração do solicitante em nome do requerente."
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Documento da inscrição ilegível por texto (imagem) ou sem titular identificado; consultar o titular no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 58,
+    "paginas_imagem": 2,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00047715/2026",
+    "protocolo": "26/02/2026 15:44",
+    "origem": "SMA/SAC/PRO/INGLESES - SMA/SAC/PRO/Gerência de Atendimento da Unidade dos Ingleses",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "121.549.911-65",
+    "nome": "CRISTIAN DAMIAN CAMPANARI"
+   },
+   "requerente": {
+    "cpf": "121.549.911-65",
+    "nome": "CRISTIAN DAMIAN CAMPANARI"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "24.79.063.0979.006.955",
+     "cod_imovel": "94788",
+     "logradouro": "Quadrangular, 917 — Ingleses"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "Documentos do requerente + Certidão Cadastral (titular Maria Salete Laumann, CPF 481.894.139-53); 49 páginas",
+     "paginas": 49,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Idêntico ao arquivo 3 (mesmo md5)",
+     "paginas": 49,
+     "imagem": false
+    }
+   ],
+   "partes": [],
+   "declaracao": {
+    "adquirentes": [],
+    "transmitentes": [],
+    "data_posse": "",
+    "data_escrita": "",
+    "assinatura": "Declaração não anexada"
+   },
+   "titulares_betha": [
+    {
+     "nome": "MARIA SALETE LAUMANN",
+     "cpf": "481.894.139-53",
+     "participacao": "",
+     "fonte": "Certidão Cadastral (arquivo 3/4); confirmar no Betha",
+     "confirmado": false
+    }
+   ],
+   "cadeia": [],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "121.549.911-65 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "24.79.063.0979.006.955; nº 917.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+     "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+    },
+    "1B.RT": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.IX": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Declaração para Alteração de Titularidade não anexada.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–4",
+     "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+     "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "provisorio",
+     "evidencia": "Certidão Cadastral (arquivo 3/4)",
+     "obs": "Titular no cadastro: MARIA SALETE LAUMANN (CPF 481.894.139-53). Sem contrato nos autos para comparar com o vendedor; confirmar no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem contrato nem cadeia nos autos.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 4,
+    "paginas": 101,
+    "paginas_imagem": 0,
+    "inscricoes": 1,
+    "partes": 0,
+    "testemunhas": 0,
+    "elos_cadeia": 0
+   }
+  },
   {
    "versao_checklist": "v2",
    "gerado_em": "2026-10-16",
@@ -1786,6 +5924,361 @@
     "partes": 2,
     "testemunhas": 0,
     "elos_cadeia": 1
+   }
+  },
+  {
+   "versao_checklist": "v2",
+   "gerado_em": "2026-10-20",
+   "processo": {
+    "numero": "PMF E 00042935/2026",
+    "protocolo": "20/02/2026 15:54",
+    "origem": "SMA/SAC/PRO/INGLESES - SMA/SAC/PRO/Gerência de Atendimento da Unidade dos Ingleses",
+    "formulario": "3NI",
+    "classificacao": "40.1746"
+   },
+   "solicitante": {
+    "cpf": "080.341.779-97",
+    "nome": "DANDARA APARECIDA GARLET"
+   },
+   "requerente": {
+    "cpf": "080.341.779-97",
+    "nome": "DANDARA APARECIDA GARLET"
+   },
+   "inscricoes": [
+    {
+     "inscricao": "32.76.011.3660.001.201",
+     "cod_imovel": "",
+     "logradouro": "Acelino Epifanio Dos Santos, 205 — São João do Rio Vermelho"
+    }
+   ],
+   "arquivos": [
+    {
+     "n": 1,
+     "nome": "1_folha_líder.pdf",
+     "conteudo": "Folha Líder",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 2,
+     "nome": "2_formulário_de_cadastro.pdf",
+     "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+     "paginas": 2,
+     "imagem": false
+    },
+    {
+     "n": 3,
+     "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+     "conteudo": "RG/CPF de Dandara A. Garlet e documentos (arquivo idêntico ao nº 4: mesmo tamanho)",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Idêntico ao arquivo 3 (mesmo tamanho); não há carnê/certidão cadastral separado",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 4,
+     "nome": "4_inscrição_imobiliária.pdf",
+     "conteudo": "Idêntico ao arquivo 3 (mesmo tamanho); não há carnê/certidão cadastral separado",
+     "paginas": 1,
+     "imagem": false
+    },
+    {
+     "n": 5,
+     "nome": "5_certidão_de_óbito.pdf",
+     "conteudo": "Certidão de óbito de Jovanir Batista Reus Garlet (CPF 525.833.929-72), falecido em 01/07/2025, registro de 08/07/2025",
+     "paginas": 2,
+     "imagem": true
+    },
+    {
+     "n": 6,
+     "nome": "6_camscanner_05-05-2026_11.28.pdf",
+     "conteudo": "Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, manuscrita, fotografada com CamScanner (3 páginas)",
+     "paginas": 3,
+     "imagem": true
+    }
+   ],
+   "partes": [
+    {
+     "papel": "adquirente",
+     "nome": "DANDARA APARECIDA GARLET",
+     "cpf": "080.341.779-97",
+     "assinatura": "manuscrita na Declaração (05/05/2026)"
+    },
+    {
+     "papel": "transmitente (autor da herança)",
+     "nome": "JOVANIR BATISTA REUS GARLET",
+     "cpf": "525.833.929-72",
+     "assinatura": "falecido em 01/07/2025"
+    }
+   ],
+   "declaracao": {
+    "adquirentes": [
+     {
+      "nome": "DANDARA APARECIDA GARLET",
+      "cpf": "080.341.779-97"
+     }
+    ],
+    "transmitentes": [
+     {
+      "nome": "JOVANIR BATISTA REUS GARLET",
+      "cpf": "525.833.929-72"
+     }
+    ],
+    "data_posse": "",
+    "data_escrita": "05/05/2026",
+    "assinatura": "manuscrita, legível; documento fotografado (CamScanner)"
+   },
+   "titulares_betha": [],
+   "cadeia": [
+    {
+     "data": "05/12/2001",
+     "transmitente": {
+      "nome": "IVÂNIA ZANELLA",
+      "cpf": "684.922.270-87"
+     },
+     "adquirente": {
+      "nome": "JOVANIR B. R. GARLET",
+      "cpf": "525.853.929-72"
+     }
+    },
+    {
+     "data": "18/09/2025",
+     "transmitente": {
+      "nome": "JOVANIR B. R. GARLET",
+      "cpf": "525.853.929-72"
+     },
+     "adquirente": {
+      "nome": "DANDARA A. GARLET",
+      "cpf": "080.341.779-97"
+     }
+    }
+   ],
+   "decisao_sugerida": "pendencia",
+   "linhas": {
+    "1A.1": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "Formulário [3NI].",
+     "pendencia": ""
+    },
+    "1A.2": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1",
+     "obs": "Classificação 40.1746.",
+     "pendencia": ""
+    },
+    "1A.3": {
+     "resultado": "ok",
+     "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+     "obs": "",
+     "pendencia": ""
+    },
+    "1A.4": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "CPF 080.341.779-97 válido.",
+     "pendencia": ""
+    },
+    "1A.5": {
+     "resultado": "ok",
+     "evidencia": "2_formulário p.1",
+     "obs": "32.76.011.3660.001.201; nº 205.",
+     "pendencia": ""
+    },
+    "1A.6": {
+     "resultado": "na",
+     "evidencia": "2_formulário p.1",
+     "obs": "Solicitante = requerente.",
+     "pendencia": ""
+    },
+    "1B.I": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.1",
+     "obs": "Dandara Aparecida Garlet, CPF 080.341.779-97, telefone, e-mail e endereço (Servidão Acelino Epifânio dos Santos, 205) preenchidos à mão.",
+     "pendencia": ""
+    },
+    "1B.RT": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.1",
+     "obs": "Marcado \"Não\" (sem representação).",
+     "pendencia": ""
+    },
+    "1B.II": {
+     "resultado": "na",
+     "evidencia": "6_declaração p.1",
+     "obs": "Sem representação.",
+     "pendencia": ""
+    },
+    "1B.III": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.2",
+     "obs": "Jovanir Batista Reus Garlet, CPF 525.833.929-72 (válido), identificado como \"Autor da Herança\". Falecido em 01/07/2025 (arquivo 5).",
+     "pendencia": ""
+    },
+    "1B.IV": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.2",
+     "obs": "Servidão Acelino Epifânio dos Santos, 205, Rio Vermelho, CEP 88060-335.",
+     "pendencia": ""
+    },
+    "1B.V": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.2",
+     "obs": "Informa o próprio processo (E00042935/2026).",
+     "pendencia": ""
+    },
+    "1B.VI": {
+     "resultado": "sinalizado",
+     "evidencia": "6_declaração p.2",
+     "obs": "Dois elos: (1) 05/12/2001, Ivânia Zanella (684.922.270-87) → Jovanir B. R. Garlet; (2) 18/09/2025, Jovanir → Dandara. O elo 2 é posterior à morte de Jovanir (01/07/2025). No elo 1 e no elo 2 o CPF de Jovanir está escrito 525.853.929-72, que é inválido (o correto da certidão é 525.833.929-72).",
+     "pendencia": ""
+    },
+    "1B.VII": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.3",
+     "obs": "Inscrição 32.76.011.3660.001.201, nº 205, terreno 350 m², construído 72 m².",
+     "pendencia": ""
+    },
+    "1B.VIII": {
+     "resultado": "pendencia",
+     "evidencia": "6_declaração p.3",
+     "obs": "Campo VIII com a data da posse em branco (\"desde __/__/____\").",
+     "pendencia": "Preencher a data de início da posse no campo VIII da Declaração."
+    },
+    "1B.IX": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.3",
+     "obs": "Florianópolis, 05 de maio de 2026, assinatura manuscrita de Dandara A. Garlet.",
+     "pendencia": ""
+    },
+    "1B.AF": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.1–3",
+     "obs": "Preenchida inteiramente à mão, legível. Foi fotografada com CamScanner (imagem inclinada, sem distorção que impeça a leitura).",
+     "pendencia": ""
+    },
+    "1B.1": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.3; 2_formulário p.1",
+     "obs": "Mesma inscrição (32.76.011.3660.001.201).",
+     "pendencia": ""
+    },
+    "1B.2": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.1; 2_formulário p.1",
+     "obs": "CPF 080.341.779-97 em ambos.",
+     "pendencia": ""
+    },
+    "1B.3": {
+     "resultado": "pendencia",
+     "evidencia": "6_declaração p.3",
+     "obs": "Não dá para conferir: data da posse em branco.",
+     "pendencia": "Ver 1B.VIII."
+    },
+    "1B.4": {
+     "resultado": "ok",
+     "evidencia": "6_declaração p.2",
+     "obs": "Transmitente do campo III = transmitente do último elo (Jovanir).",
+     "pendencia": ""
+    },
+    "1B.5": {
+     "resultado": "sinalizado",
+     "evidencia": "6_declaração p.3; 1_folha_líder",
+     "obs": "Declaração datada de 05/05/2026, posterior ao protocolo (20/02/2026); compatível com anexação em resposta a exigência. Confirmar.",
+     "pendencia": ""
+    },
+    "3.1": {
+     "resultado": "pendencia",
+     "evidencia": "arquivos 1–6",
+     "obs": "Nenhum contrato nos autos. A Declaração cita dois negócios (05/12/2001 e 18/09/2025) sem documento. Não há formal de partilha, alvará ou escritura de inventário.",
+     "pendencia": "Anexar os contratos dos dois elos (2001 e 2025) com firma reconhecida e, por se tratar de herança, o inventário/partilha ou alvará."
+    },
+    "3.2": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.3": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.4": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.5": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.6": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.7": {
+     "resultado": "pendencia",
+     "evidencia": "",
+     "obs": "Não há termo de quitação.",
+     "pendencia": "Anexar o termo de quitação com firma reconhecida."
+    },
+    "3.8": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "3.9": {
+     "resultado": "sinalizado",
+     "evidencia": "6_declaração p.2; 5_certidão_de_óbito p.1",
+     "obs": "O elo 2 (18/09/2025, Jovanir → Dandara) é posterior ao óbito de Jovanir (01/07/2025); um falecido não pode assinar negócio. Pode ser erro de data ou tratar-se de transmissão por herança.",
+     "pendencia": ""
+    },
+    "3.10": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Contrato de compra e venda não anexado.",
+     "pendencia": ""
+    },
+    "4.1": {
+     "resultado": "nao_avaliado",
+     "evidencia": "",
+     "obs": "Não há carnê nem certidão cadastral dos autos (o arquivo 4 repete o 3). Consultar o titular no Betha.",
+     "pendencia": ""
+    },
+    "4.2": {
+     "resultado": "sinalizado",
+     "evidencia": "6_declaração p.2",
+     "obs": "Cadeia declarada: Ivânia Zanella → Jovanir → Dandara, sem documentos; o último elo é posterior ao óbito.",
+     "pendencia": ""
+    },
+    "4.3": {
+     "resultado": "sinalizado",
+     "evidencia": "5_certidão_de_óbito p.1–2; 6_declaração p.2",
+     "obs": "Certidão de óbito de Jovanir Batista Reus Garlet (01/07/2025, registro 08/07/2025, \"existência de bens: SIM\"; a requerente Dandara, 32 anos, é filha e declarante). Cai no caminho de herança.",
+     "pendencia": ""
+    }
+   },
+   "complexidade": {
+    "arquivos": 7,
+    "paginas": 11,
+    "paginas_imagem": 5,
+    "inscricoes": 1,
+    "partes": 2,
+    "testemunhas": 0,
+    "elos_cadeia": 2
    }
   },
   {
