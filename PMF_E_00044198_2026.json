@@ -1,0 +1,302 @@
+{
+ "versao_checklist": "v2",
+ "gerado_em": "2026-10-20",
+ "processo": {
+  "numero": "PMF E 00044198/2026",
+  "protocolo": "23/02/2026 15:49",
+  "origem": "PORTAL - Portal Externo da PMF",
+  "formulario": "3NE",
+  "classificacao": "40.1746"
+ },
+ "solicitante": {
+  "cpf": "003.519.149-00",
+  "nome": "MARCIO LUIZ STOLF"
+ },
+ "requerente": {
+  "cpf": "65.011.860/0001-76",
+  "nome": "GRIGNON SALMON ADMINISTRADORA DE IMOVEIS LTDA"
+ },
+ "inscricoes": [
+  {
+   "inscricao": "52.30.018.0022.001.507",
+   "cod_imovel": "",
+   "logradouro": "Custodio Firmino Vieira, SN — Saco dos Limões"
+  }
+ ],
+ "arquivos": [
+  {
+   "n": 1,
+   "nome": "1_folha_líder.pdf",
+   "conteudo": "Folha Líder",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 2,
+   "nome": "2_formulário_de_cadastro.pdf",
+   "conteudo": "Formulário do sistema [3NE] (Portal)",
+   "paginas": 2,
+   "imagem": false
+  },
+  {
+   "n": 3,
+   "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+   "conteudo": "Documento de identificação (texto extraível; não conferido)",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Inscrição imobiliária (imagem; não conferido)",
+   "paginas": 1,
+   "imagem": true
+  },
+  {
+   "n": 5,
+   "nome": "5_contrato_social_do_adquirente,_caso_cnpj.pdf",
+   "conteudo": "Contrato social da Grignon Salmon Administradora de Imóveis Ltda (sócio único Yuri Jesus Grignon Gamarra), assinado digitalmente",
+   "paginas": 6,
+   "imagem": false
+  },
+  {
+   "n": 6,
+   "nome": "6_rg,_cpf_ou_cnpj_procurador_representante.pdf",
+   "conteudo": "RG/CPF do procurador/representante (imagem, 2 páginas; não conferido)",
+   "paginas": 2,
+   "imagem": true
+  }
+ ],
+ "partes": [],
+ "declaracao": {
+  "adquirentes": [],
+  "transmitentes": [],
+  "data_posse": "",
+  "data_escrita": "",
+  "assinatura": "Declaração não anexada"
+ },
+ "titulares_betha": [],
+ "cadeia": [],
+ "decisao_sugerida": "pendencia",
+ "linhas": {
+  "1A.1": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário [3NE].",
+   "pendencia": ""
+  },
+  "1A.2": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1",
+   "obs": "Classificação 40.1746.",
+   "pendencia": ""
+  },
+  "1A.3": {
+   "resultado": "sinalizado",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Interessado da Folha Líder (GRIGNON SALMON ADMINISTRADORA DE IMOVEIS LTDA) é o requerente; o solicitante é MARCIO LUIZ STOLF. Ver 1A.6.",
+   "pendencia": ""
+  },
+  "1A.4": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante 003.519.149-00 e requerente 65.011.860/0001-76: dígitos verificadores válidos.",
+   "pendencia": ""
+  },
+  "1A.5": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "52.30.018.0022.001.507; nº SN.",
+   "pendencia": ""
+  },
+  "1A.6": {
+   "resultado": "pendencia",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante (MARCIO LUIZ STOLF, 003.519.149-00) ≠ requerente (GRIGNON SALMON ADMINISTRADORA DE IMOVEIS LTDA, 65.011.860/0001-76): gatilho de representação. RG/CPF do procurador está no arquivo 6, mas não há procuração nos autos. Contrato social da empresa presente (arquivo 5).",
+   "pendencia": "Anexar a procuração do solicitante em nome do requerente."
+  },
+  "1B.I": {
+   "resultado": "pendencia",
+   "evidencia": "",
+   "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+   "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+  },
+  "1B.RT": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.II": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.III": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.IV": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.V": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.VI": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.VII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.VIII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.IX": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.AF": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "3.1": {
+   "resultado": "pendencia",
+   "evidencia": "arquivos 1–6",
+   "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4, 5, 6).",
+   "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+  },
+  "3.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.6": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.7": {
+   "resultado": "pendencia",
+   "evidencia": "",
+   "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+   "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+  },
+  "3.8": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.9": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.10": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "4.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Documento da inscrição ilegível por texto (imagem) ou sem titular identificado; consultar o titular no Betha.",
+   "pendencia": ""
+  },
+  "4.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Sem contrato nem cadeia nos autos.",
+   "pendencia": ""
+  },
+  "4.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+   "pendencia": ""
+  }
+ },
+ "complexidade": {
+  "arquivos": 6,
+  "paginas": 13,
+  "paginas_imagem": 3,
+  "inscricoes": 1,
+  "partes": 0,
+  "testemunhas": 0,
+  "elos_cadeia": 0
+ }
+}

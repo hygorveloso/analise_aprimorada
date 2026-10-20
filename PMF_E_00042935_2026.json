@@ -1,0 +1,355 @@
+{
+ "versao_checklist": "v2",
+ "gerado_em": "2026-10-20",
+ "processo": {
+  "numero": "PMF E 00042935/2026",
+  "protocolo": "20/02/2026 15:54",
+  "origem": "SMA/SAC/PRO/INGLESES - SMA/SAC/PRO/Gerência de Atendimento da Unidade dos Ingleses",
+  "formulario": "3NI",
+  "classificacao": "40.1746"
+ },
+ "solicitante": {
+  "cpf": "080.341.779-97",
+  "nome": "DANDARA APARECIDA GARLET"
+ },
+ "requerente": {
+  "cpf": "080.341.779-97",
+  "nome": "DANDARA APARECIDA GARLET"
+ },
+ "inscricoes": [
+  {
+   "inscricao": "32.76.011.3660.001.201",
+   "cod_imovel": "",
+   "logradouro": "Acelino Epifanio Dos Santos, 205 — São João do Rio Vermelho"
+  }
+ ],
+ "arquivos": [
+  {
+   "n": 1,
+   "nome": "1_folha_líder.pdf",
+   "conteudo": "Folha Líder",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 2,
+   "nome": "2_formulário_de_cadastro.pdf",
+   "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+   "paginas": 2,
+   "imagem": false
+  },
+  {
+   "n": 3,
+   "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+   "conteudo": "RG/CPF de Dandara A. Garlet e documentos (arquivo idêntico ao nº 4: mesmo tamanho)",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Idêntico ao arquivo 3 (mesmo tamanho); não há carnê/certidão cadastral separado",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Idêntico ao arquivo 3 (mesmo tamanho); não há carnê/certidão cadastral separado",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 5,
+   "nome": "5_certidão_de_óbito.pdf",
+   "conteudo": "Certidão de óbito de Jovanir Batista Reus Garlet (CPF 525.833.929-72), falecido em 01/07/2025, registro de 08/07/2025",
+   "paginas": 2,
+   "imagem": true
+  },
+  {
+   "n": 6,
+   "nome": "6_camscanner_05-05-2026_11.28.pdf",
+   "conteudo": "Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, manuscrita, fotografada com CamScanner (3 páginas)",
+   "paginas": 3,
+   "imagem": true
+  }
+ ],
+ "partes": [
+  {
+   "papel": "adquirente",
+   "nome": "DANDARA APARECIDA GARLET",
+   "cpf": "080.341.779-97",
+   "assinatura": "manuscrita na Declaração (05/05/2026)"
+  },
+  {
+   "papel": "transmitente (autor da herança)",
+   "nome": "JOVANIR BATISTA REUS GARLET",
+   "cpf": "525.833.929-72",
+   "assinatura": "falecido em 01/07/2025"
+  }
+ ],
+ "declaracao": {
+  "adquirentes": [
+   {
+    "nome": "DANDARA APARECIDA GARLET",
+    "cpf": "080.341.779-97"
+   }
+  ],
+  "transmitentes": [
+   {
+    "nome": "JOVANIR BATISTA REUS GARLET",
+    "cpf": "525.833.929-72"
+   }
+  ],
+  "data_posse": "",
+  "data_escrita": "05/05/2026",
+  "assinatura": "manuscrita, legível; documento fotografado (CamScanner)"
+ },
+ "titulares_betha": [],
+ "cadeia": [
+  {
+   "data": "05/12/2001",
+   "transmitente": {
+    "nome": "IVÂNIA ZANELLA",
+    "cpf": "684.922.270-87"
+   },
+   "adquirente": {
+    "nome": "JOVANIR B. R. GARLET",
+    "cpf": "525.853.929-72"
+   }
+  },
+  {
+   "data": "18/09/2025",
+   "transmitente": {
+    "nome": "JOVANIR B. R. GARLET",
+    "cpf": "525.853.929-72"
+   },
+   "adquirente": {
+    "nome": "DANDARA A. GARLET",
+    "cpf": "080.341.779-97"
+   }
+  }
+ ],
+ "decisao_sugerida": "pendencia",
+ "linhas": {
+  "1A.1": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário [3NI].",
+   "pendencia": ""
+  },
+  "1A.2": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1",
+   "obs": "Classificação 40.1746.",
+   "pendencia": ""
+  },
+  "1A.3": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "",
+   "pendencia": ""
+  },
+  "1A.4": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "CPF 080.341.779-97 válido.",
+   "pendencia": ""
+  },
+  "1A.5": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "32.76.011.3660.001.201; nº 205.",
+   "pendencia": ""
+  },
+  "1A.6": {
+   "resultado": "na",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante = requerente.",
+   "pendencia": ""
+  },
+  "1B.I": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.1",
+   "obs": "Dandara Aparecida Garlet, CPF 080.341.779-97, telefone, e-mail e endereço (Servidão Acelino Epifânio dos Santos, 205) preenchidos à mão.",
+   "pendencia": ""
+  },
+  "1B.RT": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.1",
+   "obs": "Marcado \"Não\" (sem representação).",
+   "pendencia": ""
+  },
+  "1B.II": {
+   "resultado": "na",
+   "evidencia": "6_declaração p.1",
+   "obs": "Sem representação.",
+   "pendencia": ""
+  },
+  "1B.III": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.2",
+   "obs": "Jovanir Batista Reus Garlet, CPF 525.833.929-72 (válido), identificado como \"Autor da Herança\". Falecido em 01/07/2025 (arquivo 5).",
+   "pendencia": ""
+  },
+  "1B.IV": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.2",
+   "obs": "Servidão Acelino Epifânio dos Santos, 205, Rio Vermelho, CEP 88060-335.",
+   "pendencia": ""
+  },
+  "1B.V": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.2",
+   "obs": "Informa o próprio processo (E00042935/2026).",
+   "pendencia": ""
+  },
+  "1B.VI": {
+   "resultado": "sinalizado",
+   "evidencia": "6_declaração p.2",
+   "obs": "Dois elos: (1) 05/12/2001, Ivânia Zanella (684.922.270-87) → Jovanir B. R. Garlet; (2) 18/09/2025, Jovanir → Dandara. O elo 2 é posterior à morte de Jovanir (01/07/2025). No elo 1 e no elo 2 o CPF de Jovanir está escrito 525.853.929-72, que é inválido (o correto da certidão é 525.833.929-72).",
+   "pendencia": ""
+  },
+  "1B.VII": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.3",
+   "obs": "Inscrição 32.76.011.3660.001.201, nº 205, terreno 350 m², construído 72 m².",
+   "pendencia": ""
+  },
+  "1B.VIII": {
+   "resultado": "pendencia",
+   "evidencia": "6_declaração p.3",
+   "obs": "Campo VIII com a data da posse em branco (\"desde __/__/____\").",
+   "pendencia": "Preencher a data de início da posse no campo VIII da Declaração."
+  },
+  "1B.IX": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.3",
+   "obs": "Florianópolis, 05 de maio de 2026, assinatura manuscrita de Dandara A. Garlet.",
+   "pendencia": ""
+  },
+  "1B.AF": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.1–3",
+   "obs": "Preenchida inteiramente à mão, legível. Foi fotografada com CamScanner (imagem inclinada, sem distorção que impeça a leitura).",
+   "pendencia": ""
+  },
+  "1B.1": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.3; 2_formulário p.1",
+   "obs": "Mesma inscrição (32.76.011.3660.001.201).",
+   "pendencia": ""
+  },
+  "1B.2": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.1; 2_formulário p.1",
+   "obs": "CPF 080.341.779-97 em ambos.",
+   "pendencia": ""
+  },
+  "1B.3": {
+   "resultado": "pendencia",
+   "evidencia": "6_declaração p.3",
+   "obs": "Não dá para conferir: data da posse em branco.",
+   "pendencia": "Ver 1B.VIII."
+  },
+  "1B.4": {
+   "resultado": "ok",
+   "evidencia": "6_declaração p.2",
+   "obs": "Transmitente do campo III = transmitente do último elo (Jovanir).",
+   "pendencia": ""
+  },
+  "1B.5": {
+   "resultado": "sinalizado",
+   "evidencia": "6_declaração p.3; 1_folha_líder",
+   "obs": "Declaração datada de 05/05/2026, posterior ao protocolo (20/02/2026); compatível com anexação em resposta a exigência. Confirmar.",
+   "pendencia": ""
+  },
+  "3.1": {
+   "resultado": "pendencia",
+   "evidencia": "arquivos 1–6",
+   "obs": "Nenhum contrato nos autos. A Declaração cita dois negócios (05/12/2001 e 18/09/2025) sem documento. Não há formal de partilha, alvará ou escritura de inventário.",
+   "pendencia": "Anexar os contratos dos dois elos (2001 e 2025) com firma reconhecida e, por se tratar de herança, o inventário/partilha ou alvará."
+  },
+  "3.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.6": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.7": {
+   "resultado": "pendencia",
+   "evidencia": "",
+   "obs": "Não há termo de quitação.",
+   "pendencia": "Anexar o termo de quitação com firma reconhecida."
+  },
+  "3.8": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.9": {
+   "resultado": "sinalizado",
+   "evidencia": "6_declaração p.2; 5_certidão_de_óbito p.1",
+   "obs": "O elo 2 (18/09/2025, Jovanir → Dandara) é posterior ao óbito de Jovanir (01/07/2025); um falecido não pode assinar negócio. Pode ser erro de data ou tratar-se de transmissão por herança.",
+   "pendencia": ""
+  },
+  "3.10": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "4.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Não há carnê nem certidão cadastral dos autos (o arquivo 4 repete o 3). Consultar o titular no Betha.",
+   "pendencia": ""
+  },
+  "4.2": {
+   "resultado": "sinalizado",
+   "evidencia": "6_declaração p.2",
+   "obs": "Cadeia declarada: Ivânia Zanella → Jovanir → Dandara, sem documentos; o último elo é posterior ao óbito.",
+   "pendencia": ""
+  },
+  "4.3": {
+   "resultado": "sinalizado",
+   "evidencia": "5_certidão_de_óbito p.1–2; 6_declaração p.2",
+   "obs": "Certidão de óbito de Jovanir Batista Reus Garlet (01/07/2025, registro 08/07/2025, \"existência de bens: SIM\"; a requerente Dandara, 32 anos, é filha e declarante). Cai no caminho de herança.",
+   "pendencia": ""
+  }
+ },
+ "complexidade": {
+  "arquivos": 7,
+  "paginas": 11,
+  "paginas_imagem": 5,
+  "inscricoes": 1,
+  "partes": 2,
+  "testemunhas": 0,
+  "elos_cadeia": 2
+ }
+}

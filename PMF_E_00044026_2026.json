@@ -1,0 +1,288 @@
+{
+ "versao_checklist": "v2",
+ "gerado_em": "2026-10-20",
+ "processo": {
+  "numero": "PMF E 00044026/2026",
+  "protocolo": "23/02/2026 14:35",
+  "origem": "SMA/SAC/PRO/GTPE/VIRTUAL - SMA/SAC/PRO/GTPE/Virtual",
+  "formulario": "3NI",
+  "classificacao": "40.1746"
+ },
+ "solicitante": {
+  "cpf": "823.415.679-91",
+  "nome": "EDUARDO DE LEMOS MACIEL"
+ },
+ "requerente": {
+  "cpf": "823.415.679-91",
+  "nome": "EDUARDO DE LEMOS MACIEL"
+ },
+ "inscricoes": [
+  {
+   "inscricao": "66.95.037.0828.001.816",
+   "cod_imovel": "",
+   "logradouro": "Deryan, 26 — Morro das Pedras"
+  }
+ ],
+ "arquivos": [
+  {
+   "n": 1,
+   "nome": "1_folha_líder.pdf",
+   "conteudo": "Folha Líder",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 2,
+   "nome": "2_formulário_de_cadastro.pdf",
+   "conteudo": "Formulário do sistema [3NI] (atendimento presencial)",
+   "paginas": 2,
+   "imagem": false
+  },
+  {
+   "n": 3,
+   "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+   "conteudo": "Documento de identificação (imagem; não conferido)",
+   "paginas": 1,
+   "imagem": true
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Inscrição imobiliária (imagem, 11 páginas; não conferido)",
+   "paginas": 11,
+   "imagem": true
+  }
+ ],
+ "partes": [],
+ "declaracao": {
+  "adquirentes": [],
+  "transmitentes": [],
+  "data_posse": "",
+  "data_escrita": "",
+  "assinatura": "Declaração não anexada"
+ },
+ "titulares_betha": [],
+ "cadeia": [],
+ "decisao_sugerida": "pendencia",
+ "linhas": {
+  "1A.1": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário [3NI].",
+   "pendencia": ""
+  },
+  "1A.2": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1",
+   "obs": "Classificação 40.1746.",
+   "pendencia": ""
+  },
+  "1A.3": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "",
+   "pendencia": ""
+  },
+  "1A.4": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "823.415.679-91 válido.",
+   "pendencia": ""
+  },
+  "1A.5": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "66.95.037.0828.001.816; nº 26.",
+   "pendencia": ""
+  },
+  "1A.6": {
+   "resultado": "na",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante = requerente.",
+   "pendencia": ""
+  },
+  "1B.I": {
+   "resultado": "pendencia",
+   "evidencia": "",
+   "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+   "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+  },
+  "1B.RT": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.II": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.III": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.IV": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.V": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.VI": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.VII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.VIII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.IX": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.AF": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "1B.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração para Alteração de Titularidade não anexada.",
+   "pendencia": ""
+  },
+  "3.1": {
+   "resultado": "pendencia",
+   "evidencia": "arquivos 1–4",
+   "obs": "Nenhum contrato de compra e venda nos autos (arquivos: 1, 2, 3, 4).",
+   "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+  },
+  "3.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.6": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.7": {
+   "resultado": "pendencia",
+   "evidencia": "",
+   "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+   "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+  },
+  "3.8": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.9": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "3.10": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Contrato de compra e venda não anexado.",
+   "pendencia": ""
+  },
+  "4.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Documento da inscrição ilegível por texto (imagem) ou sem titular identificado; consultar o titular no Betha.",
+   "pendencia": ""
+  },
+  "4.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Sem contrato nem cadeia nos autos.",
+   "pendencia": ""
+  },
+  "4.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Sem indício de óbito ou herança nos arquivos disponíveis.",
+   "pendencia": ""
+  }
+ },
+ "complexidade": {
+  "arquivos": 4,
+  "paginas": 15,
+  "paginas_imagem": 12,
+  "inscricoes": 1,
+  "partes": 0,
+  "testemunhas": 0,
+  "elos_cadeia": 0
+ }
+}
