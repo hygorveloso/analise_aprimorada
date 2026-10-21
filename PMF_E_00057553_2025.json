@@ -1,0 +1,362 @@
+{
+ "versao_checklist": "v2",
+ "gerado_em": "2026-10-21",
+ "processo": {
+  "numero": "PMF E 00057553/2025",
+  "protocolo": "12/03/2025 14:37",
+  "origem": "SMG/ADJ/SADC/PRO/DPC/RTAVARES - SMG/ADJ/SADC/PRO/DPC/Rio Tavares",
+  "formulario": "3NEURON INTERNO",
+  "classificacao": "40.1746"
+ },
+ "solicitante": {
+  "cpf": "003.346.029-98",
+  "nome": "VALDEZIA GLÓRIA VIGANIGO"
+ },
+ "requerente": {
+  "cpf": "003.346.029-98",
+  "nome": "VALDEZIA GLÓRIA VIGANIGO"
+ },
+ "inscricoes": [
+  {
+   "inscricao": "67.15.055.1499.001.706",
+   "cod_imovel": "",
+   "logradouro": "Joao Tomaz, 109 — Campeche"
+  }
+ ],
+ "arquivos": [
+  {
+   "n": 1,
+   "nome": "1_folha_líder.pdf",
+   "conteudo": "Folha Líder",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 2,
+   "nome": "2_formulário_de_cadastro.pdf",
+   "conteudo": "Formulário do sistema",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 3,
+   "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+   "conteudo": "RG/CPF/CNPJ do adquirente (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Inscrição imobiliária: carnê ou certidão cadastral (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 5,
+   "nome": "5_contrato_social_do_adquirente,_caso_cnpj.pdf",
+   "conteudo": "Campo \"contrato social do adquirente\" (não aberto; pode ter outro conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 6,
+   "nome": "6_procuração_-_representante_legal.pdf",
+   "conteudo": "Procuração do representante legal (não aberta)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 7,
+   "nome": "7_parecer_da_análise_de_admissão_do_processo.pdf",
+   "conteudo": "Parecer de admissão do processo (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 8,
+   "nome": "8_parecer_do_analista.pdf",
+   "conteudo": "Parecer anterior do analista: Devolver processo ao solicitante (documentos em desconformidade). Pedidos: Contrato de Compra e Venda, digitalizado por inteiro (todas as páginas), em arquivo único e continuo (página 01, página 02, | Termo de Quitação, digitalizado por inteiro de forma legível, devendo conter o selo de autenticidad",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 9,
+   "nome": "9_criação_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 10,
+   "nome": "10_finalização_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 11,
+   "nome": "11_doc03251720250813133308.pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 12,
+   "nome": "12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf",
+   "conteudo": "Espelho cadastral (Betha) (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 13,
+   "nome": "13_doc04315120251217095229.pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 14,
+   "nome": "14_camscanner_04-11-2025_17.20_(1).pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  }
+ ],
+ "partes": [],
+ "declaracao": {
+  "adquirentes": [],
+  "transmitentes": [],
+  "data_posse": "",
+  "data_escrita": "",
+  "assinatura": "Declaração não analisada"
+ },
+ "titulares_betha": [],
+ "cadeia": [],
+ "decisao_sugerida": "",
+ "linhas": {
+  "1A.1": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário [3NEURON INTERNO].",
+   "pendencia": ""
+  },
+  "1A.2": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1",
+   "obs": "Classificação 40.1746.",
+   "pendencia": ""
+  },
+  "1A.3": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "",
+   "pendencia": ""
+  },
+  "1A.4": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "003.346.029-98 válido.",
+   "pendencia": ""
+  },
+  "1A.5": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "67.15.055.1499.001.706",
+   "pendencia": ""
+  },
+  "1A.6": {
+   "resultado": "na",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante = requerente.",
+   "pendencia": ""
+  },
+  "1B.I": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.RT": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.II": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.III": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.IV": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.V": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VI": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VIII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.IX": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.AF": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Anexos adicionais a conferir. Parecer anterior: Devolver processo ao solicitante (documentos em desconformidade). Pedidos: Contrato de Compra e Venda, digitalizado por inteiro (todas as páginas), em arquivo único e continuo (página 01, página 02, | Termo de Quitação, digitalizado por inteiro de forma legível, devendo conter o selo de autenticidade do cartório, reconhecendo | Atestato de óbito. Atenciosamente,",
+   "pendencia": ""
+  },
+  "3.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.6": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.7": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.8": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.9": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.10": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 4 anexo(s) além dos documentos iniciais (11_doc03251720250813133308.pdf; 12_[pmf]_espelho_cadastral_de_imóveis_-_fins_gerais_(1).pdf; 13_doc04315120251217095229.pdf; 14_camscanner_04-11-2025_17.20_(1).pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  }
+ },
+ "complexidade": {
+  "arquivos": 14,
+  "paginas": null,
+  "paginas_imagem": null,
+  "inscricoes": 1,
+  "partes": 0,
+  "testemunhas": 0,
+  "elos_cadeia": 0
+ },
+ "_triagem": {
+  "anexos_extras": 4,
+  "nivel": "triagem automática; conteúdo dos anexos não lido"
+ }
+}
