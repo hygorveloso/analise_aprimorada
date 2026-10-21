@@ -1,0 +1,327 @@
+{
+ "versao_checklist": "v2",
+ "gerado_em": "2026-10-21",
+ "processo": {
+  "numero": "PMF E 00079751/2025",
+  "protocolo": "07/04/2025 12:53",
+  "origem": "PORTAL - Portal Externo da PMF",
+  "formulario": "3NEURON EXTERNO",
+  "classificacao": "40.1746"
+ },
+ "solicitante": {
+  "cpf": "853.553.809-72",
+  "nome": "RICARDO MAY"
+ },
+ "requerente": {
+  "cpf": "13.238.802/0001-86",
+  "nome": "IRMAOS OLIVEIRA BAR RESTAURANTE LTDA - ME"
+ },
+ "inscricoes": [
+  {
+   "inscricao": "53.42.096.0141.001.723",
+   "cod_imovel": "",
+   "logradouro": "Manoel Severino De Oliveira, 100 — Lagoa Da"
+  }
+ ],
+ "arquivos": [
+  {
+   "n": 1,
+   "nome": "1_folha_líder.pdf",
+   "conteudo": "Folha Líder",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 2,
+   "nome": "2_formulário_de_cadastro.pdf",
+   "conteudo": "Formulário do sistema",
+   "paginas": 2,
+   "imagem": false
+  },
+  {
+   "n": 3,
+   "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+   "conteudo": "RG/CPF/CNPJ do adquirente (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Inscrição imobiliária: carnê ou certidão cadastral (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 5,
+   "nome": "5_contrato_social_do_adquirente,_caso_cnpj.pdf",
+   "conteudo": "Campo \"contrato social do adquirente\" (não aberto; pode ter outro conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 6,
+   "nome": "6_procuração_-_representante_legal.pdf",
+   "conteudo": "Procuração do representante legal (não aberta)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 7,
+   "nome": "7_rg,_cpf_ou_cnpj_procurador_representante.pdf",
+   "conteudo": "RG/CPF do procurador/representante (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 8,
+   "nome": "8_parecer_da_análise_de_admissão_do_processo.pdf",
+   "conteudo": "Parecer de admissão do processo (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 9,
+   "nome": "9_parecer_do_analista.pdf",
+   "conteudo": "Parecer anterior do analista",
+   "paginas": "—",
+   "imagem": false
+  }
+ ],
+ "partes": [],
+ "declaracao": {
+  "adquirentes": [],
+  "transmitentes": [],
+  "data_posse": "",
+  "data_escrita": "",
+  "assinatura": "Declaração não analisada"
+ },
+ "titulares_betha": [],
+ "cadeia": [],
+ "decisao_sugerida": "pendencia",
+ "linhas": {
+  "1A.1": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário [3NEURON EXTERNO].",
+   "pendencia": ""
+  },
+  "1A.2": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1",
+   "obs": "Classificação 40.1746.",
+   "pendencia": ""
+  },
+  "1A.3": {
+   "resultado": "sinalizado",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Interessado da Folha Líder (IRMAOS OLIVEIRA BAR RESTAURANTE LTDA - ME) ≠ solicitante (RICARDO MAY).",
+   "pendencia": ""
+  },
+  "1A.4": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante 853.553.809-72 e requerente 13.238.802/0001-86: válidos.",
+   "pendencia": ""
+  },
+  "1A.5": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "53.42.096.0141.001.723",
+   "pendencia": ""
+  },
+  "1A.6": {
+   "resultado": "sinalizado",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante (RICARDO MAY, 853.553.809-72) ≠ requerente (IRMAOS OLIVEIRA BAR RESTAURANTE LTDA - ME, 13.238.802/0001-86): gatilho de representação. Há arquivo de procuração nos autos (conferir).",
+   "pendencia": ""
+  },
+  "1B.I": {
+   "resultado": "pendencia",
+   "evidencia": "",
+   "obs": "A Declaração para Alteração de Titularidade (imóvel sem matrícula) não está nos autos.",
+   "pendencia": "Anexar a Declaração para Alteração de Titularidade – Imóvel Sem Matrícula, preenchida e assinada."
+  },
+  "1B.RT": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.II": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.III": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.IV": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.V": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.VI": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.VII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.VIII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.IX": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.AF": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "1B.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "3.1": {
+   "resultado": "pendencia",
+   "evidencia": "arquivos 1–9",
+   "obs": "Nenhum arquivo com cara de contrato de compra e venda nos autos. O arquivo 5 (campo \"contrato social do adquirente\") não foi aberto; em outros processos esse campo veio com contrato, recibo ou fatura.",
+   "pendencia": "Anexar o contrato de compra e venda (ou escritura de posse/doação/permuta) completo, com selo de autenticidade e reconhecimento de firma das partes."
+  },
+  "3.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "3.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "3.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "3.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "3.6": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "3.7": {
+   "resultado": "pendencia",
+   "evidencia": "",
+   "obs": "Não há termo de quitação nem contrato com quitação nos autos.",
+   "pendencia": "Anexar o termo de quitação com firma reconhecida do vendedor."
+  },
+  "3.8": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "3.9": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "3.10": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "4.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "4.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  },
+  "4.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Declaração/contrato não anexados.",
+   "pendencia": ""
+  }
+ },
+ "complexidade": {
+  "arquivos": 9,
+  "paginas": null,
+  "paginas_imagem": null,
+  "inscricoes": 1,
+  "partes": 0,
+  "testemunhas": 0,
+  "elos_cadeia": 0
+ },
+ "_triagem": {
+  "anexos_extras": 0,
+  "nivel": "documentos iniciais (pendência por falta)"
+ }
+}
