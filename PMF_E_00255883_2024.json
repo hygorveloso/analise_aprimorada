@@ -1,0 +1,327 @@
+{
+ "versao_checklist": "v2",
+ "gerado_em": "2026-10-21",
+ "processo": {
+  "numero": "PMF E 00255883/2024",
+  "protocolo": "12/12/2024 10:27",
+  "origem": "SMG/ADJ/SADC/PRO/DPC/INGLESES - SMG/ADJ/SADC/PRO/DPC/Ingleses",
+  "formulario": "3NEURON INTERNO",
+  "classificacao": "40.1746"
+ },
+ "solicitante": {
+  "cpf": "036.868.479-22",
+  "nome": "juliano cesar carraro"
+ },
+ "requerente": {
+  "cpf": "036.868.479-22",
+  "nome": "juliano cesar carraro"
+ },
+ "inscricoes": [
+  {
+   "inscricao": "24.93.015.1417.001.099",
+   "cod_imovel": "",
+   "logradouro": "Dos Saguis, 83 — Ingleses"
+  }
+ ],
+ "arquivos": [
+  {
+   "n": 1,
+   "nome": "1_folha_líder.pdf",
+   "conteudo": "Folha Líder",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 2,
+   "nome": "2_formulário_de_cadastro.pdf",
+   "conteudo": "Formulário do sistema",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 3,
+   "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+   "conteudo": "RG/CPF/CNPJ do adquirente (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Inscrição imobiliária: carnê ou certidão cadastral (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 5,
+   "nome": "5_parecer_da_análise_de_admissão_do_processo.pdf",
+   "conteudo": "Parecer de admissão do processo (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 6,
+   "nome": "6_parecer_do_analista.pdf",
+   "conteudo": "Parecer anterior do analista",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 7,
+   "nome": "7_criação_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 8,
+   "nome": "8_finalização_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 9,
+   "nome": "9_doc04615120251106141726.pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  }
+ ],
+ "partes": [],
+ "declaracao": {
+  "adquirentes": [],
+  "transmitentes": [],
+  "data_posse": "",
+  "data_escrita": "",
+  "assinatura": "Declaração não analisada"
+ },
+ "titulares_betha": [],
+ "cadeia": [],
+ "decisao_sugerida": "",
+ "linhas": {
+  "1A.1": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário [3NEURON INTERNO].",
+   "pendencia": ""
+  },
+  "1A.2": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1",
+   "obs": "Classificação 40.1746.",
+   "pendencia": ""
+  },
+  "1A.3": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário interno sem solicitante preenchido; comparado com o requerente.",
+   "pendencia": ""
+  },
+  "1A.4": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "036.868.479-22 válido. Solicitante não preenchido (formulário interno).",
+   "pendencia": ""
+  },
+  "1A.5": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "24.93.015.1417.001.099",
+   "pendencia": ""
+  },
+  "1A.6": {
+   "resultado": "na",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante = requerente.",
+   "pendencia": ""
+  },
+  "1B.I": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.RT": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.II": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.III": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.IV": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.V": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VI": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VIII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.IX": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.AF": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.6": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.7": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.8": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.9": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.10": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 1 anexo(s) além dos documentos iniciais (9_doc04615120251106141726.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  }
+ },
+ "complexidade": {
+  "arquivos": 9,
+  "paginas": null,
+  "paginas_imagem": null,
+  "inscricoes": 1,
+  "partes": 0,
+  "testemunhas": 0,
+  "elos_cadeia": 0
+ },
+ "_triagem": {
+  "anexos_extras": 1,
+  "nivel": "triagem automática; conteúdo dos anexos não lido"
+ }
+}
