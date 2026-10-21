@@ -24,7 +24,7 @@ def carregar(pasta: Path):
 def ordem(d):
     # mais simples primeiro (menos partes e elos); empate pelo numero do processo
     c = d.get("complexidade", {})
-    return (c.get("partes", 0) + c.get("elos_cadeia", 0), c.get("paginas", 0), d["processo"]["numero"])
+    return (c.get("partes", 0) + c.get("elos_cadeia", 0), (c.get("paginas") or 0), d["processo"]["numero"])
 
 
 def main():

@@ -1,0 +1,1 @@
+# Processos concluídos - um por linha. Tudo depois de # é comentário.
