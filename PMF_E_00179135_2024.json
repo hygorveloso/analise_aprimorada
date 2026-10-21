@@ -1,0 +1,460 @@
+{
+ "versao_checklist": "v2",
+ "gerado_em": "2026-10-21",
+ "processo": {
+  "numero": "PMF E 00179135/2024",
+  "protocolo": "16/08/2024 09:59",
+  "origem": "PORTAL - Portal Externo da PMF",
+  "formulario": "3NEURON EXTERNO",
+  "classificacao": "40.1746"
+ },
+ "solicitante": {
+  "cpf": "032.519.628-17",
+  "nome": "Stélio Maria Granucci"
+ },
+ "requerente": {
+  "cpf": "032.519.628-17",
+  "nome": "Stélio Maria Granucci"
+ },
+ "inscricoes": [
+  {
+   "inscricao": "52.63.052.0874.001.592",
+   "cod_imovel": "",
+   "logradouro": "Silva Jardim, SN — José Mendes"
+  }
+ ],
+ "arquivos": [
+  {
+   "n": 1,
+   "nome": "1_folha_líder.pdf",
+   "conteudo": "Folha Líder",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 2,
+   "nome": "2_formulário_de_cadastro.pdf",
+   "conteudo": "Formulário do sistema",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 3,
+   "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+   "conteudo": "RG/CPF/CNPJ do adquirente (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Inscrição imobiliária: carnê ou certidão cadastral (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 5,
+   "nome": "5_finalização_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 6,
+   "nome": "6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf",
+   "conteudo": "Possível cessão de direitos (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 7,
+   "nome": "7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 8,
+   "nome": "8_camscanner_16-08-2024_10.21.pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 9,
+   "nome": "9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf",
+   "conteudo": "Possível cessão de direitos (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 10,
+   "nome": "10_camscanner_16-08-2024_10.24.pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 11,
+   "nome": "11_parecer_da_análise_de_admissão_do_processo.pdf",
+   "conteudo": "Parecer de admissão do processo (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 12,
+   "nome": "12_parecer_do_analista.pdf",
+   "conteudo": "Parecer anterior do analista",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 13,
+   "nome": "13_criação_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 14,
+   "nome": "14_finalização_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 15,
+   "nome": "15_179135-2024.pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 16,
+   "nome": "16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf",
+   "conteudo": "Possível declaração/requerimento de titularidade (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 17,
+   "nome": "17_finalização_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 18,
+   "nome": "18_demonstrativo_de_débitos_cda_(1).pdf",
+   "conteudo": "Anexo adicional (conteúdo não aberto; conferir)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 19,
+   "nome": "19_parecer_do_analista.pdf",
+   "conteudo": "Parecer anterior do analista",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 20,
+   "nome": "20_anexo_pendente.pdf",
+   "conteudo": "Anexo pendente (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 21,
+   "nome": "21_anexo_pendente.pdf",
+   "conteudo": "Anexo pendente (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 22,
+   "nome": "22_anexo_pendente.pdf",
+   "conteudo": "Anexo pendente (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 23,
+   "nome": "23_anexo_pendente.pdf",
+   "conteudo": "Anexo pendente (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 24,
+   "nome": "24_criação_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 25,
+   "nome": "25_1.1_rg_e_cpf_caroline_castro_cabral_(conjuge_fernando).pdf",
+   "conteudo": "Possível documento de identificação (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 26,
+   "nome": "26_cessão_de_direitos_-_02.01.2006.pdf",
+   "conteudo": "Possível cessão de direitos (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 27,
+   "nome": "27_procuracao_pmf_assinado.pdf",
+   "conteudo": "Possível procuração (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 28,
+   "nome": "28_rg_cpf.pdf",
+   "conteudo": "Possível documento de identificação (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  }
+ ],
+ "partes": [],
+ "declaracao": {
+  "adquirentes": [],
+  "transmitentes": [],
+  "data_posse": "",
+  "data_escrita": "",
+  "assinatura": "Declaração não analisada"
+ },
+ "titulares_betha": [],
+ "cadeia": [],
+ "decisao_sugerida": "",
+ "linhas": {
+  "1A.1": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário [3NEURON EXTERNO].",
+   "pendencia": ""
+  },
+  "1A.2": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1",
+   "obs": "Classificação 40.1746.",
+   "pendencia": ""
+  },
+  "1A.3": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "",
+   "pendencia": ""
+  },
+  "1A.4": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "032.519.628-17 válido.",
+   "pendencia": ""
+  },
+  "1A.5": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "52.63.052.0874.001.592",
+   "pendencia": ""
+  },
+  "1A.6": {
+   "resultado": "na",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante = requerente.",
+   "pendencia": ""
+  },
+  "1B.I": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.RT": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.II": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.III": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.IV": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.V": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VI": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VIII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.IX": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.AF": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.6": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.7": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.8": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.9": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.10": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 12 anexo(s) além dos documentos iniciais (6_cessa¿o_de_direitos_de_posse_2006_-_imo¿vel_costeira.pdf; 7_edea764e-99c5-4c66-bd50-04b8551decb9.pdf; 8_camscanner_16-08-2024_10.21.pdf; 9_cessa¿o_de_direitos_de_posse_-_terreno_costeira.pdf; 10_camscanner_16-08-2024_10.24.pdf; 15_179135-2024.pdf; 16_processo_179135-2024_(alteração_de_titularidade)_indeferido_-_parecer.pdf; 18_demonstrativo_de_débitos_cda_(1).pdf …). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  }
+ },
+ "complexidade": {
+  "arquivos": 28,
+  "paginas": null,
+  "paginas_imagem": null,
+  "inscricoes": 1,
+  "partes": 0,
+  "testemunhas": 0,
+  "elos_cadeia": 0
+ },
+ "_triagem": {
+  "anexos_extras": 12,
+  "nivel": "triagem automática; conteúdo dos anexos não lido"
+ }
+}

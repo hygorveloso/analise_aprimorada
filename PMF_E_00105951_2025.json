@@ -1,0 +1,362 @@
+{
+ "versao_checklist": "v2",
+ "gerado_em": "2026-10-21",
+ "processo": {
+  "numero": "PMF E 00105951/2025",
+  "protocolo": "13/05/2025 11:09",
+  "origem": "PORTAL - Portal Externo da PMF",
+  "formulario": "3NE",
+  "classificacao": "40.1746"
+ },
+ "solicitante": {
+  "cpf": "860.522.929-20",
+  "nome": "EDNA MAURILDA DOS SANTOS CARDOSO"
+ },
+ "requerente": {
+  "cpf": "416.421.559-34",
+  "nome": "Moises Jose Meira"
+ },
+ "inscricoes": [
+  {
+   "inscricao": "23.94.069.2535.001.456",
+   "cod_imovel": "",
+   "logradouro": "Sabia Laranjeira, 12 — Vargem Grande"
+  }
+ ],
+ "arquivos": [
+  {
+   "n": 1,
+   "nome": "1_folha_líder.pdf",
+   "conteudo": "Folha Líder",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 2,
+   "nome": "2_formulário_de_cadastro.pdf",
+   "conteudo": "Formulário do sistema",
+   "paginas": 1,
+   "imagem": false
+  },
+  {
+   "n": 3,
+   "nome": "3_rg,_cpf_ou_cnpj_do_adquirente.pdf",
+   "conteudo": "RG/CPF/CNPJ do adquirente (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 4,
+   "nome": "4_inscrição_imobiliária.pdf",
+   "conteudo": "Inscrição imobiliária: carnê ou certidão cadastral (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 5,
+   "nome": "5_procuração_-_representante_legal.pdf",
+   "conteudo": "Procuração do representante legal (não aberta)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 6,
+   "nome": "6_rg,_cpf_ou_cnpj_procurador_representante.pdf",
+   "conteudo": "RG/CPF do procurador/representante (não aberto)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 7,
+   "nome": "7_parecer_da_análise_de_admissão_do_processo.pdf",
+   "conteudo": "Parecer de admissão do processo (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 8,
+   "nome": "8_parecer_do_analista.pdf",
+   "conteudo": "Parecer anterior do analista",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 9,
+   "nome": "9_finalização_da_tarefa.pdf",
+   "conteudo": "Registro de tarefa (sistema)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 10,
+   "nome": "10_rg_moises_jose_meira.pdf",
+   "conteudo": "Possível documento de identificação (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 11,
+   "nome": "11_procuração_pmf_-_moises_e_paula_iria.pdf",
+   "conteudo": "Possível procuração (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 12,
+   "nome": "12_cnh_e_oab_edna_m_s_cardoso.pdf",
+   "conteudo": "Possível documento de identificação (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 13,
+   "nome": "13_comprovante_de_residência_moises_jose_meira.pdf",
+   "conteudo": "Possível comprovante de residência (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  },
+  {
+   "n": 14,
+   "nome": "14_termo_part_de_quitação_-_moises_jose_meira.pdf",
+   "conteudo": "Possível termo/recibo de quitação (conferir; nome de arquivo pode não refletir o conteúdo)",
+   "paginas": "—",
+   "imagem": false
+  }
+ ],
+ "partes": [],
+ "declaracao": {
+  "adquirentes": [],
+  "transmitentes": [],
+  "data_posse": "",
+  "data_escrita": "",
+  "assinatura": "Declaração não analisada"
+ },
+ "titulares_betha": [],
+ "cadeia": [],
+ "decisao_sugerida": "",
+ "linhas": {
+  "1A.1": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Formulário [3NE].",
+   "pendencia": ""
+  },
+  "1A.2": {
+   "resultado": "ok",
+   "evidencia": "1_folha_líder p.1",
+   "obs": "Classificação 40.1746.",
+   "pendencia": ""
+  },
+  "1A.3": {
+   "resultado": "sinalizado",
+   "evidencia": "1_folha_líder p.1; 2_formulário p.1",
+   "obs": "Interessado da Folha Líder (Moises Jose Meira) ≠ solicitante (EDNA MAURILDA DOS SANTOS CARDOSO).",
+   "pendencia": ""
+  },
+  "1A.4": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante 860.522.929-20 e requerente 416.421.559-34: válidos.",
+   "pendencia": ""
+  },
+  "1A.5": {
+   "resultado": "ok",
+   "evidencia": "2_formulário p.1",
+   "obs": "23.94.069.2535.001.456",
+   "pendencia": ""
+  },
+  "1A.6": {
+   "resultado": "sinalizado",
+   "evidencia": "2_formulário p.1",
+   "obs": "Solicitante (EDNA MAURILDA DOS SANTOS CARDOSO, 860.522.929-20) ≠ requerente (Moises Jose Meira, 416.421.559-34): gatilho de representação. Há arquivo de procuração nos autos (conferir).",
+   "pendencia": ""
+  },
+  "1B.I": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.RT": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.II": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.III": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.IV": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.V": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VI": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.VIII": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.IX": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.AF": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "1B.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.4": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.5": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.6": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.7": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.8": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.9": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "3.10": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.1": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.2": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  },
+  "4.3": {
+   "resultado": "nao_avaliado",
+   "evidencia": "",
+   "obs": "Há 5 anexo(s) além dos documentos iniciais (10_rg_moises_jose_meira.pdf; 11_procuração_pmf_-_moises_e_paula_iria.pdf; 12_cnh_e_oab_edna_m_s_cardoso.pdf; 13_comprovante_de_residência_moises_jose_meira.pdf; 14_termo_part_de_quitação_-_moises_jose_meira.pdf). A análise de conteúdo cabe ao analista.",
+   "pendencia": ""
+  }
+ },
+ "complexidade": {
+  "arquivos": 14,
+  "paginas": null,
+  "paginas_imagem": null,
+  "inscricoes": 1,
+  "partes": 0,
+  "testemunhas": 0,
+  "elos_cadeia": 0
+ },
+ "_triagem": {
+  "anexos_extras": 5,
+  "nivel": "triagem automática; conteúdo dos anexos não lido"
+ }
+}
